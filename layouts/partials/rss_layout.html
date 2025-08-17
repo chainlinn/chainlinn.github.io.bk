@@ -86,6 +86,7 @@
 
 {{/* 3. 图片 Lightbox 查看器的 HTML 结构 */}}
 <div id="image-lightbox" class="lightbox-overlay">
+    <div class="lightbox-backdrop"></div>
     <div class="lightbox-content">
         <img id="lightbox-image" src="" alt="放大的图片">
     </div>
@@ -152,11 +153,17 @@ document.addEventListener('DOMContentLoaded', function () {
         resetImageTransform();
         lightbox.classList.add('is-visible');
         document.body.style.overflow = 'hidden';
+        // 阻止页面滚动和其他交互
+        document.body.style.position = 'fixed';
+        document.body.style.width = '100%';
     }
 
     function closeLightbox() {
         lightbox.classList.remove('is-visible');
         document.body.style.overflow = '';
+        // 恢复页面滚动
+        document.body.style.position = '';
+        document.body.style.width = '';
     }
 
     function resetImageTransform() {
@@ -181,7 +188,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function handleTouchStart(e) {
         if (e.target === lightboxCloseBtn) return;
+        // 完全阻止事件冒泡和默认行为
         e.preventDefault();
+        e.stopPropagation();
+        e.stopImmediatePropagation();
         
         isGesturing = true;
         lightboxImage.classList.add('is-gesturing');
@@ -200,7 +210,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function handleTouchMove(e) {
         if (!isGesturing) return;
+        // 完全阻止事件冒泡和默认行为
         e.preventDefault();
+        e.stopPropagation();
+        e.stopImmediatePropagation();
 
         if (e.touches.length === 2 && initialPinchDistance > 0) { // 双指缩放
             const currentPinchDistance = getPinchDistance(e.touches);
@@ -233,6 +246,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function handleTouchEnd(e) {
+        // 阻止事件冒泡
+        e.stopPropagation();
+        e.stopImmediatePropagation();
+        
         if (e.touches.length === 0) {
             isGesturing = false;
             isDragging = false;
@@ -249,6 +266,9 @@ document.addEventListener('DOMContentLoaded', function () {
     function handleMouseDown(e) {
         if (e.target !== lightboxImage) return;
         e.preventDefault();
+        e.stopPropagation();
+        e.stopImmediatePropagation();
+        
         isDragging = true;
         startPos = { x: e.clientX - currentTranslate.x, y: e.clientY - currentTranslate.y };
         lightboxImage.style.cursor = 'grabbing';
@@ -257,13 +277,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function handleMouseMove(e) {
         if (!isDragging) return;
+        e.stopPropagation();
+        
         currentTranslate.x = e.clientX - startPos.x;
         currentTranslate.y = e.clientY - startPos.y;
         applyTransform();
     }
 
-    function handleMouseUp() {
+    function handleMouseUp(e) {
         if (!isDragging) return;
+        e.stopPropagation();
+        
         isDragging = false;
         lightboxImage.style.cursor = 'grab';
         lightboxImage.classList.remove('is-gesturing');
@@ -271,6 +295,9 @@ document.addEventListener('DOMContentLoaded', function () {
     
     function handleWheel(e) {
         e.preventDefault();
+        e.stopPropagation();
+        e.stopImmediatePropagation();
+        
         lightboxImage.classList.add('is-gesturing');
         const scaleAmount = e.deltaY > 0 ? -0.1 : 0.1;
         const newScale = Math.min(Math.max(0.5, scale + scaleAmount), 5);
@@ -297,22 +324,42 @@ document.addEventListener('DOMContentLoaded', function () {
     // --- 事件监听器绑定 ---
     detailBody.addEventListener('click', e => {
         if (e.target.tagName === 'IMG' && !e.target.classList.contains('image-error')) {
+            e.preventDefault();
+            e.stopPropagation();
             openLightbox(e.target.src);
         }
     });
 
-    lightboxCloseBtn.addEventListener('click', closeLightbox);
-    lightbox.addEventListener('click', e => { if (e.target === lightbox) closeLightbox(); });
-    document.addEventListener('keydown', e => { if (e.key === 'Escape' && lightbox.classList.contains('is-visible')) closeLightbox(); });
+    lightboxCloseBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        closeLightbox();
+    });
+    
+    // 点击背景关闭，但点击图片不关闭
+    lightbox.addEventListener('click', e => {
+        if (e.target === lightbox || e.target.classList.contains('lightbox-backdrop')) {
+            e.stopPropagation();
+            closeLightbox();
+        }
+    });
+    
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && lightbox.classList.contains('is-visible')) {
+            e.preventDefault();
+            e.stopPropagation();
+            closeLightbox();
+        }
+    });
 
-    lightbox.addEventListener('touchstart', handleTouchStart, { passive: false });
-    lightbox.addEventListener('touchmove', handleTouchMove, { passive: false });
-    lightbox.addEventListener('touchend', handleTouchEnd);
+    // 使用 capture: true 确保在最外层捕获所有事件
+    lightbox.addEventListener('touchstart', handleTouchStart, { passive: false, capture: true });
+    lightbox.addEventListener('touchmove', handleTouchMove, { passive: false, capture: true });
+    lightbox.addEventListener('touchend', handleTouchEnd, { capture: true });
 
-    lightbox.addEventListener('mousedown', handleMouseDown);
-    window.addEventListener('mousemove', handleMouseMove);
-    window.addEventListener('mouseup', handleMouseUp);
-    lightbox.addEventListener('wheel', handleWheel, { passive: false });
+    lightbox.addEventListener('mousedown', handleMouseDown, { capture: true });
+    window.addEventListener('mousemove', handleMouseMove, { capture: true });
+    window.addEventListener('mouseup', handleMouseUp, { capture: true });
+    lightbox.addEventListener('wheel', handleWheel, { passive: false, capture: true });
     // --- 结束：图片灯箱 (Lightbox) 功能 ---
 });
 </script>
@@ -365,11 +412,12 @@ document.addEventListener('DOMContentLoaded', function () {
     .detail-body-content pre code.hljs { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Consolas', 'Courier New', monospace; font-size: 0.9em; line-height: 1.6; background: none !important; padding: 0 !important; }
     .lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.85); display: flex; align-items: center; justify-content: center; z-index: 2000; opacity: 0; visibility: hidden; transition: opacity 0.3s ease, visibility 0s 0.3s linear; touch-action: none; }
     .lightbox-overlay.is-visible { opacity: 1; visibility: visible; transition: opacity 0.3s ease; }
-    .lightbox-content { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden; }
-    #lightbox-image { max-width: 95%; max-height: 95%; transition: transform 0.2s cubic-bezier(0.25, 0.1, 0.25, 1); cursor: grab; user-select: none; transform-origin: center center; }
+    .lightbox-backdrop { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: transparent; z-index: -1; }
+    .lightbox-content { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden; pointer-events: none; }
+    #lightbox-image { max-width: 95%; max-height: 95%; transition: transform 0.2s cubic-bezier(0.25, 0.1, 0.25, 1); cursor: grab; user-select: none; transform-origin: center center; pointer-events: all; }
     /* 当用户手指正在操作图片时，禁用过渡，实现实时响应 */
     #lightbox-image.is-gesturing { transition: none; }
     #lightbox-image:active { cursor: grabbing; }
-    .lightbox-close-btn { position: absolute; top: 20px; right: 20px; background: none; border: none; font-size: 2.5rem; color: rgba(255, 255, 255, 0.8); cursor: pointer; transition: color 0.2s ease, transform 0.2s ease; }
+    .lightbox-close-btn { position: absolute; top: 20px; right: 20px; background: none; border: none; font-size: 2.5rem; color: rgba(255, 255, 255, 0.8); cursor: pointer; transition: color 0.2s ease, transform 0.2s ease; z-index: 10; pointer-events: all; }
     .lightbox-close-btn:hover { color: #fff; transform: scale(1.1); }
 </style>
