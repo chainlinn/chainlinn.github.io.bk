@@ -7,6 +7,7 @@
     - [最终修复版] 通过精确的高度动画管理，彻底根除视图切换时的布局跳动和滚动条闪现bug。
     - [最终修复版] 修复了滚动加载功能，并确保所有功能正常工作。
     - [最终修复版] 图片查看器实现原生相册级的平滑、跟手缩放和拖动体验。
+    - [双指缩放修复版] 修复移动端双指缩放时图像向上飞的bug。
     - 页面全程仅使用浏览器主滚动条，任何内部元素都绝不产生自己的滚动条。
 */}}
 
@@ -134,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let hljsPromise=null;function loadHljs(){if(!hljsPromise){hljsPromise=new Promise((resolve,reject)=>{if(window.hljs){return resolve(window.hljs)}const style=document.createElement('link');style.rel='stylesheet';style.href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/vs2015.min.css';document.head.appendChild(style);const script=document.createElement('script');script.src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js';script.onload=()=>resolve(window.hljs);script.onerror=reject;document.head.appendChild(script)})}return hljsPromise}
     function enhanceCodeBlock(preElement){if(preElement.parentElement.classList.contains('code-block-wrapper'))return;const codeElement=preElement.querySelector('code');const wrapper=document.createElement('div');wrapper.className='code-block-wrapper';const header=document.createElement('div');header.className='code-block-header';const langMatch=codeElement.className.match(/language-(\S+)/);const langName=document.createElement('span');langName.className='language-name';langName.textContent=langMatch?langMatch[1]:'';const copyButton=document.createElement('button');copyButton.className='copy-code-button';const copyIconSVG=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;const checkIconSVG=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;copyButton.innerHTML=`<span class="copy-icon">${copyIconSVG}</span><span class="copy-text">复制</span>`;copyButton.addEventListener('click',()=>{navigator.clipboard.writeText(codeElement.innerText).then(()=>{copyButton.innerHTML=`<span class="copy-icon">${checkIconSVG}</span><span class="copy-text">已复制!</span>`;copyButton.classList.add('copied');setTimeout(()=>{copyButton.innerHTML=`<span class="copy-icon">${copyIconSVG}</span><span class="copy-text">复制</span>`;copyButton.classList.remove('copied')},2000)})});header.appendChild(langName);header.appendChild(copyButton);preElement.parentNode.insertBefore(wrapper,preElement);wrapper.appendChild(header);wrapper.appendChild(preElement)}
 
-    // --- 开始：图片灯箱 (Lightbox) 功能 [相册级体验优化版] ---
+    // --- 开始：图片灯箱 (Lightbox) 功能 [双指缩放修复版] ---
     const lightbox = document.getElementById('image-lightbox');
     const lightboxImage = document.getElementById('lightbox-image');
     const lightboxCloseBtn = document.getElementById('lightbox-close');
@@ -144,6 +145,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let startPos = { x: 0, y: 0 };
     let isDragging = false, isGesturing = false;
     let initialPinchDistance = 0;
+    let pinchCenter = { x: 0, y: 0 };
     
     function openLightbox(src) {
         lightboxImage.setAttribute('src', src);
@@ -160,6 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function resetImageTransform() {
         scale = 1; lastScale = 1;
         currentTranslate = { x: 0, y: 0 };
+        startTranslate = { x: 0, y: 0 };
         lightboxImage.classList.remove('is-gesturing');
         applyTransform();
     }
@@ -168,9 +171,13 @@ document.addEventListener('DOMContentLoaded', function () {
         lightboxImage.style.transform = `translate(${currentTranslate.x}px, ${currentTranslate.y}px) scale(${scale})`;
     }
 
-    // --- 触摸事件处理 (核心优化区) ---
-    function getPinchDistance(touches) { return Math.hypot(touches[0].pageX - touches[1].pageX, touches[0].pageY - touches[1].pageY); }
-    function getPinchCenter(touches) { return { x: (touches[0].pageX + touches[1].pageX) / 2, y: (touches[0].pageY + touches[1].pageY) / 2 }; }
+    // --- 修复后的触摸事件处理 (核心优化区) ---
+    function getPinchDistance(touches) { 
+        return Math.hypot(touches[0].clientX - touches[1].clientX, touches[0].clientY - touches[1].clientY); 
+    }
+    function getPinchCenter(touches) { 
+        return { x: (touches[0].clientX + touches[1].clientX) / 2, y: (touches[0].clientY + touches[1].clientY) / 2 }; 
+    }
 
     function handleTouchStart(e) {
         if (e.target === lightboxCloseBtn) return;
@@ -182,6 +189,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (e.touches.length === 2) { // 双指
             isDragging = false;
             initialPinchDistance = getPinchDistance(e.touches);
+            pinchCenter = getPinchCenter(e.touches);
             lastScale = scale;
             startTranslate = { ...currentTranslate };
         } else if (e.touches.length === 1) { // 单指
@@ -196,13 +204,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (e.touches.length === 2 && initialPinchDistance > 0) { // 双指缩放
             const currentPinchDistance = getPinchDistance(e.touches);
+            const currentPinchCenter = getPinchCenter(e.touches);
             const scaleRatio = currentPinchDistance / initialPinchDistance;
             const newScale = lastScale * scaleRatio;
             scale = Math.max(0.5, Math.min(newScale, 5)); // 限制缩放
 
-            const pinchCenter = getPinchCenter(e.touches);
-            currentTranslate.x = pinchCenter.x - (scale / lastScale) * (pinchCenter.x - startTranslate.x);
-            currentTranslate.y = pinchCenter.y - (scale / lastScale) * (pinchCenter.y - startTranslate.y);
+            // 修复缩放中心计算，防止图像位置跳跃
+            const imgRect = lightboxImage.getBoundingClientRect();
+            const imgCenterX = imgRect.left + imgRect.width / 2;
+            const imgCenterY = imgRect.top + imgRect.height / 2;
+            
+            // 计算缩放中心相对于图片中心的偏移
+            const centerOffsetX = pinchCenter.x - imgCenterX;
+            const centerOffsetY = pinchCenter.y - imgCenterY;
+            
+            // 根据缩放比例调整位置，保持缩放中心不变
+            const scaleDiff = scale / lastScale - 1;
+            currentTranslate.x = startTranslate.x - centerOffsetX * scaleDiff;
+            currentTranslate.y = startTranslate.y - centerOffsetY * scaleDiff;
 
             applyTransform();
 
@@ -219,9 +238,10 @@ document.addEventListener('DOMContentLoaded', function () {
             isDragging = false;
             lightboxImage.classList.remove('is-gesturing');
             lastScale = scale;
-        } else if (e.touches.length === 1) { // 从双指变为单指，重置拖动起始点
-             isDragging = true;
-             startPos = { x: e.touches[0].clientX - currentTranslate.x, y: e.touches[0].clientY - currentTranslate.y };
+            startTranslate = { ...currentTranslate };
+        } else if (e.touches.length === 1 && !isDragging) { // 从双指变为单指，重置拖动起始点
+            isDragging = true;
+            startPos = { x: e.touches[0].clientX - currentTranslate.x, y: e.touches[0].clientY - currentTranslate.y };
         }
     }
 
@@ -253,8 +273,23 @@ document.addEventListener('DOMContentLoaded', function () {
         e.preventDefault();
         lightboxImage.classList.add('is-gesturing');
         const scaleAmount = e.deltaY > 0 ? -0.1 : 0.1;
-        scale = Math.min(Math.max(0.5, scale + scaleAmount), 5);
+        const newScale = Math.min(Math.max(0.5, scale + scaleAmount), 5);
+        
+        // 获取鼠标相对于图片中心的位置
+        const imgRect = lightboxImage.getBoundingClientRect();
+        const imgCenterX = imgRect.left + imgRect.width / 2;
+        const imgCenterY = imgRect.top + imgRect.height / 2;
+        const mouseOffsetX = e.clientX - imgCenterX;
+        const mouseOffsetY = e.clientY - imgCenterY;
+        
+        // 根据缩放调整位置
+        const scaleDiff = newScale / scale - 1;
+        currentTranslate.x -= mouseOffsetX * scaleDiff;
+        currentTranslate.y -= mouseOffsetY * scaleDiff;
+        
+        scale = newScale;
         applyTransform();
+        
         // 使用 setTimeout 模拟手势结束，重新启用动画
         setTimeout(() => lightboxImage.classList.remove('is-gesturing'), 200);
     }
@@ -331,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function () {
     .lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.85); display: flex; align-items: center; justify-content: center; z-index: 2000; opacity: 0; visibility: hidden; transition: opacity 0.3s ease, visibility 0s 0.3s linear; touch-action: none; }
     .lightbox-overlay.is-visible { opacity: 1; visibility: visible; transition: opacity 0.3s ease; }
     .lightbox-content { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden; }
-    #lightbox-image { max-width: 95%; max-height: 95%; transition: transform 0.2s cubic-bezier(0.25, 0.1, 0.25, 1); cursor: grab; user-select: none; }
+    #lightbox-image { max-width: 95%; max-height: 95%; transition: transform 0.2s cubic-bezier(0.25, 0.1, 0.25, 1); cursor: grab; user-select: none; transform-origin: center center; }
     /* 当用户手指正在操作图片时，禁用过渡，实现实时响应 */
     #lightbox-image.is-gesturing { transition: none; }
     #lightbox-image:active { cursor: grabbing; }
