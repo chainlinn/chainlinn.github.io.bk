@@ -81,6 +81,7 @@ params:
       url: "mailto:santuchuan23@gmail.com"
 
   # --- 功能开关 ---
+  comments: true # 启用 Giscus 评论
   ShowReadingTime: true # 显示文章阅读时间
   ShowShareButtons: false # 显示分享按钮
   ShowPostNavLinks: true # 显示上一篇/下一篇文章导航
