@@ -51,16 +51,16 @@ menu:
 params:
 
   # --- 网站信息 ---
-  author: "张满月"
-  description: "Android工程师"
+  author: "santu"
+  description: "Java工程师"
   defaultTheme: "auto" # 默认主题 (auto, light, dark)
   env: "production" # 设置为 production 来启用 SEO 优化
 
   # --- 个人简介模式 (Profile Mode) ---
   profileMode:
     enabled: true # 启用此模式
-    title: "张满月" # 显示在头像下方的名字
-    subtitle: "✨ 一名热爱探索与分享的开发者 ✨" # 简介
+    title: "@santu" # 显示在头像下方的名字
+    subtitle: "✨ 欢迎来到我的世界🌍 ✨" # 简介
     imageUrl: "/images/avatar.png" # 头像路径 (请将头像文件放在 static/images/avatar.png)
     imageWidth: 150 # 头像宽度 (像素)
     imageHeight: 150 # 头像高度 (像素)
