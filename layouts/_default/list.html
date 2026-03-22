@@ -54,31 +54,6 @@
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
 
-{{- if $page.Params.externalUrl }}
-{{/* ========== 外链卡片 ========== */}}
-<article class="post-entry link-card">
-  <div class="link-card-inner">
-    <div class="link-card-icon">
-      {{ with $page.Params.icon }}{{ . }}{{ else }}🔗{{ end }}
-    </div>
-    <div class="link-card-body">
-      <h2 class="link-card-title">{{ $page.Title }}</h2>
-      {{- with $page.Description }}
-      <p class="link-card-desc">{{ . }}</p>
-      {{- end }}
-      <span class="link-card-url">{{ $page.Params.externalUrl | replaceRE "^https?://(www\\.)?" "" | replaceRE "/.*$" "" }}</span>
-    </div>
-    <div class="link-card-arrow">
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M7 17L17 7"/><path d="M7 7h10v10"/>
-      </svg>
-    </div>
-  </div>
-  <a class="entry-link" aria-label="{{ $page.Title }}" href="{{ $page.Params.externalUrl }}" target="_blank" rel="noopener noreferrer"></a>
-</article>
-
-{{- else }}
-{{/* ========== 普通文章/分类 ========== */}}
 {{- $class := "post-entry" }}
 
 {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
@@ -88,6 +63,34 @@
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
 
+{{- if $page.Params.externalUrl }}
+{{/* ========== 外链卡片：复用 post-entry 样式 ========== */}}
+{{- $domain := replaceRE `^https?://(www\.)?` "" $page.Params.externalUrl | replaceRE `/.*$` "" }}
+<article class="{{ $class }}">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      <span class="entry-ext-favicon"><img src="https://www.google.com/s2/favicons?domain={{ $domain }}&sz=32" alt="" width="16" height="16" loading="lazy"></span>
+      {{- $page.Title }}
+      <span class="entry-hint" title="外部链接">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M7 17L17 7"/><path d="M7 7h10v10"/>
+        </svg>
+      </span>
+    </h2>
+  </header>
+  {{- with $page.Description }}
+  <div class="entry-content">
+    <p>{{ . }}</p>
+  </div>
+  {{- end }}
+  <footer class="entry-footer">
+    <span>{{ $domain }}</span>
+  </footer>
+  <a class="entry-link" aria-label="{{ $page.Title }}" href="{{ $page.Params.externalUrl }}" target="_blank" rel="noopener noreferrer"></a>
+</article>
+
+{{- else }}
+{{/* ========== 普通文章/分类 ========== */}}
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
