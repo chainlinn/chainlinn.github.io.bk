@@ -1,6 +1,7 @@
 ---
 title: "JavaGuide"
-description: "Java 学习与面试指南，涵盖 Java 基础、集合、并发、JVM、Spring 等核心知识"
+description: "JavaGuide 是一份 Java 面试和后端通用面试指南，同时覆盖数据库/MySQL、Redis、分布式、高并发、高可用、系统设计等通用后端知识，适用于校招/社招复习。"
 externalUrl: "https://javaguide.cn/"
-draft: false
+draft: "false"
+icon: "https://javaguide.cn/logo.png"
 ---

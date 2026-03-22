@@ -1,11 +1,52 @@
 <style>
-.entry-ext-favicon {
-  display: inline-flex;
-  align-items: center;
-  margin-right: 6px;
-  vertical-align: middle;
+/* ========== 外链卡片 ========== */
+.link-card {
+  position: relative;
+  margin-bottom: var(--gap);
+  padding: var(--gap);
+  background: var(--entry);
+  border-radius: var(--radius);
+  transition: transform 0.1s;
+  border: 1px solid var(--border);
 }
-.entry-ext-favicon img {
-  border-radius: 3px;
+.link-card:active {
+  transform: scale(0.96);
+}
+.link-card-inner {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.link-card-icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  object-fit: cover;
+  background: var(--code-bg);
+}
+.link-card-body {
+  flex: 1;
+  min-width: 0;
+}
+.link-card-title {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 0;
+}
+.link-card-desc {
+  margin: 4px 0 0;
+  font-size: 14px;
+  color: var(--secondary);
+  line-height: 1.5;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.link-card-url {
+  font-size: 13px;
+  color: var(--secondary);
 }
 </style>
