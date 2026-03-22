@@ -1,3 +1,11 @@
+---
+title: "Mybatis的缓存机制"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # 典型回答
 <font style="color:rgb(51, 51, 51);">Mybatis的缓存机制有两种：一级缓存和二级缓存。</font>Mybatis缓存的整体工作原理可以参考这篇文章
 

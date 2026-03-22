@@ -1,3 +1,11 @@
+---
+title: "什么是SPI，和API有啥区别"
+date: 2026-03-22T01:02:44+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 Java 中区分 API 和 SPI，通俗的讲：API 和 SPI 都是相对的概念，他们的差别只在语义上，API 直接被应用开发人员使用，SPI 被框架扩展人员使用。
 

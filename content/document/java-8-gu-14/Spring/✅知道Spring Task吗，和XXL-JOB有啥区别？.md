@@ -1,3 +1,11 @@
+---
+title: "知道Spring Task吗，和XXL-JOB有啥区别？"
+date: 2026-03-22T01:00:57+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "什么是ORM，有哪些常用框架？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # 典型回答
 
 

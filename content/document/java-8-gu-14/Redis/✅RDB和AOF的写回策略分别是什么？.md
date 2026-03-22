@@ -1,3 +1,11 @@
+---
+title: "RDB和AOF的写回策略分别是什么？"
+date: 2026-03-22T00:55:57+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "SpringCloud 在Spring6.0后有哪些变化"
+date: 2026-03-22T01:01:25+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

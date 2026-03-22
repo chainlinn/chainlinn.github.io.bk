@@ -1,3 +1,11 @@
+---
+title: "怎么修改一个类中的private修饰的String参数的值"
+date: 2026-03-22T01:02:31+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

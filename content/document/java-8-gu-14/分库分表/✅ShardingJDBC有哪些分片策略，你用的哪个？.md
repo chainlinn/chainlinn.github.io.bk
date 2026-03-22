@@ -1,3 +1,11 @@
+---
+title: "ShardingJDBC有哪些分片策略，你用的哪个？"
+date: 2026-03-22T00:55:01+08:00
+draft: false
+categories:
+  - 分库分表
+---
+
 # 典型回答
 
 

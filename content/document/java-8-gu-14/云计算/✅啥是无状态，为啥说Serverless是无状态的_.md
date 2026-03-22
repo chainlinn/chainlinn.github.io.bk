@@ -1,3 +1,11 @@
+---
+title: "啥是无状态，为啥说Serverless是无状态的_"
+date: 2026-03-22T00:54:37+08:00
+draft: false
+categories:
+  - 云计算
+---
+
 # 典型回答
 
 

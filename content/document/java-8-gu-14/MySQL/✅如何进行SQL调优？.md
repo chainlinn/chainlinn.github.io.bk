@@ -1,3 +1,11 @@
+---
+title: "如何进行SQL调优？"
+date: 2026-03-22T00:59:20+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

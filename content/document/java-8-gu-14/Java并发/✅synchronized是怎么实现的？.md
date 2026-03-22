@@ -1,3 +1,11 @@
+---
+title: "synchronized是怎么实现的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 `synchronized` 是 Java 中的一个很重要的关键字，主要用来加锁，`synchronized` 所添加的锁有以下几个特点。synchronized 的使用方法比较简单，主要可以用来修饰方法和代码块。根据其锁定的对象不同，可以用来定义同步方法和同步代码块。
 

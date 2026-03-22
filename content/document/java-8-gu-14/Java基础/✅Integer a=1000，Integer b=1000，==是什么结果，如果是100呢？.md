@@ -1,3 +1,11 @@
+---
+title: "Integer a=1000，Integer b=1000，==是什么结果，如果是100呢？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "Redis 的内存如果用满了，会挂吗？"
+date: 2026-03-22T01:04:12+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

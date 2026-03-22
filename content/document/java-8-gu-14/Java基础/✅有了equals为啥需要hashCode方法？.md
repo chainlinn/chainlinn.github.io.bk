@@ -1,3 +1,11 @@
+---
+title: "有了equals为啥需要hashCode方法？"
+date: 2026-03-22T01:02:31+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

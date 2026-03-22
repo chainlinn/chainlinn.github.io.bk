@@ -1,3 +1,11 @@
+---
+title: "Claude Code国内不能用，你是怎么用的？"
+date: 2026-03-22T00:53:15+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL 中如何查看一个 SQL 的执行耗时"
+date: 2026-03-22T00:59:03+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

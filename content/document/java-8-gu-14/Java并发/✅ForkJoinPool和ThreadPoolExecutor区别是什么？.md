@@ -1,3 +1,11 @@
+---
+title: "ForkJoinPool和ThreadPoolExecutor区别是什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "where条件的顺序影响使用索引吗？"
+date: 2026-03-22T00:59:11+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

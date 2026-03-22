@@ -1,3 +1,11 @@
+---
+title: "Redis如何实现延迟消息？"
+date: 2026-03-22T00:56:07+08:00
+draft: false
+categories:
+  - Redis
+---
+
 ## Redis过期消息实现延迟消息
 很多用过Redis的人都知道，Redis有一个过期监听的功能，
 

@@ -1,3 +1,11 @@
+---
+title: "JDK 11中新出的ZGC有什么特点？"
+date: 2026-03-22T01:01:41+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

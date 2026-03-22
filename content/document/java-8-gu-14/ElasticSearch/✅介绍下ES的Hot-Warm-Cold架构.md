@@ -1,3 +1,11 @@
+---
+title: "介绍下ES的Hot-Warm-Cold架构"
+date: 2026-03-22T00:55:22+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # <font style="color:rgb(17, 17, 51);">典型回答</font>
 
 

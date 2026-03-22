@@ -1,3 +1,11 @@
+---
+title: "Elasticsearch集群中的角色有哪些？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 在早期版本的 ES 中，节点角色划分其实还是比较模糊的。但从 7.x 版本开始，特别是到了 8.x，ES 强烈推荐并默认使用基于角色的节点分工，来优化集群稳定性。
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL执行大事务会存在什么问题？"
+date: 2026-03-22T00:59:18+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

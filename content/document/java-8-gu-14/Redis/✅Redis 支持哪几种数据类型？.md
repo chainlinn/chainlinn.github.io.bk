@@ -1,3 +1,11 @@
+---
+title: "Redis 支持哪几种数据类型？"
+date: 2026-03-22T00:56:15+08:00
+draft: false
+categories:
+  - Redis
+---
+
 Redis 中支持了多种数据类型，其中比较常用的有五种：
 
 

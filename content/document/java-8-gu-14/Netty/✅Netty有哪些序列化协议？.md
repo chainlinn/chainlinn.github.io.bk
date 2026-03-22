@@ -1,3 +1,11 @@
+---
+title: "Netty有哪些序列化协议？"
+date: 2026-03-22T00:56:39+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 
 

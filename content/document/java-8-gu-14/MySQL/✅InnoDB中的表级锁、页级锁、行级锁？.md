@@ -1,3 +1,11 @@
+---
+title: "InnoDB中的表级锁、页级锁、行级锁？"
+date: 2026-03-22T00:59:07+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

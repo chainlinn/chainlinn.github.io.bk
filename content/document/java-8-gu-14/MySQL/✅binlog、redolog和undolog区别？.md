@@ -1,3 +1,11 @@
+---
+title: "binlog、redolog和undolog区别？"
+date: 2026-03-22T00:59:23+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

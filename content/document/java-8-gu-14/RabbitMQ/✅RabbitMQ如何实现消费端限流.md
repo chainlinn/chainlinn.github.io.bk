@@ -1,3 +1,11 @@
+---
+title: "RabbitMQ如何实现消费端限流"
+date: 2026-03-22T00:55:30+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

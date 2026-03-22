@@ -1,3 +1,11 @@
+---
+title: "synchronized是如何保证原子性、可见性、有序性的？"
+date: 2026-03-22T01:02:22+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 ## synchronized如何保证原子性
 
 

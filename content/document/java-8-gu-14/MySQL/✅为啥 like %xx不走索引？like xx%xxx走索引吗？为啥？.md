@@ -1,3 +1,11 @@
+---
+title: "为啥 like %xx不走索引？like xx%xxx走索引吗？为啥？"
+date: 2026-03-22T00:58:17+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

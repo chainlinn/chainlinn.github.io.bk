@@ -1,3 +1,11 @@
+---
+title: "JDK新版本中都有哪些新特性？"
+date: 2026-03-22T01:02:38+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

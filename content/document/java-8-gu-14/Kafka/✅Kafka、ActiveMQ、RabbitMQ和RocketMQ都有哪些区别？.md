@@ -1,3 +1,11 @@
+---
+title: "Kafka、ActiveMQ、RabbitMQ和RocketMQ都有哪些区别？"
+date: 2026-03-22T00:55:46+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

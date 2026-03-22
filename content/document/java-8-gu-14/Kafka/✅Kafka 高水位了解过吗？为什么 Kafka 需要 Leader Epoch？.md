@@ -1,3 +1,11 @@
+---
+title: "Kafka 高水位了解过吗？为什么 Kafka 需要 Leader Epoch？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

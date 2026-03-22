@@ -1,3 +1,11 @@
+---
+title: "SpringBoot如何做优雅停机？"
+date: 2026-03-22T01:01:04+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

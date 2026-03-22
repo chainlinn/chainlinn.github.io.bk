@@ -1,3 +1,11 @@
+---
+title: "为什么JDK  1.8要废弃永久代，改用元空间"
+date: 2026-03-22T01:01:27+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

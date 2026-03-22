@@ -1,3 +1,11 @@
+---
+title: "Redis 8.0有哪些新特性？"
+date: 2026-03-22T00:55:55+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

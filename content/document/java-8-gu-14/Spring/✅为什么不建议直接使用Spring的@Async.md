@@ -1,3 +1,11 @@
+---
+title: "为什么不建议直接使用Spring的@Async"
+date: 2026-03-22T01:01:05+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "run_start、wait_sleep、notify_notifyAll区别_"
+date: 2026-03-22T01:02:26+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 ## run方法和start方法区别
 
 

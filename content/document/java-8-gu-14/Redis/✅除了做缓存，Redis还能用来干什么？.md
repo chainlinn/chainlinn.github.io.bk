@@ -1,3 +1,11 @@
+---
+title: "除了做缓存，Redis还能用来干什么？"
+date: 2026-03-22T00:56:06+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

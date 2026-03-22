@@ -1,3 +1,11 @@
+---
+title: "为什么大厂不建议使用多表join？"
+date: 2026-03-22T01:00:54+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "AI课优惠券"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 必读
+---
+
 [https://haohuo.jinritemai.com/views/marketing/coupon/obtain?coupon_meta_id=ylnlQiMoeNQlQqV](https://haohuo.jinritemai.com/views/marketing/coupon/obtain?coupon_meta_id=ylnlQiMoeNQlQqV)
 
 

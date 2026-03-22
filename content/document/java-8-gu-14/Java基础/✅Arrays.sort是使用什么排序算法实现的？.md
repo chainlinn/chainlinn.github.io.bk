@@ -1,3 +1,11 @@
+---
+title: "Arrays.sort是使用什么排序算法实现的？"
+date: 2026-03-22T01:02:36+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

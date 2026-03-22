@@ -1,3 +1,11 @@
+---
+title: "为什么JDK 15要废弃偏向锁？"
+date: 2026-03-22T01:02:12+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

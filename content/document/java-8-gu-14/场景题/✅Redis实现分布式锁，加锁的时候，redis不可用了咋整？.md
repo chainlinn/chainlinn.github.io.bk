@@ -1,3 +1,11 @@
+---
+title: "Redis实现分布式锁，加锁的时候，redis不可用了咋整？"
+date: 2026-03-22T01:04:01+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

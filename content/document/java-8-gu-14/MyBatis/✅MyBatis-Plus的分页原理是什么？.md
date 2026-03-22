@@ -1,3 +1,11 @@
+---
+title: "MyBatis-Plus的分页原理是什么？"
+date: 2026-03-22T00:56:44+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # 典型回答
 **MyBatis-Plus支持分页插件——PaginationInnerInterceptor**
 

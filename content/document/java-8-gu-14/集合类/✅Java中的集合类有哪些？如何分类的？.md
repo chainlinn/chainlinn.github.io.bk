@@ -1,3 +1,11 @@
+---
+title: "Java中的集合类有哪些？如何分类的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 Java的整个集合框架中，主要分为List，Set，Queue，Stack，Map等五种数据结构。其中，前四种数据结构都是单一元素的集合，而最后的Map则是以KV对的形式使用。
 

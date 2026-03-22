@@ -1,3 +1,11 @@
+---
+title: "Feign 和 RestTemplate 有什么不同？"
+date: 2026-03-22T01:01:17+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

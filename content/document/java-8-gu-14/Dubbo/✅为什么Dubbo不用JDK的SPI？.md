@@ -1,3 +1,11 @@
+---
+title: "为什么Dubbo不用JDK的SPI？"
+date: 2026-03-22T00:55:47+08:00
+draft: false
+categories:
+  - Dubbo
+---
+
 # 典型回答
 
 

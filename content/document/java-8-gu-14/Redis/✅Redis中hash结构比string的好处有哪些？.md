@@ -1,3 +1,11 @@
+---
+title: "Redis中hash结构比string的好处有哪些？"
+date: 2026-03-22T00:55:55+08:00
+draft: false
+categories:
+  - Redis
+---
+
 不知道最近为啥这个问题出现的概率很高，这俩有啥好比较的，使用的场景都不一样，唉。
 
 # <font style="color:rgb(51, 51, 51);">典型回答</font>

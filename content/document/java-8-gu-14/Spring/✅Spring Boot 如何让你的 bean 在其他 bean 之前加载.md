@@ -1,3 +1,11 @@
+---
+title: "Spring Boot 如何让你的 bean 在其他 bean 之前加载"
+date: 2026-03-22T01:01:09+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 面对这个问题的时候，读者朋友们可能会有点懵逼，但是我们回到Bean初始化的本质上来看，Bean初始化有两个时机：
 

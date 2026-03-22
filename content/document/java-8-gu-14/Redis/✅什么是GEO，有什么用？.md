@@ -1,3 +1,11 @@
+---
+title: "什么是GEO，有什么用？"
+date: 2026-03-22T00:56:14+08:00
+draft: false
+categories:
+  - Redis
+---
+
 
 
 GEO就是Geolocation的简写形式，代表地理坐标，Redis GEO 主要用于存储地理位置信息的，帮助我们根据经纬度来检索数据。

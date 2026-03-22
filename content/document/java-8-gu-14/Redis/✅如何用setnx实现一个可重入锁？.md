@@ -1,3 +1,11 @@
+---
+title: "如何用setnx实现一个可重入锁？"
+date: 2026-03-22T00:56:00+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

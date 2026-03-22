@@ -1,3 +1,11 @@
+---
+title: "如何在 Redis Cluster 中执行 lua 脚本？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 [✅Redis Cluster 中使用事务和 lua 有什么限制？](https://www.yuque.com/hollis666/ec96i7/zb66y7he56otikqs)
 

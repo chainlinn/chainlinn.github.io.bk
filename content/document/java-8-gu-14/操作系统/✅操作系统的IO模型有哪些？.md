@@ -1,3 +1,11 @@
+---
+title: "操作系统的IO模型有哪些？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 <font style="color:rgb(85, 85, 85);">为了保护操作系统的安全，通过缓存加快系统读写，会将内存分为</font>**<font style="color:rgb(85, 85, 85);">用户空间和内核空间</font>**<font style="color:rgb(85, 85, 85);">两个部分。</font>**<font style="color:rgb(85, 85, 85);">如果用户想要操作内核空间的数据，则需要把数据从内核空间拷贝到用户空间（数据会放到内核空间的page cache中，这种也叫缓存IO）</font>**<font style="color:rgb(85, 85, 85);">。</font>
 

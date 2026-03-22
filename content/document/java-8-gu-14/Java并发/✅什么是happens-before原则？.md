@@ -1,3 +1,11 @@
+---
+title: "什么是happens-before原则？"
+date: 2026-03-22T01:02:10+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 在关于JMM的介绍中，我们知道，JMM 是一种规范，它提供了一系列的机制来保证跨线程的内存可见性、有序性和原子性。
 

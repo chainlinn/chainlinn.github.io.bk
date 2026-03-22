@@ -1,3 +1,11 @@
+---
+title: "a,b两个单独索引，where a=xx and b=xx 走哪个索引？为什么？"
+date: 2026-03-22T00:59:04+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "知道PowerJob吗，他和XXL-JOB有啥区别？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 定时任务
+---
+
 # 典型回答
 
 

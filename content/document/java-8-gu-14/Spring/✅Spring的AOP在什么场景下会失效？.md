@@ -1,3 +1,11 @@
+---
+title: "Spring的AOP在什么场景下会失效？"
+date: 2026-03-22T01:01:06+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

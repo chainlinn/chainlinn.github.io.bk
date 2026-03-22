@@ -1,3 +1,11 @@
+---
+title: "小红书靠MySQL抗秒杀的方案"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 大厂实践
+---
+
 原文地址：[https://mp.weixin.qq.com/s/Q-tap7xI3Y5diTMEt5hMyw](https://mp.weixin.qq.com/s/Q-tap7xI3Y5diTMEt5hMyw)
 
 

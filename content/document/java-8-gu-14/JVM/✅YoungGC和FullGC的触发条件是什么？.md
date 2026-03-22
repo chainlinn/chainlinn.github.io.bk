@@ -1,3 +1,11 @@
+---
+title: "YoungGC和FullGC的触发条件是什么？"
+date: 2026-03-22T01:01:44+08:00
+draft: false
+categories:
+  - JVM
+---
+
 ****
 
 **YoungGC的触发条件比较简单，那就是****<font style="color:rgb(18, 18, 18);">当年轻代中的eden区分配满的时候就会触发。</font>**

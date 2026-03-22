@@ -1,3 +1,11 @@
+---
+title: "a，b都有索引，select _ from table where a = xx order by b。走哪个索引？"
+date: 2026-03-22T00:58:47+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "jstat命令的作用是什么？"
+date: 2026-03-22T00:53:48+08:00
+draft: false
+categories:
+  - 其他
+---
+
 # 典型回答
 
 

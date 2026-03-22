@@ -1,3 +1,11 @@
+---
+title: "exists和in有什么区别？如何选择？"
+date: 2026-03-22T00:56:54+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

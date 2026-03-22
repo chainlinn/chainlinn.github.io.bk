@@ -1,3 +1,11 @@
+---
+title: "为什么对Java中的负数取绝对值结果不一定是正数？"
+date: 2026-03-22T01:02:49+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 假如，我们要用Math.abs对一个Integer取绝对值的时候，如果用如下方式：
 

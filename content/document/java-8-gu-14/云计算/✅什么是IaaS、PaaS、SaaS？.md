@@ -1,3 +1,11 @@
+---
+title: "什么是IaaS、PaaS、SaaS？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 云计算
+---
+
 # 典型回答
 
 

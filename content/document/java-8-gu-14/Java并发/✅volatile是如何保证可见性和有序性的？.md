@@ -1,3 +1,11 @@
+---
+title: "volatile是如何保证可见性和有序性的？"
+date: 2026-03-22T01:02:20+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 ## volatile和可见性
 

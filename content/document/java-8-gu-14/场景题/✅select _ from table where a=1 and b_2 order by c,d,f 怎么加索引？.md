@@ -1,3 +1,11 @@
+---
+title: "select _ from table where a=1 and b_2 order by c,d,f 怎么加索引？"
+date: 2026-03-22T01:03:40+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

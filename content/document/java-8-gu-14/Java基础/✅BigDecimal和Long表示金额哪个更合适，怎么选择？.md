@@ -1,3 +1,11 @@
+---
+title: "BigDecimal和Long表示金额哪个更合适，怎么选择？"
+date: 2026-03-22T01:02:31+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

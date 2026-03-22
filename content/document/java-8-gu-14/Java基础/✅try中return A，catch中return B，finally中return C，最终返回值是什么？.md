@@ -1,3 +1,11 @@
+---
+title: "try中return A，catch中return B，finally中return C，最终返回值是什么？"
+date: 2026-03-22T01:02:34+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

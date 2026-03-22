@@ -1,3 +1,11 @@
+---
+title: "为什么SpringBoot 3中移除了spring.factories"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

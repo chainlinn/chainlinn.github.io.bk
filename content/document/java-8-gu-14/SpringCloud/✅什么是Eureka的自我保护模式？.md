@@ -1,3 +1,11 @@
+---
+title: "什么是Eureka的自我保护模式？"
+date: 2026-03-22T01:01:20+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

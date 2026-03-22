@@ -1,3 +1,11 @@
+---
+title: "Redis中有一批key瞬间过期，为什么其它key的读写效率会降低？"
+date: 2026-03-22T00:56:03+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

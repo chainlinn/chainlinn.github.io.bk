@@ -1,3 +1,11 @@
+---
+title: "Java 8中的Stream用过吗？都能干什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 Stream 使用一种类似用 SQL 语句从数据库查询数据的直观方式来提供一种对 Java 集合运算和表达的高阶抽象。
 

@@ -1,3 +1,11 @@
+---
+title: "uuid和自增id做主键哪个好，为什么？"
+date: 2026-03-22T01:00:05+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

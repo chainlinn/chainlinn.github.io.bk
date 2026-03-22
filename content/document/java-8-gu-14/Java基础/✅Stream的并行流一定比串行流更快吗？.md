@@ -1,3 +1,11 @@
+---
+title: "Stream的并行流一定比串行流更快吗？"
+date: 2026-03-22T01:02:30+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 不一定！
 

@@ -1,3 +1,11 @@
+---
+title: "工作7年，SaaS公司，架构师，技术负责人"
+date: 2026-03-22T00:53:33+08:00
+draft: false
+categories:
+  - 面经实战
+---
+
 # **<font style="color:rgb(38, 38, 38);"></font>**面试者背景
 
 

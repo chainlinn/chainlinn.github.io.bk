@@ -1,3 +1,11 @@
+---
+title: "a,b 的联合索引，select b where a = xx，无法走索引覆盖什么原因？"
+date: 2026-03-22T01:04:09+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

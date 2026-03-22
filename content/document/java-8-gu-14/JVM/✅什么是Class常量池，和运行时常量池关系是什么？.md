@@ -1,3 +1,11 @@
+---
+title: "什么是Class常量池，和运行时常量池关系是什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

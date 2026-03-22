@@ -1,3 +1,11 @@
+---
+title: "Spring 中的 Bean 是线程安全的吗？"
+date: 2026-03-22T01:01:02+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

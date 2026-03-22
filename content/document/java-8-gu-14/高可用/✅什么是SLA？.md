@@ -1,3 +1,11 @@
+---
+title: "什么是SLA？"
+date: 2026-03-22T00:55:14+08:00
+draft: false
+categories:
+  - 高可用
+---
+
 # 典型回答
 
 

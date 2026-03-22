@@ -1,3 +1,11 @@
+---
+title: "什么是MESI缓存一致性协议"
+date: 2026-03-22T00:54:17+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "AQS为什么采用双向链表？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 AbstractQueuedSynchronizer （抽象队列同步器，以下简称 AQS）出现在 JDK 1.5 中。他是很多同步器的基础框架，比如 ReentrantLock、CountDownLatch 和 Semaphore 等都是基于 AQS 实现的。
 

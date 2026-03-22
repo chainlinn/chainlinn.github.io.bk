@@ -1,3 +1,11 @@
+---
+title: "了解Spring AI吗，他都能干什么？"
+date: 2026-03-22T00:53:20+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 # 典型回答
 
 

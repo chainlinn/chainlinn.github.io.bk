@@ -1,3 +1,11 @@
+---
+title: "为什么要尽量避免使用select _ ？"
+date: 2026-03-22T00:58:06+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

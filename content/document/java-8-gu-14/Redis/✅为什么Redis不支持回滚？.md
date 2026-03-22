@@ -1,3 +1,11 @@
+---
+title: "为什么Redis不支持回滚？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

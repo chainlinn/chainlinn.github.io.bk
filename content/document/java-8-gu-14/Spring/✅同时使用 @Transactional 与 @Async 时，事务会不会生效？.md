@@ -1,3 +1,11 @@
+---
+title: "同时使用 @Transactional 与 @Async 时，事务会不会生效？"
+date: 2026-03-22T01:00:57+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

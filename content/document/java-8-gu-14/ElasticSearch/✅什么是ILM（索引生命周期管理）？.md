@@ -1,3 +1,11 @@
+---
+title: "什么是ILM（索引生命周期管理）？"
+date: 2026-03-22T00:55:22+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "CPU飙高问题排查过程（1）"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 [✅什么是CPU利用率？怎么算的？](https://www.yuque.com/hollis666/ec96i7/hhmxp4xri441moiq)
 
 

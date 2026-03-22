@@ -1,3 +1,11 @@
+---
+title: "Mybatis的优点有哪些？"
+date: 2026-03-22T00:56:49+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # 典型回答
 在回答这个问题之前，我们先看一段用JDBC和Mybatis写的代码：
 

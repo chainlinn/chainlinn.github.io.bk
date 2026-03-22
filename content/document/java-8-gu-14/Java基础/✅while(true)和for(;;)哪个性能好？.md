@@ -1,3 +1,11 @@
+---
+title: "while(true)和for(;;)哪个性能好？"
+date: 2026-03-22T01:02:37+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

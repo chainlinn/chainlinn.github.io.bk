@@ -1,3 +1,11 @@
+---
+title: "Dubbo如何实现像本地方法一样调用远程方法的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Dubbo
+---
+
 # 典型回答
 
 

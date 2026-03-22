@@ -1,3 +1,11 @@
+---
+title: "Redis的事务和Lua之间有哪些区别？"
+date: 2026-03-22T00:56:01+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

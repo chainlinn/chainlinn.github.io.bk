@@ -1,3 +1,11 @@
+---
+title: "在 Spring Cloud 中，服务间的通信有哪些方式？"
+date: 2026-03-22T01:01:22+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

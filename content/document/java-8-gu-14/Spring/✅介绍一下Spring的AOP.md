@@ -1,3 +1,11 @@
+---
+title: "介绍一下Spring的AOP"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 **AOP(Aspect-Oriented Programming)，即面向切面编程**，用人话说就是把公共的逻辑抽出来，让开发者可以更专注于业务逻辑开发。
 

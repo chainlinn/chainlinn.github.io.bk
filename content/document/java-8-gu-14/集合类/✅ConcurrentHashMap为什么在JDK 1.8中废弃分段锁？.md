@@ -1,3 +1,11 @@
+---
+title: "ConcurrentHashMap为什么在JDK 1.8中废弃分段锁？"
+date: 2026-03-22T01:01:48+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 
 

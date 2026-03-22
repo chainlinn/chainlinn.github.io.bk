@@ -1,3 +1,11 @@
+---
+title: "MySQL的主键一定是自增的吗？"
+date: 2026-03-22T01:00:05+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

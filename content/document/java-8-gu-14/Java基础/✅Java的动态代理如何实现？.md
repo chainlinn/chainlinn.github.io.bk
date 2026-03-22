@@ -1,3 +1,11 @@
+---
+title: "Java的动态代理如何实现？"
+date: 2026-03-22T01:02:43+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 **在Java中，实现动态代理有两种方式：**
 

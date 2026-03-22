@@ -1,3 +1,11 @@
+---
+title: "Redis 如果挂了，你怎么办？"
+date: 2026-03-22T01:04:13+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

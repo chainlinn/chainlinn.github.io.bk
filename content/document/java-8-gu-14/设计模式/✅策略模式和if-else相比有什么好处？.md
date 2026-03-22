@@ -1,3 +1,11 @@
+---
+title: "策略模式和if-else相比有什么好处？"
+date: 2026-03-22T00:54:41+08:00
+draft: false
+categories:
+  - 设计模式
+---
+
 # 典型回答
 
 

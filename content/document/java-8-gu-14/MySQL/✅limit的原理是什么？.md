@@ -1,3 +1,11 @@
+---
+title: "limit的原理是什么？"
+date: 2026-03-22T00:58:57+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

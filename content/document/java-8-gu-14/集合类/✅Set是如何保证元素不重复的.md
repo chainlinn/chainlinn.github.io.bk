@@ -1,3 +1,11 @@
+---
+title: "Set是如何保证元素不重复的"
+date: 2026-03-22T01:01:58+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 在Java的Set体系中，根据实现方式不同主要分为两大类。HashSet和TreeSet。
 

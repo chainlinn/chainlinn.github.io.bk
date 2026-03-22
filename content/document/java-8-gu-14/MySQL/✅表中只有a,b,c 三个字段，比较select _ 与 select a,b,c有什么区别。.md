@@ -1,3 +1,11 @@
+---
+title: "表中只有a,b,c 三个字段，比较select _ 与 select a,b,c有什么区别。"
+date: 2026-03-22T00:57:25+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

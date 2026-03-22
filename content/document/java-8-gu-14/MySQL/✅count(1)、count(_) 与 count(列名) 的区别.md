@@ -1,3 +1,11 @@
+---
+title: "count(1)、count(_) 与 count(列名) 的区别"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

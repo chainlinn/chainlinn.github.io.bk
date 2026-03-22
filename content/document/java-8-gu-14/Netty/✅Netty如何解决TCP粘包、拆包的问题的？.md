@@ -1,3 +1,11 @@
+---
+title: "Netty如何解决TCP粘包、拆包的问题的？"
+date: 2026-03-22T00:56:40+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 [什么是TCP的粘包、拆包问题？](https://www.yuque.com/hollis666/ec96i7/qotkxkmmhwo0i5os)
 

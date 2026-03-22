@@ -1,3 +1,11 @@
+---
+title: "Netty的Buffer为什么好用"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 在网络编程中，基本都是基于TCP报文的字节流的操作，所以Java的NIO又新增了ByteBuffer，只不过Java原生的ByteBuffer，非常难操作，也不能扩缩容，所以Netty又重新封装了自己的Bytebuf，除了性能上的优势之外，Netty的Buffer在使用上相对于NIO也非常简洁，有如下特点：
 

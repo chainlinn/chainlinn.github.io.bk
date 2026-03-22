@@ -1,3 +1,11 @@
+---
+title: "什么是fat jar？"
+date: 2026-03-22T00:54:50+08:00
+draft: false
+categories:
+  - Maven&Git
+---
+
 # 典型回答
 
 

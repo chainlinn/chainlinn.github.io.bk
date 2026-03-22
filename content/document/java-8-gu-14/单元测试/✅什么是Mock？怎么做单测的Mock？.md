@@ -1,3 +1,11 @@
+---
+title: "什么是Mock？怎么做单测的Mock？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 单元测试
+---
+
 # 典型回答
 
 

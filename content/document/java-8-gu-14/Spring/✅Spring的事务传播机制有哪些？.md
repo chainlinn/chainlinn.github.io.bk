@@ -1,3 +1,11 @@
+---
+title: "Spring的事务传播机制有哪些？"
+date: 2026-03-22T01:01:13+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "Zookeeper的典型应用场景有哪些？"
+date: 2026-03-22T00:55:21+08:00
+draft: false
+categories:
+  - Zookeeper
+---
+
 ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务。常见的应用场景如下：
 
 

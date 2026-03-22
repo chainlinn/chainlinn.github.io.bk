@@ -1,3 +1,11 @@
+---
+title: "Java中的随机是真随机吗？"
+date: 2026-03-22T00:53:50+08:00
+draft: false
+categories:
+  - 其他
+---
+
 # 典型回答
 
 

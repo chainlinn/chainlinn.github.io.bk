@@ -1,3 +1,11 @@
+---
+title: "ShardingJDBC 在查询的时候如果没有分表键，他怎么样？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 分库分表
+---
+
 # 典型回答
 
 

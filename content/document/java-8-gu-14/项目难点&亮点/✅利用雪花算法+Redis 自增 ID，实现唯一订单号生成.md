@@ -1,3 +1,11 @@
+---
+title: "利用雪花算法+Redis 自增 ID，实现唯一订单号生成"
+date: 2026-03-22T01:02:54+08:00
+draft: false
+categories:
+  - 项目难点&亮点
+---
+
 ### （本项目亮点来自我的[数藏项目](https://www.yuque.com/hollis666/ec96i7/dgolk0cckpb94sia)文档中的最佳实践部分，更多项目亮点难点（50+），更详细的落地方案和讲解，可以在项目课中和我们一起学）
 
 

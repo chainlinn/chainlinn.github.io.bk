@@ -1,3 +1,11 @@
+---
+title: "为什么Java中的main方法必须是public static void的？"
+date: 2026-03-22T01:02:32+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # <font style="color:rgb(36, 41, 46);">典型回答</font>
 在Java中，想必所有人都不会对main方法感到陌生，main方法是Java应用程序的入口方法。程序运行时，要执行的第一个方法就是main方法。
 

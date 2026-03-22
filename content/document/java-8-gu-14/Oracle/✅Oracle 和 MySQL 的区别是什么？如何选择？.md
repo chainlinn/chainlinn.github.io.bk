@@ -1,3 +1,11 @@
+---
+title: "Oracle 和 MySQL 的区别是什么？如何选择？"
+date: 2026-03-22T00:56:52+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 # 典型回答
 
 

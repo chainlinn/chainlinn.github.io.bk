@@ -1,3 +1,11 @@
+---
+title: "MySQL的update语句什么时候锁行什么时候锁表"
+date: 2026-03-22T00:58:17+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

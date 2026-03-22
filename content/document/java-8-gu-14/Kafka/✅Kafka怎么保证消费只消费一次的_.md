@@ -1,3 +1,11 @@
+---
+title: "Kafka怎么保证消费只消费一次的_"
+date: 2026-03-22T00:55:45+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

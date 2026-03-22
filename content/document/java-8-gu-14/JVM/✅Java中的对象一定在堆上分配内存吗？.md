@@ -1,3 +1,11 @@
+---
+title: "Java中的对象一定在堆上分配内存吗？"
+date: 2026-03-22T01:01:45+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

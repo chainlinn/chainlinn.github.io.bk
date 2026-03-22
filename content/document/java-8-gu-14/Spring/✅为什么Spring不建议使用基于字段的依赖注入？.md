@@ -1,3 +1,11 @@
+---
+title: "为什么Spring不建议使用基于字段的依赖注入？"
+date: 2026-03-22T01:01:15+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 在我们通过IDEA编写Spring的代码的时候，假如我们编写了如下代码：
 

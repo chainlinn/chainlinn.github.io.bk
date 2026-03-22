@@ -1,3 +1,11 @@
+---
+title: "SQL中PK、UK、CK、FK、DF是什么意思？"
+date: 2026-03-22T00:59:18+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

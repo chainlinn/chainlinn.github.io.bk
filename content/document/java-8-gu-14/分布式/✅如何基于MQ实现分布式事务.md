@@ -1,3 +1,11 @@
+---
+title: "如何基于MQ实现分布式事务"
+date: 2026-03-22T00:56:30+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 典型回答
 [✅什么是分布式事务？](https://www.yuque.com/hollis666/ec96i7/pgzeqn8h4nxl1o6h)
 

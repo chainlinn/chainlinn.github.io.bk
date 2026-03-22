@@ -1,3 +1,11 @@
+---
+title: "LRU 和 LFU 有啥区别？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 本地缓存
+---
+
 # 典型回答
 
 

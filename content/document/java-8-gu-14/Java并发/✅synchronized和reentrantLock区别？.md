@@ -1,3 +1,11 @@
+---
+title: "synchronized和reentrantLock区别？"
+date: 2026-03-22T01:02:18+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 ReentrantLock 和 synchronized 都是用于线程的同步控制，但它们在功能上来说差别还是很大的。对比下来 ReentrantLock 功能明显要丰富的多。
 

@@ -1,3 +1,11 @@
+---
+title: "ping为什么不需要端口？"
+date: 2026-03-22T00:54:29+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # 典型回答
 
 

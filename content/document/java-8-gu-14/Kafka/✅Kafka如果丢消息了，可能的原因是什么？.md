@@ -1,3 +1,11 @@
+---
+title: "Kafka如果丢消息了，可能的原因是什么？"
+date: 2026-03-22T00:55:39+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

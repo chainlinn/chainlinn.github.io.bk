@@ -1,3 +1,11 @@
+---
+title: "ConcurrentHashMap在哪些地方做了并发控制"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 对于JDK1.8来说，如果用一句话来讲的话，ConcurrentHashMap是通过synchronized和CAS自旋保证的线程安全，要想知道ConcurrentHashMap是如何加锁的，就要知道HashMap在哪些地方会导致线程安全问题，如初始化桶数组阶段和设置桶，插入链表，树化等阶段，都会有并发问题。
 

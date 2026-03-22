@@ -1,3 +1,11 @@
+---
+title: "如何根据配置动态生成Spring的Bean？"
+date: 2026-03-22T01:00:59+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

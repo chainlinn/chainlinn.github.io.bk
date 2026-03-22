@@ -1,3 +1,11 @@
+---
+title: "为什么MySQL 8.0要取消查询缓存？"
+date: 2026-03-22T00:59:13+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

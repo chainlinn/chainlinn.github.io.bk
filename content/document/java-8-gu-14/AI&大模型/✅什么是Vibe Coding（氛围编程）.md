@@ -1,3 +1,11 @@
+---
+title: "什么是Vibe Coding（氛围编程）"
+date: 2026-03-22T00:53:13+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 **Vibe Coding**（氛围编程）是由前 OpenAI 联合创始人、特斯拉 AI 总监 **Andrej Karpathy** 在 2025 年初提出的一个概念。
 
 

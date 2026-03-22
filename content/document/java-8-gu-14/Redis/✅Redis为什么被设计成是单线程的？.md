@@ -1,3 +1,11 @@
+---
+title: "Redis为什么被设计成是单线程的？"
+date: 2026-03-22T00:56:14+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

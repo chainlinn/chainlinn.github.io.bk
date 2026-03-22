@@ -1,3 +1,11 @@
+---
+title: "ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？"
+date: 2026-03-22T00:55:24+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

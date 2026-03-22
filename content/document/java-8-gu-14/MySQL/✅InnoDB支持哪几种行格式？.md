@@ -1,3 +1,11 @@
+---
+title: "InnoDB支持哪几种行格式？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

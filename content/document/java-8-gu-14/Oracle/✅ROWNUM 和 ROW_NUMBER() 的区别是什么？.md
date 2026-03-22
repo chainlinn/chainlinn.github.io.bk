@@ -1,3 +1,11 @@
+---
+title: "ROWNUM 和 ROW_NUMBER() 的区别是什么？"
+date: 2026-03-22T00:56:50+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 # 典型回答
 
 

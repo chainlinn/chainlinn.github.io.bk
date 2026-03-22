@@ -1,3 +1,11 @@
+---
+title: "MySQL 里有 2000W 数据，Redis 中只存 20W 的数据，如何保证 Redis 中的数据都是热点数据_"
+date: 2026-03-22T01:05:03+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

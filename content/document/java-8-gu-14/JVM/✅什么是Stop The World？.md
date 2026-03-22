@@ -1,3 +1,11 @@
+---
+title: "什么是Stop The World？"
+date: 2026-03-22T01:01:44+08:00
+draft: false
+categories:
+  - JVM
+---
+
 
 
 Java中Stop-The-World机制简称STW，是在执行垃圾收集算法时，Java应用程序的其他所有线程都被挂起。这是Java中一种全局暂停现象，全局停顿，所有Java代码停止，native代码可以执行，但不能与JVM交互。

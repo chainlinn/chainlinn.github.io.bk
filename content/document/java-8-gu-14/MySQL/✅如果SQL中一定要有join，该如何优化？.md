@@ -1,3 +1,11 @@
+---
+title: "如果SQL中一定要有join，该如何优化？"
+date: 2026-03-22T00:57:35+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

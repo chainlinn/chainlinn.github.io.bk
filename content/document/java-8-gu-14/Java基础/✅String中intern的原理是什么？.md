@@ -1,3 +1,11 @@
+---
+title: "String中intern的原理是什么？"
+date: 2026-03-22T01:02:35+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

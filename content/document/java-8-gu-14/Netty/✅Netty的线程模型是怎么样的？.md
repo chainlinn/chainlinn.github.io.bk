@@ -1,3 +1,11 @@
+---
+title: "Netty的线程模型是怎么样的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 Netty 通过 Reactor 模型基于多路复用器接收并处理用户请求的。多路复用IO模型参考：
 

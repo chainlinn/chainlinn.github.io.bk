@@ -1,3 +1,11 @@
+---
+title: "是否支持emoji表情存储，如果不支持，如何操作？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL千万级大表中如何增加字段？"
+date: 2026-03-22T01:03:52+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

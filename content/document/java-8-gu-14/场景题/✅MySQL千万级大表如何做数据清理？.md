@@ -1,3 +1,11 @@
+---
+title: "MySQL千万级大表如何做数据清理？"
+date: 2026-03-22T01:05:05+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

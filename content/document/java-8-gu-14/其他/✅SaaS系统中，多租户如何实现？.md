@@ -1,3 +1,11 @@
+---
+title: "SaaS系统中，多租户如何实现？"
+date: 2026-03-22T00:53:47+08:00
+draft: false
+categories:
+  - 其他
+---
+
 # 典型回答
 
 

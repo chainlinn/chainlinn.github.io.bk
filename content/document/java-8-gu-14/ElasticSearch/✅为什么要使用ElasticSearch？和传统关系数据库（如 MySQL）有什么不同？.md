@@ -1,3 +1,11 @@
+---
+title: "为什么要使用ElasticSearch？和传统关系数据库（如 MySQL）有什么不同？"
+date: 2026-03-22T00:55:26+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "@PostConstruct、init-method和afterPropertiesSet执行顺序"
+date: 2026-03-22T01:01:14+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

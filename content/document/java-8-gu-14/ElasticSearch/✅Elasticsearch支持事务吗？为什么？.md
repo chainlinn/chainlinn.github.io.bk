@@ -1,3 +1,11 @@
+---
+title: "Elasticsearch支持事务吗？为什么？"
+date: 2026-03-22T00:55:23+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

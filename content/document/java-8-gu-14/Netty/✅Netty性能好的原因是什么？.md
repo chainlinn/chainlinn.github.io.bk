@@ -1,3 +1,11 @@
+---
+title: "Netty性能好的原因是什么？"
+date: 2026-03-22T00:56:41+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 Netty作为一个高性能的网络通信框架，性能是他重要优势，Netty中主要做了以下事情来全方面的提升Netty的性能：
 

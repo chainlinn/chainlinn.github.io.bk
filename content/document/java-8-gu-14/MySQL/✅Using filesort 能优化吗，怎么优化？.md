@@ -1,3 +1,11 @@
+---
+title: "Using filesort 能优化吗，怎么优化？"
+date: 2026-03-22T00:59:06+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

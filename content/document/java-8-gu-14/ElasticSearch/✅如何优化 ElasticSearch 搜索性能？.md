@@ -1,3 +1,11 @@
+---
+title: "如何优化 ElasticSearch 搜索性能？"
+date: 2026-03-22T00:55:24+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

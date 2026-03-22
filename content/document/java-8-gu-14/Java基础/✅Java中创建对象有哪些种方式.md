@@ -1,3 +1,11 @@
+---
+title: "Java中创建对象有哪些种方式"
+date: 2026-03-22T01:02:44+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

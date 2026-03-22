@@ -1,3 +1,11 @@
+---
+title: "Redis保存库存的时候，如何避免被Redis清理掉？"
+date: 2026-03-22T01:03:59+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

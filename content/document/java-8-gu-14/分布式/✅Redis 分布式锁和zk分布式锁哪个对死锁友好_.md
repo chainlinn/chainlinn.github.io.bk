@@ -1,3 +1,11 @@
+---
+title: "Redis 分布式锁和zk分布式锁哪个对死锁友好_"
+date: 2026-03-22T00:56:19+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "HTTP不同版本之间的区别？"
+date: 2026-03-22T00:54:27+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # 典型回答
 
 

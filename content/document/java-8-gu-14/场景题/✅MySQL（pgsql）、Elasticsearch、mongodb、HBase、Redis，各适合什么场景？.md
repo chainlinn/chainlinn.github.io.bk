@@ -1,3 +1,11 @@
+---
+title: "MySQL（pgsql）、Elasticsearch、mongodb、HBase、Redis，各适合什么场景？"
+date: 2026-03-22T01:03:10+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

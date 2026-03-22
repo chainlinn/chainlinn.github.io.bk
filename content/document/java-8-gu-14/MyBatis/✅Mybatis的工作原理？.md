@@ -1,3 +1,11 @@
+---
+title: "Mybatis的工作原理？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # **<font style="color:rgb(38, 38, 38);"></font>**典型回答
 无论是Mybatis也好，Spring也罢，它们的执行过程无非可分为启动阶段和运行阶段：
 

@@ -1,3 +1,11 @@
+---
+title: "Spring Event和MQ有什么区别？各自适用场景是什么？"
+date: 2026-03-22T01:04:14+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

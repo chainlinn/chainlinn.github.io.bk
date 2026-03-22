@@ -1,3 +1,11 @@
+---
+title: "为什么Java不支持多继承？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

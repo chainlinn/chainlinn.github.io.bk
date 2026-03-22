@@ -1,3 +1,11 @@
+---
+title: "InnoDB中的索引类型？"
+date: 2026-03-22T01:00:08+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "jhat有什么用，如何用他分析堆dump"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 其他
+---
+
 # 典型回答
 
 

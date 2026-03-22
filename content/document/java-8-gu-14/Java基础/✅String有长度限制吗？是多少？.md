@@ -1,3 +1,11 @@
+---
+title: "String有长度限制吗？是多少？"
+date: 2026-03-22T01:02:47+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "JDK25的ScopedValue是什么？为什么可以替代ThreadLocal？"
+date: 2026-03-22T01:02:01+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

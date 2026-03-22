@@ -1,3 +1,11 @@
+---
+title: "String str=new String(_hollis_)创建了几个对象？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 创建的对象数应该是1个或者2个。
 

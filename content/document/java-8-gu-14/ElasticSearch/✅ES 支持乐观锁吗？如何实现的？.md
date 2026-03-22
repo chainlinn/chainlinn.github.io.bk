@@ -1,3 +1,11 @@
+---
+title: "ES 支持乐观锁吗？如何实现的？"
+date: 2026-03-22T00:55:23+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

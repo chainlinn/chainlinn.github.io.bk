@@ -1,3 +1,11 @@
+---
+title: "为什么Kafka没办法100%保证消息不丢失？"
+date: 2026-03-22T00:55:44+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

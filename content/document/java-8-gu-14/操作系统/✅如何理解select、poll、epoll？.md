@@ -1,3 +1,11 @@
+---
+title: "如何理解select、poll、epoll？"
+date: 2026-03-22T00:54:21+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 
 

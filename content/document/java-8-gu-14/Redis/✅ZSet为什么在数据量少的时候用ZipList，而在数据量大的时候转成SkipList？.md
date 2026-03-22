@@ -1,3 +1,11 @@
+---
+title: "ZSet为什么在数据量少的时候用ZipList，而在数据量大的时候转成SkipList？"
+date: 2026-03-22T00:55:54+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

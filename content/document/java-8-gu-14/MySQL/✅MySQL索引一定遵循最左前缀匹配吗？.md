@@ -1,3 +1,11 @@
+---
+title: "MySQL索引一定遵循最左前缀匹配吗？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "Maven如何解决jar包冲突的问题？"
+date: 2026-03-22T00:54:51+08:00
+draft: false
+categories:
+  - Maven&Git
+---
+
 # 典型回答
 
 

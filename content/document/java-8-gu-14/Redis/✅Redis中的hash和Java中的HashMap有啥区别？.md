@@ -1,3 +1,11 @@
+---
+title: "Redis中的hash和Java中的HashMap有啥区别？"
+date: 2026-03-22T00:55:53+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

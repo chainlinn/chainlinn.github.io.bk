@@ -1,3 +1,11 @@
+---
+title: "rabbitMQ如何实现延迟消息？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

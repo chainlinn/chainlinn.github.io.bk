@@ -1,3 +1,11 @@
+---
+title: "什么是大Key问题，如何解决？"
+date: 2026-03-22T00:56:09+08:00
+draft: false
+categories:
+  - Redis
+---
+
 Big Key是Redis中存储了大量数据的Key，不要误以为big key只是表示Key的值很大，他还包括这个Key对应的value占用空间很多的情况，通常在String、list、hash、set、zset等类型中出现的问题比较多。其中String类型就是字符串的值比较大，而其他几个类型就是其中元素过多的情况。
 
 

@@ -1,3 +1,11 @@
+---
+title: "Spring Bean的生命周期是怎么样的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

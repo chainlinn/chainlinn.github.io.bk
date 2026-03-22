@@ -1,3 +1,11 @@
+---
+title: "String的设计，用到了哪些设计模式？"
+date: 2026-03-22T00:54:42+08:00
+draft: false
+categories:
+  - 设计模式
+---
+
 # 典型回答
 
 

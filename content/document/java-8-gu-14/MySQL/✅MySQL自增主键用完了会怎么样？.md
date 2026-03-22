@@ -1,3 +1,11 @@
+---
+title: "MySQL自增主键用完了会怎么样？"
+date: 2026-03-22T00:59:16+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

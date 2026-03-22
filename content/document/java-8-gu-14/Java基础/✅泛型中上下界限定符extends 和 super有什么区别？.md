@@ -1,3 +1,11 @@
+---
+title: "泛型中上下界限定符extends 和 super有什么区别？"
+date: 2026-03-22T01:02:45+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

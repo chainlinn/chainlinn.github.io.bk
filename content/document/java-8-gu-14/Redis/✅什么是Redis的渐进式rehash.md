@@ -1,3 +1,11 @@
+---
+title: "什么是Redis的渐进式rehash"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

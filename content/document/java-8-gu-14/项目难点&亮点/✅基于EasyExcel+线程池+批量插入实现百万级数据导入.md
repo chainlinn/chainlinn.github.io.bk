@@ -1,3 +1,11 @@
+---
+title: "基于EasyExcel+线程池+批量插入实现百万级数据导入"
+date: 2026-03-22T01:02:55+08:00
+draft: false
+categories:
+  - 项目难点&亮点
+---
+
 
 
 这个问题是[https://www.yuque.com/hollis666/ec96i7/pq601cwrcmznni0x](https://www.yuque.com/hollis666/ec96i7/pq601cwrcmznni0x) 的衍生，内容基本上是来自这篇的，不是为了凑数，是很多人不知道这种其实可以当做项目亮点来用的，所以在这里单独再加一下。

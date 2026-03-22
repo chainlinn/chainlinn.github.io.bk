@@ -1,3 +1,11 @@
+---
+title: "Linux下rm正在写入的文件会发生什么？"
+date: 2026-03-22T00:54:13+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 
 

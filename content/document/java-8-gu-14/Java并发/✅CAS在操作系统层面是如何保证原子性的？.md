@@ -1,3 +1,11 @@
+---
+title: "CAS在操作系统层面是如何保证原子性的？"
+date: 2026-03-22T01:02:18+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

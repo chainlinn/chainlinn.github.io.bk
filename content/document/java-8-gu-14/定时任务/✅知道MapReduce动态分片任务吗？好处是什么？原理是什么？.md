@@ -1,3 +1,11 @@
+---
+title: "知道MapReduce动态分片任务吗？好处是什么？原理是什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 定时任务
+---
+
 # 典型回答
 
 

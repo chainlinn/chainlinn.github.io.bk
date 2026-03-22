@@ -1,3 +1,11 @@
+---
+title: "xxl-job如何保证一任务只会触发一次？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 定时任务
+---
+
 # 典型回答
 
 

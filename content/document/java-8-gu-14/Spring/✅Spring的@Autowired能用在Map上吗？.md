@@ -1,3 +1,11 @@
+---
+title: "Spring的@Autowired能用在Map上吗？"
+date: 2026-03-22T01:00:59+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

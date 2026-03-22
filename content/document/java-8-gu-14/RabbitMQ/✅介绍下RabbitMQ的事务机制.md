@@ -1,3 +1,11 @@
+---
+title: "介绍下RabbitMQ的事务机制"
+date: 2026-03-22T00:55:29+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

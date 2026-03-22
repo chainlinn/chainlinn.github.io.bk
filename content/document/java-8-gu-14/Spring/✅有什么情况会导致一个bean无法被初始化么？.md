@@ -1,3 +1,11 @@
+---
+title: "有什么情况会导致一个bean无法被初始化么？"
+date: 2026-03-22T01:00:57+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

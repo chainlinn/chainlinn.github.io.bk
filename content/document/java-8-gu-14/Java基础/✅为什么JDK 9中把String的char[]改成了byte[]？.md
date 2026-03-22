@@ -1,3 +1,11 @@
+---
+title: "为什么JDK 9中把String的char[]改成了byte[]？"
+date: 2026-03-22T01:02:36+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

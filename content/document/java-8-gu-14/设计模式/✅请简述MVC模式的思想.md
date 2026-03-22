@@ -1,3 +1,11 @@
+---
+title: "请简述MVC模式的思想"
+date: 2026-03-22T00:54:45+08:00
+draft: false
+categories:
+  - 设计模式
+---
+
 # 典型回答
 
 

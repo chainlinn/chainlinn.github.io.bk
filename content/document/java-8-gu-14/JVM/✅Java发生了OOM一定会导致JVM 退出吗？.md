@@ -1,3 +1,11 @@
+---
+title: "Java发生了OOM一定会导致JVM 退出吗？"
+date: 2026-03-22T01:01:32+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

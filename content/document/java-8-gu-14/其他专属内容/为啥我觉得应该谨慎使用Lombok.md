@@ -1,3 +1,11 @@
+---
+title: "为啥我觉得应该谨慎使用Lombok"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 其他专属内容
+---
+
 Lombok是一款非常实用Java工具，可用来帮助开发人员消除Java的冗长代码，尤其是对于简单的Java对象（POJO）。它通过注释实现这一目的。
 
 

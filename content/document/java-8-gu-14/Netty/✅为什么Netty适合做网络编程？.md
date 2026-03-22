@@ -1,3 +1,11 @@
+---
+title: "为什么Netty适合做网络编程？"
+date: 2026-03-22T00:56:41+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 Netty 是由 JBOSS 提供的一个 Java 开源框架。Netty 提供异步的、基于事件驱动的网络应用程序框架，用以快速开发高性能、高可靠性的网络 IO 程序。<font style="color:black;">Netty 主要用来做网络通信，一般可以用来作RPC框架的通信工具、实现即时通讯系统以及实时消息推送系统等。</font>
 

@@ -1,3 +1,11 @@
+---
+title: "ConcurrentHashMap为什么在JDK1.8中使用synchronized而不是ReentrantLock"
+date: 2026-03-22T01:01:48+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 
 

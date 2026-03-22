@@ -1,3 +1,11 @@
+---
+title: "Dubbo服务发现与路由的概念有什么不同？"
+date: 2026-03-22T00:55:50+08:00
+draft: false
+categories:
+  - Dubbo
+---
+
 # 典型回答
 
 

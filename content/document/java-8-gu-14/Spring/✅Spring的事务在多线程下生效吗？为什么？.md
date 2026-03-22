@@ -1,3 +1,11 @@
+---
+title: "Spring的事务在多线程下生效吗？为什么？"
+date: 2026-03-22T01:01:00+08:00
+draft: false
+categories:
+  - Spring
+---
+
 
 
 # 典型回答

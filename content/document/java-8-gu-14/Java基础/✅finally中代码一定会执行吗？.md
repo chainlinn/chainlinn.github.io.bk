@@ -1,3 +1,11 @@
+---
+title: "finally中代码一定会执行吗？"
+date: 2026-03-22T01:02:40+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

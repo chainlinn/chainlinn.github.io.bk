@@ -1,3 +1,11 @@
+---
+title: "为什么不能在try-catch中捕获子线程的异常_"
+date: 2026-03-22T01:02:10+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

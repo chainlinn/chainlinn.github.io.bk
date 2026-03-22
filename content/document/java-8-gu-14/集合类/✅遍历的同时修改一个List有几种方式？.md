@@ -1,3 +1,11 @@
+---
+title: "遍历的同时修改一个List有几种方式？"
+date: 2026-03-22T01:01:59+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 我们知道，在foreach的同时修改集合，会触发fail-fast机制，要避免fail-fast机制，有如下处理方案：
 

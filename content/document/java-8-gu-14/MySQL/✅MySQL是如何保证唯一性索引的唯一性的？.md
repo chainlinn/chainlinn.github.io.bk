@@ -1,3 +1,11 @@
+---
+title: "MySQL是如何保证唯一性索引的唯一性的？"
+date: 2026-03-22T01:00:07+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 
 
 # 典型回答

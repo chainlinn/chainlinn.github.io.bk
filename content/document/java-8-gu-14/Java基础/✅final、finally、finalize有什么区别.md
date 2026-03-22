@@ -1,3 +1,11 @@
+---
+title: "final、finally、finalize有什么区别"
+date: 2026-03-22T01:02:33+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

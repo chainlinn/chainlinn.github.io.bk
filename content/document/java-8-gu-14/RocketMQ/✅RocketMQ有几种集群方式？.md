@@ -1,3 +1,11 @@
+---
+title: "RocketMQ有几种集群方式？"
+date: 2026-03-22T00:55:37+08:00
+draft: false
+categories:
+  - RocketMQ
+---
+
 # 典型回答
 
 

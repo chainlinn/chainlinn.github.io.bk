@@ -1,3 +1,11 @@
+---
+title: "Oracle 支持哪些索引类型？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 # 典型回答
 
 

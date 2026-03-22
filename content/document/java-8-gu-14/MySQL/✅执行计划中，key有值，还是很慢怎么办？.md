@@ -1,3 +1,11 @@
+---
+title: "执行计划中，key有值，还是很慢怎么办？"
+date: 2026-03-22T00:59:16+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 [✅SQL执行计划分析的时候，要关注哪些信息？](https://www.yuque.com/hollis666/ec96i7/fho0bamf4qpcril5)
 

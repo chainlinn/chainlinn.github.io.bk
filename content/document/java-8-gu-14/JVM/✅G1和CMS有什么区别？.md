@@ -1,3 +1,11 @@
+---
+title: "G1和CMS有什么区别？"
+date: 2026-03-22T01:01:42+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

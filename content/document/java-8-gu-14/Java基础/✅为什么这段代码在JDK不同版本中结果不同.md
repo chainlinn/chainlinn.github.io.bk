@@ -1,3 +1,11 @@
+---
+title: "为什么这段代码在JDK不同版本中结果不同"
+date: 2026-03-22T01:02:32+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

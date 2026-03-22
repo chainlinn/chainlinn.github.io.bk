@@ -1,3 +1,11 @@
+---
+title: "简单介绍一下DNS？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # 典型回答
 
 

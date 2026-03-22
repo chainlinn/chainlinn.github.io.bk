@@ -1,3 +1,11 @@
+---
+title: "ClassNotFoundException和NoClassDefFoundError的区别是什么？"
+date: 2026-03-22T01:02:37+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

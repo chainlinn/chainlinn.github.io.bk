@@ -1,3 +1,11 @@
+---
+title: "Kafka如何实现顺序消费？"
+date: 2026-03-22T00:55:44+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

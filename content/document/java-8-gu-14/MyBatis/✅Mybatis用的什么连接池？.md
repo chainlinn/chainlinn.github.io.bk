@@ -1,3 +1,11 @@
+---
+title: "Mybatis用的什么连接池？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # <font style="color:rgb(38, 38, 38);">典型回答</font>
 Mybatis内置了三种数据源，分别是Pooled，Unpooled和JNDI，其中Pooled数据源是具有连接池的。同时Mybatis也可以使用三方数据源，如Druid，Hikari，C3P0等等
 

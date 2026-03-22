@@ -1,3 +1,11 @@
+---
+title: "MySQL如何实现行转列和列转行？"
+date: 2026-03-22T00:58:58+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "TCC中，Confirm或者Cancel失败了怎么办？"
+date: 2026-03-22T00:56:22+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 典型回答
 
 

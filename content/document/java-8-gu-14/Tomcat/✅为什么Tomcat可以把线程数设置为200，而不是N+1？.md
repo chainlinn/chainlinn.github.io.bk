@@ -1,3 +1,11 @@
+---
+title: "为什么Tomcat可以把线程数设置为200，而不是N+1？"
+date: 2026-03-22T00:56:43+08:00
+draft: false
+categories:
+  - Tomcat
+---
+
 # 典型回答
 
 

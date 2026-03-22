@@ -1,3 +1,11 @@
+---
+title: "Dubbo的缓存机制了解吗？"
+date: 2026-03-22T00:55:50+08:00
+draft: false
+categories:
+  - Dubbo
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "什么是Java Dump，如何获取？"
+date: 2026-03-22T00:53:50+08:00
+draft: false
+categories:
+  - 其他
+---
+
 Dump是Java虚拟机的**运行时快照**。将Java虚拟机运行时的状态和信息保存到文件。
 
 

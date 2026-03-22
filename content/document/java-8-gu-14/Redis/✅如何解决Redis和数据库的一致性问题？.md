@@ -1,3 +1,11 @@
+---
+title: "如何解决Redis和数据库的一致性问题？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 [✅什么情况下会出现数据库和缓存不一致的问题？](https://www.yuque.com/hollis666/ec96i7/xr0h8h)
 

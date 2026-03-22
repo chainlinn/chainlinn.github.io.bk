@@ -1,3 +1,11 @@
+---
+title: "Zookeeper的watch机制是如何工作的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Zookeeper
+---
+
 # 典型回答
 
 

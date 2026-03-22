@@ -1,3 +1,11 @@
+---
+title: "为什么需要HTTP_2，他解决了什么问题？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # <font style="color:#000000;">典型回答</font>
 <font style="color:#000000;"></font>
 

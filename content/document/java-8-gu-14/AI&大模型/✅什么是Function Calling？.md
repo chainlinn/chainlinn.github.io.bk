@@ -1,3 +1,11 @@
+---
+title: "什么是Function Calling？"
+date: 2026-03-22T00:53:21+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 # 典型回答
 
 

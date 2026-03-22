@@ -1,3 +1,11 @@
+---
+title: "RabbitMQ如何保证消息不丢"
+date: 2026-03-22T00:55:29+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

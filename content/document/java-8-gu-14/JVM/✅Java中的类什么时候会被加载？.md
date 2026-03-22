@@ -1,3 +1,11 @@
+---
+title: "Java中的类什么时候会被加载？"
+date: 2026-03-22T01:01:39+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

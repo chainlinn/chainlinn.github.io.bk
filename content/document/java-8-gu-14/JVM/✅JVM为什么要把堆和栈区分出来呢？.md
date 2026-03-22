@@ -1,3 +1,11 @@
+---
+title: "JVM为什么要把堆和栈区分出来呢？"
+date: 2026-03-22T01:01:35+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

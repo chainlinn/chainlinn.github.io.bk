@@ -1,3 +1,11 @@
+---
+title: "怎么实现分布式Session？"
+date: 2026-03-22T00:56:28+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 扩展知识
 
 

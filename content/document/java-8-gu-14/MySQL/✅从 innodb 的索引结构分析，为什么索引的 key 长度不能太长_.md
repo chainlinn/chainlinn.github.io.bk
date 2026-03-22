@@ -1,3 +1,11 @@
+---
+title: "从 innodb 的索引结构分析，为什么索引的 key 长度不能太长_"
+date: 2026-03-22T00:59:05+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

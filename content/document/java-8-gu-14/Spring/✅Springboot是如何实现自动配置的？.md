@@ -1,3 +1,11 @@
+---
+title: "Springboot是如何实现自动配置的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 Spring Boot会根据类路径中的jar包、类，为jar包里的类自动配置，这样可以极大的减少配置的数量。简单点说就是它会根据定义在classpath下的类，自动的给你生成一些Bean，并加载到Spring的Context中。
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL做索引更新的时候，会锁表吗？"
+date: 2026-03-22T00:58:58+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

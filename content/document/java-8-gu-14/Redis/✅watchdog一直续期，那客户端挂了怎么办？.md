@@ -1,3 +1,11 @@
+---
+title: "watchdog一直续期，那客户端挂了怎么办？"
+date: 2026-03-22T00:56:00+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

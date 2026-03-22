@@ -1,3 +1,11 @@
+---
+title: "MySQL为什么会有存储（内存）碎片？有什么危害？"
+date: 2026-03-22T00:59:04+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

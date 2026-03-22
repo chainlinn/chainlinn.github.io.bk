@@ -1,3 +1,11 @@
+---
+title: "有了synchronized为什么还需要volatile_"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 synchronized其实是一种加锁机制，那么既然是锁，天然就具备以下几个缺点：
 

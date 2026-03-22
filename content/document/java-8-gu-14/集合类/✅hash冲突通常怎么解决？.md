@@ -1,3 +1,11 @@
+---
+title: "hash冲突通常怎么解决？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 
 

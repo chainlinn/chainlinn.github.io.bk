@@ -1,3 +1,11 @@
+---
+title: "MySQL的limit+order by为什么会数据重复？"
+date: 2026-03-22T00:59:14+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

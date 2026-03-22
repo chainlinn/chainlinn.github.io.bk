@@ -1,3 +1,11 @@
+---
+title: "ElasticSearch为什么快？"
+date: 2026-03-22T00:55:25+08:00
+draft: false
+categories:
+  - ElasticSearch
+---
+
 # 典型回答
 
 

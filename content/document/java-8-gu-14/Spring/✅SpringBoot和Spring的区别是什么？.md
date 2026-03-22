@@ -1,3 +1,11 @@
+---
+title: "SpringBoot和Spring的区别是什么？"
+date: 2026-03-22T01:01:06+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

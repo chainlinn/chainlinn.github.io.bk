@@ -1,3 +1,11 @@
+---
+title: "int a = 1 是原子性操作吗"
+date: 2026-03-22T01:02:20+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL热点数据更新会带来哪些问题？"
+date: 2026-03-22T01:05:04+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

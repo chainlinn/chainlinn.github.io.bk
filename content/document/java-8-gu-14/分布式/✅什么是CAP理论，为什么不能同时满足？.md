@@ -1,3 +1,11 @@
+---
+title: "什么是CAP理论，为什么不能同时满足？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 典型回答
 CAP理论：一个分布式系统最多只能同时满足一致性（Consistency）、可用性（Availability）和分区容错性（Partition tolerance）这三项中的两项。
 

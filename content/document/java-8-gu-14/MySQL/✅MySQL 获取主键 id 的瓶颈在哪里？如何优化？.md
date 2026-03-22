@@ -1,3 +1,11 @@
+---
+title: "MySQL 获取主键 id 的瓶颈在哪里？如何优化？"
+date: 2026-03-22T00:59:03+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

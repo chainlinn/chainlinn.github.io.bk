@@ -1,3 +1,11 @@
+---
+title: "对接大模型的API哪些参数了解么？"
+date: 2026-03-22T00:53:17+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 ```python
 import os
 from openai import OpenAI

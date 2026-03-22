@@ -1,3 +1,11 @@
+---
+title: "Redis中的Zset是怎么实现的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 ZSet（也称为Sorted Set）是Redis中的一种特殊的数据结构，它内部维护了一个有序的字典，这个字典的元素中既包括了一个成员（member），也包括了一个double类型的分值(score)。这个结构可以帮助用户实现记分类型的排行榜数据，比如游戏分数排行榜，网站流行度排行等。
 

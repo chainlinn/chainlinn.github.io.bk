@@ -1,3 +1,11 @@
+---
+title: "Redis的虚拟内存机制是什么？"
+date: 2026-03-22T00:56:12+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

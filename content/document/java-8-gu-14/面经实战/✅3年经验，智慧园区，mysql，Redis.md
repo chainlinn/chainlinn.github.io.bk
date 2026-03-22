@@ -1,3 +1,11 @@
+---
+title: "3年经验，智慧园区，mysql，Redis"
+date: 2026-03-22T00:53:32+08:00
+draft: false
+categories:
+  - 面经实战
+---
+
 # 面试者背景
 
 

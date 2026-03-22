@@ -1,3 +1,11 @@
+---
+title: "为什么MySQL会选错索引，如何解决？"
+date: 2026-03-22T00:59:10+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

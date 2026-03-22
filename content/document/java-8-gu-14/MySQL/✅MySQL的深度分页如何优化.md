@@ -1,3 +1,11 @@
+---
+title: "MySQL的深度分页如何优化"
+date: 2026-03-22T00:59:15+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

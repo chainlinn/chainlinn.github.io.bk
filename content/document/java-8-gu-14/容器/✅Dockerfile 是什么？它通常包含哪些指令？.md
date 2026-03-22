@@ -1,3 +1,11 @@
+---
+title: "Dockerfile 是什么？它通常包含哪些指令？"
+date: 2026-03-22T00:54:07+08:00
+draft: false
+categories:
+  - 容器
+---
+
 # 典型回答
 
 

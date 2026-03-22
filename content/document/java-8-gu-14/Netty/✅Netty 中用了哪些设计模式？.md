@@ -1,3 +1,11 @@
+---
+title: "Netty 中用了哪些设计模式？"
+date: 2026-03-22T00:56:38+08:00
+draft: false
+categories:
+  - Netty
+---
+
 # 典型回答
 
 

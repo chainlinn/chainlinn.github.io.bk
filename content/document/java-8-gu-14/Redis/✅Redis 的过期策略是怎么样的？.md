@@ -1,3 +1,11 @@
+---
+title: "Redis 的过期策略是怎么样的？"
+date: 2026-03-22T00:56:11+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

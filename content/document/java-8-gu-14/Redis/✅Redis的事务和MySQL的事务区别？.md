@@ -1,3 +1,11 @@
+---
+title: "Redis的事务和MySQL的事务区别？"
+date: 2026-03-22T00:55:56+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

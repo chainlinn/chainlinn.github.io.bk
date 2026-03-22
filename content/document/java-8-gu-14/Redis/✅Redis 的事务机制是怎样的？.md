@@ -1,3 +1,11 @@
+---
+title: "Redis 的事务机制是怎样的？"
+date: 2026-03-22T00:56:11+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

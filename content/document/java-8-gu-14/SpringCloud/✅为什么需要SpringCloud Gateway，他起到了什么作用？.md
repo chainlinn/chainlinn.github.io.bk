@@ -1,3 +1,11 @@
+---
+title: "为什么需要SpringCloud Gateway，他起到了什么作用？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

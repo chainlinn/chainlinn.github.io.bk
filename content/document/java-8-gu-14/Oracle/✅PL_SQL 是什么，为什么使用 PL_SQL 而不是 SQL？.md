@@ -1,3 +1,11 @@
+---
+title: "PL_SQL 是什么，为什么使用 PL_SQL 而不是 SQL？"
+date: 2026-03-22T00:56:50+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 **PL/SQL**（Procedural Language/SQL）是 Oracle 提供的一种过程化编程语言，它结合了 SQL 的数据操作功能和过程化语言的控制结构。**PL/SQL 可以用来编写复杂的数据库操作，提供了更高效的数据库程序设计和更强的控制能力。**
 
 

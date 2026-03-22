@@ -1,3 +1,11 @@
+---
+title: "Oracle中如何实现行转列和列转行？"
+date: 2026-03-22T00:56:50+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 # 典型回答
 
 

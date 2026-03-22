@@ -1,3 +1,11 @@
+---
+title: "MyBatis与Hibernate有何不同？"
+date: 2026-03-22T00:56:49+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # <font style="color:rgb(18, 18, 18);">典型回答</font>
 Hibernate和Mybatis都是ORM框架，都支持JDBC和JTA事务处理，它们创建的目的都是为了简化Java原生程序操作数据库的步骤。增加开发者的开发效率。
 

@@ -1,3 +1,11 @@
+---
+title: "用@Scheduled执行定时任务，如何避免集群的并发问题"
+date: 2026-03-22T01:03:58+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

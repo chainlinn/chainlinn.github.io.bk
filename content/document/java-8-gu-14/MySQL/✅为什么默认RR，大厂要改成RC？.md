@@ -1,3 +1,11 @@
+---
+title: "为什么默认RR，大厂要改成RC？"
+date: 2026-03-22T01:00:11+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

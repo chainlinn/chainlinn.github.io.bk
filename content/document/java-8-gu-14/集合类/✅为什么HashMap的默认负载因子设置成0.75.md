@@ -1,3 +1,11 @@
+---
+title: "为什么HashMap的默认负载因子设置成0.75"
+date: 2026-03-22T01:01:55+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 
 

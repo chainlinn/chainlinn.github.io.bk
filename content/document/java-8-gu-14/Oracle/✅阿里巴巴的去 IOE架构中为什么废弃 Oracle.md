@@ -1,3 +1,11 @@
+---
+title: "阿里巴巴的去 IOE架构中为什么废弃 Oracle"
+date: 2026-03-22T00:56:52+08:00
+draft: false
+categories:
+  - Oracle
+---
+
 # 典型回答
 
 

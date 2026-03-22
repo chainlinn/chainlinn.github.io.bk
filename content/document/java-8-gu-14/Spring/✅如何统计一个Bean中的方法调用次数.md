@@ -1,3 +1,11 @@
+---
+title: "如何统计一个Bean中的方法调用次数"
+date: 2026-03-22T01:01:08+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

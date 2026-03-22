@@ -1,3 +1,11 @@
+---
+title: "什么是RPC，和HTTP有什么区别？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Dubbo
+---
+
 # 典型回答
 ****
 

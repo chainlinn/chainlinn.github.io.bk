@@ -1,3 +1,11 @@
+---
+title: "HTTPS和HTTP的区别是什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # 典型回答
 HTTP和HTTPS是两种协议，分别是Hypertext Transfer Protocol和HyperText Transfer Protocol Secure。
 

@@ -1,3 +1,11 @@
+---
+title: "Kafka 消息的发送过程简单介绍一下？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 当我们使用Kafka发送消息时，一般有两种方式，分别是同步发送（`producer.send(msg).get()` ）及异步发送（`producer.send(msg, callback)`）。
 

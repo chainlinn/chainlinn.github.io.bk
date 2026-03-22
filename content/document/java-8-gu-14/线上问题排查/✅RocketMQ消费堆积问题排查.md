@@ -1,3 +1,11 @@
+---
+title: "RocketMQ消费堆积问题排查"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 ## 问题现象
 负责的业务中有一个应用因为特殊原因，需要修改消息配置（将Spring Cloud Stream 改为 RocketMQ native），修改前和修改后的配置项如下：
 

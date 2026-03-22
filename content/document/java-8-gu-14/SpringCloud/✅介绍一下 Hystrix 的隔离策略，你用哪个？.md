@@ -1,3 +1,11 @@
+---
+title: "介绍一下 Hystrix 的隔离策略，你用哪个？"
+date: 2026-03-22T01:01:19+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

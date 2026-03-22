@@ -1,3 +1,11 @@
+---
+title: "@Lazy注解能解决循环依赖吗？"
+date: 2026-03-22T01:01:03+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

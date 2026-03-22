@@ -1,3 +1,11 @@
+---
+title: "Java是如何判断一个线程是否存活的？"
+date: 2026-03-22T01:02:11+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
   
 在Java中，我们自己想要判断线程是否存活，可以通过Thread下的isAlive()方法：

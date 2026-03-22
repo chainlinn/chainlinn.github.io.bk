@@ -1,3 +1,11 @@
+---
+title: "A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？"
+date: 2026-03-22T00:59:01+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

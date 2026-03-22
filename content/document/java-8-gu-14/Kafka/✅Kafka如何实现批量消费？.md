@@ -1,3 +1,11 @@
+---
+title: "Kafka如何实现批量消费？"
+date: 2026-03-22T00:55:40+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

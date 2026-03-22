@@ -1,3 +1,11 @@
+---
+title: "CAS一定有自旋吗？"
+date: 2026-03-22T01:02:19+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

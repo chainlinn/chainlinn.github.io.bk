@@ -1,3 +1,11 @@
+---
+title: "微服务中的CI_CD了解吗？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 微服务
+---
+
 # 典型回答
 
 

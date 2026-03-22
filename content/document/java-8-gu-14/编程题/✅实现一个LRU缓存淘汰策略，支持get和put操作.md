@@ -1,3 +1,11 @@
+---
+title: "实现一个LRU缓存淘汰策略，支持get和put操作"
+date: 2026-03-22T00:54:01+08:00
+draft: false
+categories:
+  - 编程题
+---
+
 # 典型回答
 
 

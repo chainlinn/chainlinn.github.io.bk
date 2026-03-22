@@ -1,3 +1,11 @@
+---
+title: "了解Redis的内存碎片吗？"
+date: 2026-03-22T00:55:53+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

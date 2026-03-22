@@ -1,3 +1,11 @@
+---
+title: "Redis中的ListPack是如何解决级联更新问题的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

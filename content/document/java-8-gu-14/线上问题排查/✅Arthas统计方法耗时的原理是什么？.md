@@ -1,3 +1,11 @@
+---
+title: "Arthas统计方法耗时的原理是什么？"
+date: 2026-03-22T01:03:06+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 # 典型回答
 
 

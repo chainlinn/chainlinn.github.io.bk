@@ -1,3 +1,11 @@
+---
+title: "ArrayList的序列化是怎么实现的？"
+date: 2026-03-22T01:01:57+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 
 

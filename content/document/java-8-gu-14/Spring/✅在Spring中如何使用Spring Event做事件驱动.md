@@ -1,3 +1,11 @@
+---
+title: "在Spring中如何使用Spring Event做事件驱动"
+date: 2026-03-22T01:01:06+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

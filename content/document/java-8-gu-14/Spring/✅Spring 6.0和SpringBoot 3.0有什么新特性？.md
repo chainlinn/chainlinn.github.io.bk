@@ -1,3 +1,11 @@
+---
+title: "Spring 6.0和SpringBoot 3.0有什么新特性？"
+date: 2026-03-22T01:01:13+08:00
+draft: false
+categories:
+  - Spring
+---
+
 Spring在2022年相继推出了Spring Framework 6.0和SpringBoot 3.0，Spring把这次升级称之为新一代框架的开始，下一个10年的新开端
 
 

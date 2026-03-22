@@ -1,3 +1,11 @@
+---
+title: "为什么虚拟线程尽量避免使用ThreadLocal"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 在使用虚拟线程的时候，不建议使用ThreadLocal，这是JDK官网文档中提到的。
 

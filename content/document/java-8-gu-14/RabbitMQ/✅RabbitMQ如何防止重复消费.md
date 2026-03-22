@@ -1,3 +1,11 @@
+---
+title: "RabbitMQ如何防止重复消费"
+date: 2026-03-22T00:55:30+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

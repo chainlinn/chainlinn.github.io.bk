@@ -1,3 +1,11 @@
+---
+title: "Spring事务失效可能是哪些原因？"
+date: 2026-03-22T01:01:10+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # <font style="color:rgb(85, 85, 85);">典型回答</font>
 
 

@@ -1,3 +1,11 @@
+---
+title: "Java序列化的原理是啥"
+date: 2026-03-22T01:02:42+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

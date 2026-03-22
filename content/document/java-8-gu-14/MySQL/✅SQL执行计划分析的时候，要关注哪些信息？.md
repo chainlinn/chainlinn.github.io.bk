@@ -1,3 +1,11 @@
+---
+title: "SQL执行计划分析的时候，要关注哪些信息？"
+date: 2026-03-22T00:59:22+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

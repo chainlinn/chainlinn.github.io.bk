@@ -1,3 +1,11 @@
+---
+title: "为什么在JDK8中HashMap要转成红黑树"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 ## 为什么不继续使用链表
 

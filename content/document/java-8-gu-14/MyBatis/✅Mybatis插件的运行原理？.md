@@ -1,3 +1,11 @@
+---
+title: "Mybatis插件的运行原理？"
+date: 2026-03-22T00:56:48+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # <font style="color:rgb(51, 51, 51);">典型回答</font>
 <font style="color:rgb(51, 51, 51);">Mybatis插件的运行原理主要涉及3个关键接口：Interceptor、Invocation和Plugin。</font>
 

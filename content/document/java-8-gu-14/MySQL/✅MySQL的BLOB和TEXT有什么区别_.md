@@ -1,3 +1,11 @@
+---
+title: "MySQL的BLOB和TEXT有什么区别_"
+date: 2026-03-22T00:58:59+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

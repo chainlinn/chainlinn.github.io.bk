@@ -1,3 +1,11 @@
+---
+title: "Spring 7 和Spring Boot 4 都有哪些新特性？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # <font style="color:rgb(17, 17, 51);">典型回答</font>
 
 

@@ -1,3 +1,11 @@
+---
+title: "一个Java进程占用的内存都哪些部分？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

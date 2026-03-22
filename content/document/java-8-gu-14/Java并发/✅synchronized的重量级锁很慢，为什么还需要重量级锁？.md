@@ -1,3 +1,11 @@
+---
+title: "synchronized的重量级锁很慢，为什么还需要重量级锁？"
+date: 2026-03-22T01:02:21+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

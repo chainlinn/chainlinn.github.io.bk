@@ -1,3 +1,11 @@
+---
+title: "为什么不直接用原生的BlockinQueue做消息队列"
+date: 2026-03-22T01:04:15+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

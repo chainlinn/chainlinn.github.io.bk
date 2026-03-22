@@ -1,3 +1,11 @@
+---
+title: "HashMap的remove方法是如何实现的？"
+date: 2026-03-22T01:01:53+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 # 扩展知识
 

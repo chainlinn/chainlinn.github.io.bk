@@ -1,3 +1,11 @@
+---
+title: "什么是CSRF攻击？XSS攻击？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 网络安全
+---
+
 ## CSRF
 **CSRF（Cross-site request forgery跨站请求伪造，也被称为“one click attack”或者session riding，通常缩写为CSRF或者XSRF，是一种对网站的恶意利用。**
 

@@ -1,3 +1,11 @@
+---
+title: "用了RocketMQ一定能实现削峰的效果吗？"
+date: 2026-03-22T00:55:35+08:00
+draft: false
+categories:
+  - RocketMQ
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "频繁FullGC问题排查"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 ### 问题发现
 
 

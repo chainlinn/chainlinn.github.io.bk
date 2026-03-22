@@ -1,3 +1,11 @@
+---
+title: "什么是MySQL的内存碎片？如何清理？"
+date: 2026-03-22T00:58:59+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

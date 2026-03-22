@@ -1,3 +1,11 @@
+---
+title: "Redis 与 Memcached 有什么区别？"
+date: 2026-03-22T00:56:16+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 Redis 和 Memcached 都是常见的缓存服务器，它们的主要区别包括以下几个方面：
 

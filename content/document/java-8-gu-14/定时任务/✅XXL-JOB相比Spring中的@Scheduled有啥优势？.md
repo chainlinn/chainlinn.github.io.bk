@@ -1,3 +1,11 @@
+---
+title: "XXL-JOB相比Spring中的@Scheduled有啥优势？"
+date: 2026-03-22T00:54:55+08:00
+draft: false
+categories:
+  - 定时任务
+---
+
 # 典型回答
 
 

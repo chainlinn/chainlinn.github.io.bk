@@ -1,3 +1,11 @@
+---
+title: "介绍一下RocketMQ的工作流程？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - RocketMQ
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "RocketMQ的事务消息和Kafka的事务消息有什么区别？"
+date: 2026-03-22T00:55:34+08:00
+draft: false
+categories:
+  - RocketMQ
+---
+
 # 典型回答
 
 

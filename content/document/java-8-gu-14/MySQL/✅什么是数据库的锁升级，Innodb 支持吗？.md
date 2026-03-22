@@ -1,3 +1,11 @@
+---
+title: "什么是数据库的锁升级，Innodb 支持吗？"
+date: 2026-03-22T00:59:02+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

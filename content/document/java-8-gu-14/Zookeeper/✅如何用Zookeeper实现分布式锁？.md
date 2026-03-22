@@ -1,3 +1,11 @@
+---
+title: "如何用Zookeeper实现分布式锁？"
+date: 2026-03-22T00:55:19+08:00
+draft: false
+categories:
+  - Zookeeper
+---
+
 **基于zookeeper临时有序节点可以实现的分布式锁。**
 
 

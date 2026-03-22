@@ -1,3 +1,11 @@
+---
+title: "DO、DTO、VO都是干什么的？"
+date: 2026-03-22T00:53:52+08:00
+draft: false
+categories:
+  - 其他
+---
+
 # 典型回答
 
 

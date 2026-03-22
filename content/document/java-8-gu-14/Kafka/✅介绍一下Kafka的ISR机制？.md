@@ -1,3 +1,11 @@
+---
+title: "介绍一下Kafka的ISR机制？"
+date: 2026-03-22T00:55:42+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

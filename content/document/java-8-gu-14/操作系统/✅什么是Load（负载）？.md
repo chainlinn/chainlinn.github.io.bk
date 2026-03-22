@@ -1,3 +1,11 @@
+---
+title: "什么是Load（负载）？"
+date: 2026-03-22T00:54:19+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # <font style="color:rgb(85, 85, 85);">典型回答</font>
 负载(load)是Linux机器的一个重要指标，直观了反应了机器当前的状态。
 

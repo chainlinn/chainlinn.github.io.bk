@@ -1,3 +1,11 @@
+---
+title: "泛型中K T V E ？ Object等分别代表什么含义。"
+date: 2026-03-22T01:02:45+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 E – Element (在集合中使用，因为集合中存放的是元素)
 
 T – Type（Java 类）

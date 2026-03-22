@@ -1,3 +1,11 @@
+---
+title: "MySQL的binlog有几种格式"
+date: 2026-03-22T00:59:15+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 每天记录典型回答
 
 

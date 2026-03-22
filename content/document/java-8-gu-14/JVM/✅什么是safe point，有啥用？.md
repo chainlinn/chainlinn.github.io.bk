@@ -1,3 +1,11 @@
+---
+title: "什么是safe point，有啥用？"
+date: 2026-03-22T01:01:31+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

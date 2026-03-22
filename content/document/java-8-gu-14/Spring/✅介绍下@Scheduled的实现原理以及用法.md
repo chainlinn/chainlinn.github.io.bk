@@ -1,3 +1,11 @@
+---
+title: "介绍下@Scheduled的实现原理以及用法"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 Spring 的 `@Scheduled` 注解用于在 Spring 应用中配置和执行定时任务。
 

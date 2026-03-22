@@ -1,3 +1,11 @@
+---
+title: "Spring中shutdownhook作用是什么？"
+date: 2026-03-22T01:01:07+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 在Spring框架中，Shutdown Hook（关闭钩子）是一种机制，用于在应用程序关闭时执行一些清理操作。
 

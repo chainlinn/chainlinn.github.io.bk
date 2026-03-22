@@ -1,3 +1,11 @@
+---
+title: "什么是Canal，他的工作原理是什么？"
+date: 2026-03-22T00:56:23+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 # 典型回答
 
 

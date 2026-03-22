@@ -1,3 +1,11 @@
+---
+title: "MySQL的数据存储一定是基于硬盘的吗？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

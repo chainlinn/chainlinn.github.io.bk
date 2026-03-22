@@ -1,3 +1,11 @@
+---
+title: "HashMap在get和put时经过哪些步骤？"
+date: 2026-03-22T01:01:56+08:00
+draft: false
+categories:
+  - 集合类
+---
+
 # 典型回答
 对于HashMap来说，底层是基于散列算法实现，散列算法分为散列再探测和拉链式。HashMap 则使用了拉链式的散列算法，即采用数组+链表/红黑树来解决hash冲突，数组是HashMap的主体，链表主要用来解决哈希冲突。这个数组是Entry类型，它是HashMap的内部类，每一个Entry包含一个key-value键值对
 

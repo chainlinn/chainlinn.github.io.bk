@@ -1,3 +1,11 @@
+---
+title: "select x from table where a = 1 这条sql导致索引失效的原因有哪些？"
+date: 2026-03-22T01:03:50+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

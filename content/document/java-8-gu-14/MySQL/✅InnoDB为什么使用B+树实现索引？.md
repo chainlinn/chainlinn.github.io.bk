@@ -1,3 +1,11 @@
+---
+title: "InnoDB为什么使用B+树实现索引？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

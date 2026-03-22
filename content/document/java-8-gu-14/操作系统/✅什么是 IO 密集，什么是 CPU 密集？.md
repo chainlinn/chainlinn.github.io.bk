@@ -1,3 +1,11 @@
+---
+title: "什么是 IO 密集，什么是 CPU 密集？"
+date: 2026-03-22T00:54:15+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 
 

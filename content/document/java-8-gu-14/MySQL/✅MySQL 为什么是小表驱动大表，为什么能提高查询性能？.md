@@ -1,3 +1,11 @@
+---
+title: "MySQL 为什么是小表驱动大表，为什么能提高查询性能？"
+date: 2026-03-22T00:59:02+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

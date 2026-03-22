@@ -1,3 +1,11 @@
+---
+title: "23年毕业，电商运营平台，mysql，mq，redis"
+date: 2026-03-22T00:53:32+08:00
+draft: false
+categories:
+  - 面经实战
+---
+
 # 面试者背景
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL 的 select _ 会用到事务吗？"
+date: 2026-03-22T01:00:41+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 我们都知道，在InnoDB存储引擎中，所有的修改操作都必须在事务中进行的，
 

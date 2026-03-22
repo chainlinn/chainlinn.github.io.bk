@@ -1,3 +1,11 @@
+---
+title: "如何使用jstack分析死锁"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 [✅什么是死锁，如何解决？](https://www.yuque.com/hollis666/ec96i7/mtdxsd)
 
 

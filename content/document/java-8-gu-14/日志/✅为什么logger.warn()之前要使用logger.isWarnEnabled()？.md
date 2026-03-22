@@ -1,3 +1,11 @@
+---
+title: "为什么logger.warn()之前要使用logger.isWarnEnabled()？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 日志
+---
+
 # 典型回答
 
 

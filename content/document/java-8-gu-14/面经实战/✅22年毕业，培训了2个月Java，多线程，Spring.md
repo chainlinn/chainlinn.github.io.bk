@@ -1,3 +1,11 @@
+---
+title: "22年毕业，培训了2个月Java，多线程，Spring"
+date: 2026-03-22T00:53:36+08:00
+draft: false
+categories:
+  - 面经实战
+---
+
 # 面试者背景
 
 

@@ -1,3 +1,11 @@
+---
+title: "MQ的重平衡会带来哪些问题？"
+date: 2026-03-22T00:55:40+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

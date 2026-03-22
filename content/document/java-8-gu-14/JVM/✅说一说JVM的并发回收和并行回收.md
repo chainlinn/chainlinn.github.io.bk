@@ -1,3 +1,11 @@
+---
+title: "说一说JVM的并发回收和并行回收"
+date: 2026-03-22T01:01:30+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

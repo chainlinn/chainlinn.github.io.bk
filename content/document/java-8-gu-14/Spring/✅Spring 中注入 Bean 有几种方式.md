@@ -1,3 +1,11 @@
+---
+title: "Spring 中注入 Bean 有几种方式"
+date: 2026-03-22T01:00:58+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

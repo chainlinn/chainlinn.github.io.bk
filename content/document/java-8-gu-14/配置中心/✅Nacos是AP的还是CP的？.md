@@ -1,3 +1,11 @@
+---
+title: "Nacos是AP的还是CP的？"
+date: 2026-03-22T00:55:28+08:00
+draft: false
+categories:
+  - 配置中心
+---
+
 # 典型回答
 
 

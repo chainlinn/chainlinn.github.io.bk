@@ -1,3 +1,11 @@
+---
+title: "Kafka的批量消费如何确保消息不丢？"
+date: 2026-03-22T00:55:40+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

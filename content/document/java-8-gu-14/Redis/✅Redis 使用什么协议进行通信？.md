@@ -1,3 +1,11 @@
+---
+title: "Redis 使用什么协议进行通信？"
+date: 2026-03-22T00:56:16+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

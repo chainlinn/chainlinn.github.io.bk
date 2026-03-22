@@ -1,3 +1,11 @@
+---
+title: "String a = _ab_; String b = _a_ + _b_; a == b 吗？"
+date: 2026-03-22T01:02:48+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

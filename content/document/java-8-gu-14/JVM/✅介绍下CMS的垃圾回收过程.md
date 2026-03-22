@@ -1,3 +1,11 @@
+---
+title: "介绍下CMS的垃圾回收过程"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - JVM
+---
+
 CMS，Concurrent Mark Sweep，同样是**老年代的收集器**。他是一个并发执行的垃圾收集器，他更加关注垃圾回收的停顿时间，通过他的名字Concurrent Mark Sweep就可以知道，他采用的是耗时更短的`**<font style="color:#5C8D07;">标记-清除算法</font>**`。
 
 

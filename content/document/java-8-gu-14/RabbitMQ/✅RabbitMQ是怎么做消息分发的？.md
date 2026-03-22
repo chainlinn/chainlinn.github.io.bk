@@ -1,3 +1,11 @@
+---
+title: "RabbitMQ是怎么做消息分发的？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - RabbitMQ
+---
+
 # 典型回答
 
 

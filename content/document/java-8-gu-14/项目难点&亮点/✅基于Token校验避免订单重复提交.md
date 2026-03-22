@@ -1,3 +1,11 @@
+---
+title: "基于Token校验避免订单重复提交"
+date: 2026-03-22T01:02:54+08:00
+draft: false
+categories:
+  - 项目难点&亮点
+---
+
 ### （本方案来自我的[数藏项目](https://www.yuque.com/hollis666/ec96i7/dgolk0cckpb94sia)，相关视频讲解及完整项目代码，在项目课中均有讲解）
 
 

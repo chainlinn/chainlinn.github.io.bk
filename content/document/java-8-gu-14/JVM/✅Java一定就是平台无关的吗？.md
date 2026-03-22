@@ -1,3 +1,11 @@
+---
+title: "Java一定就是平台无关的吗？"
+date: 2026-03-22T01:01:29+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

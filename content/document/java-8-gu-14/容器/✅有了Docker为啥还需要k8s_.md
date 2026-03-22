@@ -1,3 +1,11 @@
+---
+title: "有了Docker为啥还需要k8s_"
+date: 2026-03-22T00:54:08+08:00
+draft: false
+categories:
+  - 容器
+---
+
 # 典型回答
 
 

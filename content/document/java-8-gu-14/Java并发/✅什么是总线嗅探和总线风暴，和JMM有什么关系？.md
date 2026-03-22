@@ -1,3 +1,11 @@
+---
+title: "什么是总线嗅探和总线风暴，和JMM有什么关系？"
+date: 2026-03-22T01:02:15+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

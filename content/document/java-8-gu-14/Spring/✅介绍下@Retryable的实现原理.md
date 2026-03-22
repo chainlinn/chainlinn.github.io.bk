@@ -1,3 +1,11 @@
+---
+title: "介绍下@Retryable的实现原理"
+date: 2026-03-22T01:00:55+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

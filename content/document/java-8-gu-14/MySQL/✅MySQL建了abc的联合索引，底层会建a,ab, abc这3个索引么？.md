@@ -1,3 +1,11 @@
+---
+title: "MySQL建了abc的联合索引，底层会建a,ab, abc这3个索引么？"
+date: 2026-03-22T00:57:35+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

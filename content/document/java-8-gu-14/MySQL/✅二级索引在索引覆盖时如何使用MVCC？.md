@@ -1,3 +1,11 @@
+---
+title: "二级索引在索引覆盖时如何使用MVCC？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

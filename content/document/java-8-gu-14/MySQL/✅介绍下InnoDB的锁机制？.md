@@ -1,3 +1,11 @@
+---
+title: "介绍下InnoDB的锁机制？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

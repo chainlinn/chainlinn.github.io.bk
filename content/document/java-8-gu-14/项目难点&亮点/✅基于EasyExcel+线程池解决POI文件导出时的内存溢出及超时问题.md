@@ -1,3 +1,11 @@
+---
+title: "基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题"
+date: 2026-03-22T01:02:55+08:00
+draft: false
+categories:
+  - 项目难点&亮点
+---
+
 ### 背景
 
 

@@ -1,3 +1,11 @@
+---
+title: "为什么MySQL默认使用RR隔离级别？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 对于数据库的默认隔离级别，**Oracle默认的隔离级别是 RC，而MySQL默认的隔离级别是 RR。**
 
 

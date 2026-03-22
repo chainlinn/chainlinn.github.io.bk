@@ -1,3 +1,11 @@
+---
+title: "LoadBalancer和Ribbon的区别是什么？为什么用他替代Ribbon？"
+date: 2026-03-22T01:01:22+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "什么是BitMap？有什么用？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 数据结构
+---
+
 # 典型回答
 
 

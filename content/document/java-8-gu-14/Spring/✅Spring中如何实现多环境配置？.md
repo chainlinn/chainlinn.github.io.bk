@@ -1,3 +1,11 @@
+---
+title: "Spring中如何实现多环境配置？"
+date: 2026-03-22T01:01:02+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "HTTP_2存在什么问题，为什么需要HTTP_3？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - 计算机网络
+---
+
 # 典型回答
 <font style="color:#000000;"></font>
 

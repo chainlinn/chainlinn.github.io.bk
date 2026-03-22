@@ -1,3 +1,11 @@
+---
+title: "JDK1.8和1.9中类加载器有哪些不同"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "介绍一下InnoDB的数据页，和B+树的关系是什么？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

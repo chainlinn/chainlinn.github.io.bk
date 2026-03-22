@@ -1,3 +1,11 @@
+---
+title: "请详细描述DDD的实现流程？"
+date: 2026-03-22T00:54:53+08:00
+draft: false
+categories:
+  - DDD
+---
+
 # 典型回答
 
 

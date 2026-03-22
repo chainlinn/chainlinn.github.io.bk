@@ -1,3 +1,11 @@
+---
+title: "Zookeeper集群中的角色有哪些？有什么区别？"
+date: 2026-03-22T00:55:21+08:00
+draft: false
+categories:
+  - Zookeeper
+---
+
 ZK中主要有以下角色：
 
 

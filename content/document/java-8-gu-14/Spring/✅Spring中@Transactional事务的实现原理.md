@@ -1,3 +1,11 @@
+---
+title: "Spring中@Transactional事务的实现原理"
+date: 2026-03-22T01:00:56+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 操作，典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "负载（Load）和CPU利用率之间有什么区别？"
+date: 2026-03-22T00:54:20+08:00
+draft: false
+categories:
+  - 操作系统
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "MySQL中like的模糊查询如何优化"
+date: 2026-03-22T00:59:13+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 ## 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "程序运行期发生ClassNotFoundException 可能是什么原因？"
+date: 2026-03-22T01:03:02+08:00
+draft: false
+categories:
+  - 线上问题排查
+---
+
 # 典型回答
 
 

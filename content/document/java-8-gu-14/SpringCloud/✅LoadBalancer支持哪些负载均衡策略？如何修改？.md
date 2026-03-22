@@ -1,3 +1,11 @@
+---
+title: "LoadBalancer支持哪些负载均衡策略？如何修改？"
+date: 2026-03-22T01:01:19+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "五个线程abcde，想先执行a，在执行bcd，bcd执行完后执行e如何做？"
+date: 2026-03-22T00:53:59+08:00
+draft: false
+categories:
+  - 编程题
+---
+
 # 典型回答
 
 

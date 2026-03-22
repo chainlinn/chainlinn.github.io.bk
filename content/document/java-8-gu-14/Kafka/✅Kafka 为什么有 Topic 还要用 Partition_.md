@@ -1,3 +1,11 @@
+---
+title: "Kafka 为什么有 Topic 还要用 Partition_"
+date: 2026-03-22T00:55:43+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

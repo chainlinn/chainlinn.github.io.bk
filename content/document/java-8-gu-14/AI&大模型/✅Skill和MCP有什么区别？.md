@@ -1,3 +1,11 @@
+---
+title: "Skill和MCP有什么区别？"
+date: 2026-03-22T00:53:17+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 # 典型回答
 
 

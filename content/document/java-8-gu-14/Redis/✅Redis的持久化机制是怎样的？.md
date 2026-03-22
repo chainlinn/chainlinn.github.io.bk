@@ -1,3 +1,11 @@
+---
+title: "Redis的持久化机制是怎样的？"
+date: 2026-03-22T00:56:12+08:00
+draft: false
+categories:
+  - Redis
+---
+
 # 典型回答
 
 

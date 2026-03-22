@@ -1,3 +1,11 @@
+---
+title: "Kafka的消费者数量和分区数量可以不同吗？会发生什么？"
+date: 2026-03-22T00:55:41+08:00
+draft: false
+categories:
+  - Kafka
+---
+
 # 典型回答
 
 

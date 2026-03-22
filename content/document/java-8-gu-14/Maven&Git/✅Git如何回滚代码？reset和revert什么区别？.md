@@ -1,3 +1,11 @@
+---
+title: "Git如何回滚代码？reset和revert什么区别？"
+date: 2026-03-22T00:54:50+08:00
+draft: false
+categories:
+  - Maven&Git
+---
+
 # 典型回答
 
 

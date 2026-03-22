@@ -1,3 +1,11 @@
+---
+title: "什么是ReadView，什么样的ReadView可见？"
+date: 2026-03-22T01:34:52+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 ReadView 是 InnoDB 中一个至关重要的概念，他是实现MVCC的基础，同时他也是支持不同的事务隔离级别的基础，同时提高系统的并发能力和性能。
 

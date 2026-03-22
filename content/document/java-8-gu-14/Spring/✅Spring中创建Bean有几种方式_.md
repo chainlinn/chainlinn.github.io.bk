@@ -1,3 +1,11 @@
+---
+title: "Spring中创建Bean有几种方式_"
+date: 2026-03-22T01:00:58+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

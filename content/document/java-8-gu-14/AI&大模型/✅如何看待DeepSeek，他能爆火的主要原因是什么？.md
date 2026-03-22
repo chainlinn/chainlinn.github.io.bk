@@ -1,3 +1,11 @@
+---
+title: "如何看待DeepSeek，他能爆火的主要原因是什么？"
+date: 2026-03-22T00:53:22+08:00
+draft: false
+categories:
+  - AI&大模型
+---
+
 # 典型回答
 
 

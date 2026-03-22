@@ -1,3 +1,11 @@
+---
+title: "sychronized是非公平锁吗，那么是如何体现的？"
+date: 2026-03-22T01:02:05+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "Mybatis是如何实现字段映射的？"
+date: 2026-03-22T00:56:48+08:00
+draft: false
+categories:
+  - MyBatis
+---
+
 # 典型回答
 
 

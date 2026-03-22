@@ -1,3 +1,11 @@
+---
+title: "MySQL只操作同一条记录，也会发生死锁吗？"
+date: 2026-03-22T00:59:22+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

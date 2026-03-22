@@ -1,3 +1,11 @@
+---
+title: "OpenFeign 是如何实现负载均衡的？"
+date: 2026-03-22T01:01:17+08:00
+draft: false
+categories:
+  - SpringCloud
+---
+
 **OpenFeign自己是没有负载均衡的能力的，他的负载均衡是通过与 Spring Cloud LoadBalancer 集成的（以前支持Ribbon）。**
 
 

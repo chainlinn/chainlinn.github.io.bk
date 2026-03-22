@@ -1,3 +1,11 @@
+---
+title: "有了关系型数据库，为什么还需要NOSQL？"
+date: 2026-03-22T01:00:55+08:00
+draft: false
+categories:
+  - MySQL
+---
+
 # 典型回答
 
 

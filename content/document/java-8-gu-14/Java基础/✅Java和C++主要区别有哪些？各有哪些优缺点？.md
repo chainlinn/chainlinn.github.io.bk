@@ -1,3 +1,11 @@
+---
+title: "Java和C++主要区别有哪些？各有哪些优缺点？"
+date: 2026-03-22T01:02:52+08:00
+draft: false
+categories:
+  - Java基础
+---
+
 # 典型回答
 
 

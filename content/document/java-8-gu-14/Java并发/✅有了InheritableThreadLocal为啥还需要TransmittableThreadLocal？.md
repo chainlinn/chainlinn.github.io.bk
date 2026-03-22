@@ -1,3 +1,11 @@
+---
+title: "有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？"
+date: 2026-03-22T01:02:14+08:00
+draft: false
+categories:
+  - Java并发
+---
+
 # 典型回答
 
 

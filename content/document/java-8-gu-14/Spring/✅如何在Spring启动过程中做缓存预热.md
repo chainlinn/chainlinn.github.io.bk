@@ -1,3 +1,11 @@
+---
+title: "如何在Spring启动过程中做缓存预热"
+date: 2026-03-22T01:01:03+08:00
+draft: false
+categories:
+  - Spring
+---
+
 # 典型回答
 
 

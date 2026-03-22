@@ -1,3 +1,11 @@
+---
+title: "InnoDB为什么不用跳表，Redis为什么不用B+树？"
+date: 2026-03-22T01:05:06+08:00
+draft: false
+categories:
+  - 场景题
+---
+
 # 典型回答
 
 

@@ -1,3 +1,11 @@
+---
+title: "Seata的4种事务模式，各自适合的场景是什么？"
+date: 2026-03-22T00:56:21+08:00
+draft: false
+categories:
+  - 分布式
+---
+
 [✅Seata的实现原理是什么](https://www.yuque.com/hollis666/ec96i7/qro9fl9lsiinx1tu)
 
 

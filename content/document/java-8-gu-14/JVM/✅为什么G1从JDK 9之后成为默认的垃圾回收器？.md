@@ -1,3 +1,11 @@
+---
+title: "为什么G1从JDK 9之后成为默认的垃圾回收器？"
+date: 2026-03-22T01:01:41+08:00
+draft: false
+categories:
+  - JVM
+---
+
 # 典型回答
 
 
