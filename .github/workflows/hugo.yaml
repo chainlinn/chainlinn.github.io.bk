@@ -90,6 +90,8 @@ jobs:
         run: git config core.quotepath false
 
       - name: Build with Hugo
+        env:
+          HUGO_SHOWDOC_PUSH_URL: ${{ secrets.SHOWDOC_PUSH_URL }}
         run: |
           hugo \
             --gc \

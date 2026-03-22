@@ -1,0 +1,45 @@
+{{- $pushUrl := getenv "HUGO_SHOWDOC_PUSH_URL" -}}
+{{- if $pushUrl -}}
+<script>
+(function() {
+  var KEY = 'visitor_last_date';
+  var today = new Date().toISOString().slice(0, 10);
+  if (localStorage.getItem(KEY) === today) return;
+
+  var info = {
+    page: document.title,
+    url: location.href,
+    time: new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'}),
+    ua: navigator.userAgent,
+    ref: document.referrer || '直接访问',
+    lang: navigator.language,
+    screen: screen.width + 'x' + screen.height
+  };
+
+  var title = '👀 博客访客通知';
+  var lines = [
+    '#### 访客信息',
+    '| 项目 | 内容 |',
+    '|------|------|',
+    '| 页面 | ' + info.page + ' |',
+    '| 链接 | ' + info.url + ' |',
+    '| 时间 | ' + info.time + ' |',
+    '| 来源 | ' + info.ref + ' |',
+    '| 设备 | ' + info.screen + ' |',
+    '| UA | ' + info.ua.slice(0, 120) + ' |',
+    '| 语言 | ' + info.lang + ' |'
+  ];
+
+  var body = new URLSearchParams();
+  body.append('title', title);
+  body.append('content', lines.join('\n'));
+
+  fetch('{{ $pushUrl }}', {
+    method: 'POST',
+    body: body
+  }).then(function() {
+    localStorage.setItem(KEY, today);
+  }).catch(function() {});
+})();
+</script>
+{{- end -}}
