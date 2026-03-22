@@ -66,12 +66,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r rss/requirements.txt
       
-      # --- ↓↓↓ 这里是需要修改的地方 ↓↓↓ ---
       - name: Fetch RSS Feeds
-        env:
-          SHOWDOC_PUSH_URL: ${{ secrets.SHOWDOC_PUSH_URL }} # <<< 新增这行，注入Secret
         run: python rss/fetch_rss.py
-      # --- ↑↑↑ 修改结束 ↑↑↑ ---
 
       - name: Setup Pages
         id: pages
@@ -113,6 +109,19 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
+      - name: Notify article updates
+        if: github.event_name == 'push'
+        env:
+          SHOWDOC_PUSH_URL: ${{ secrets.SHOWDOC_PUSH_URL }}
+        run: python rss/notify.py articles
+
+      - name: Notify visitor stats
+        if: github.event_name == 'schedule'
+        env:
+          SHOWDOC_PUSH_URL: ${{ secrets.SHOWDOC_PUSH_URL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python rss/notify.py visitors
 
   deploy:
     environment:

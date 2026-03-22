@@ -153,25 +153,6 @@ def fetch_full_content(url: str, selector: str) -> str:
         print(f"    -> 解析全文失败: {url}, 错误: {e}")
     return ""
 
-def send_showdoc_notification(url: str, title: str, content: str):
-    """发送通知到 ShowDoc 推送服务。"""
-    print("\n--- 6. 正在发送 ShowDoc 推送... ---")
-    try:
-        payload = { "title": title, "content": content }
-        response = requests.post(url, data=payload, timeout=10)
-        response.raise_for_status()
-        response_json = response.json()
-        if response_json.get("error_code") == 0:
-            print("✅ ShowDoc 推送成功！")
-        else:
-            print(f"❌ ShowDoc 推送失败: {response_json.get('error_message', '未知错误')}")
-    except requests.exceptions.RequestException as e:
-        print(f"❌ ShowDoc 推送请求失败: {e}")
-    except json.JSONDecodeError:
-        print("❌ ShowDoc 推送失败: 无法解析服务器响应。")
-    except Exception as e:
-        print(f"❌ ShowDoc 推送时发生未知错误: {e}")
-
 # --- 3. 核心抓取与处理逻辑 ---
 def fetch_and_process_feed(args) -> List[dict]:
     blog_name, feed_config, max_entries = args
@@ -314,15 +295,7 @@ def main(strategy: str):
                         print(f"    - {s_info['icon']} {src}: {s_info['count']} 篇")
     except IOError as e:
         print(f"错误！无法写入文件: {e}")
-    if new_count > 0:
-        push_url = os.environ.get("SHOWDOC_PUSH_URL")
-        if push_url:
-            title = f"📚 RSS源更新：发现 {new_count} 篇新文章！"
-            content = "#### 本次更新内容：\n" + "\n".join(new_articles_details)
-            send_showdoc_notification(push_url, title, content)
-        else:
-            print("\n未配置 SHOWDOC_PUSH_URL 环境变量，跳过推送。")
-    print("\n--- 7. 向 GitHub Actions 输出结果... ---")
+    print("\n--- 6. 向 GitHub Actions 输出结果... ---")
     if os.environ.get("GITHUB_ACTIONS") == "true":
         output_file = os.environ.get("GITHUB_OUTPUT")
         if output_file:
