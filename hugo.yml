@@ -21,9 +21,9 @@ caches:
 # --- 顶部菜单配置 ---
 menu:
   main:
-    - identifier: android
-      name: "Android"
-      url: "/android/"
+    - identifier: document
+      name: "文档归纳"
+      url: "/document/"
       weight: 1
     - identifier: archives
       name: "归档"
