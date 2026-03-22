@@ -1,45 +1,84 @@
 {{- $pushUrl := getenv "HUGO_SHOWDOC_PUSH_URL" -}}
 {{- if $pushUrl -}}
+<style>
+.msg-fab{position:fixed;bottom:24px;right:24px;z-index:9999;width:50px;height:50px;border-radius:50%;background:var(--primary,#4A90E2);color:#fff;border:none;cursor:pointer;box-shadow:0 4px 12px rgba(0,0,0,.25);display:flex;align-items:center;justify-content:center;transition:transform .2s}
+.msg-fab:hover{transform:scale(1.1)}
+.msg-fab svg{width:24px;height:24px;fill:currentColor}
+.msg-panel{position:fixed;bottom:84px;right:24px;z-index:9999;width:320px;background:var(--theme,#fff);border:1px solid var(--border,#ddd);border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.15);padding:16px;display:none;flex-direction:column;gap:10px}
+.dark .msg-panel{background:#1d1e20;border-color:#333}
+.msg-panel.open{display:flex}
+.msg-panel h4{margin:0;font-size:15px}
+.msg-panel input,.msg-panel textarea{width:100%;padding:8px 10px;border:1px solid var(--border,#ddd);border-radius:6px;font-size:14px;background:inherit;color:inherit;box-sizing:border-box;font-family:inherit}
+.dark .msg-panel input,.dark .msg-panel textarea{border-color:#444}
+.msg-panel textarea{resize:vertical;min-height:80px}
+.msg-panel button.send{padding:8px 0;border:none;border-radius:6px;background:var(--primary,#4A90E2);color:#fff;font-size:14px;cursor:pointer;transition:opacity .2s}
+.msg-panel button.send:hover{opacity:.85}
+.msg-panel button.send:disabled{opacity:.5;cursor:not-allowed}
+.msg-panel .msg-tip{font-size:12px;color:#888;text-align:center;margin:0}
+</style>
+<button class="msg-fab" id="msgFab" aria-label="留言">
+  <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.2L4 17.2V4h16v12z"/><path d="M7 9h10v2H7zm0-3h10v2H7z"/></svg>
+</button>
+<div class="msg-panel" id="msgPanel">
+  <h4>留言给博主</h4>
+  <input type="text" id="msgName" placeholder="昵称（选填）" maxlength="30">
+  <textarea id="msgBody" placeholder="说点什么..." maxlength="500"></textarea>
+  <button class="send" id="msgSend">发送</button>
+  <p class="msg-tip" id="msgTip"></p>
+</div>
 <script>
-(function() {
-  var KEY = 'visitor_last_date';
-  var today = new Date().toISOString().slice(0, 10);
-  if (localStorage.getItem(KEY) === today) return;
+(function(){
+  var fab=document.getElementById('msgFab'),panel=document.getElementById('msgPanel');
+  var nameEl=document.getElementById('msgName'),bodyEl=document.getElementById('msgBody');
+  var sendBtn=document.getElementById('msgSend'),tipEl=document.getElementById('msgTip');
+  var url='{{ $pushUrl }}';
 
-  var info = {
-    page: document.title,
-    url: location.href,
-    time: new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'}),
-    ua: navigator.userAgent,
-    ref: document.referrer || '直接访问',
-    lang: navigator.language,
-    screen: screen.width + 'x' + screen.height
-  };
+  fab.addEventListener('click',function(){panel.classList.toggle('open')});
+  document.addEventListener('click',function(e){
+    if(!panel.contains(e.target)&&e.target!==fab&&!fab.contains(e.target))panel.classList.remove('open');
+  });
 
-  var title = '👀 博客访客通知';
-  var lines = [
-    '#### 访客信息',
-    '| 项目 | 内容 |',
-    '|------|------|',
-    '| 页面 | ' + info.page + ' |',
-    '| 链接 | ' + info.url + ' |',
-    '| 时间 | ' + info.time + ' |',
-    '| 来源 | ' + info.ref + ' |',
-    '| 设备 | ' + info.screen + ' |',
-    '| UA | ' + info.ua.slice(0, 120) + ' |',
-    '| 语言 | ' + info.lang + ' |'
-  ];
+  sendBtn.addEventListener('click',function(){
+    var msg=bodyEl.value.trim();
+    if(!msg){tipEl.textContent='请输入留言内容';return}
+    sendBtn.disabled=true;tipEl.textContent='发送中...';
 
-  var body = new URLSearchParams();
-  body.append('title', title);
-  body.append('content', lines.join('\n'));
+    var name=nameEl.value.trim()||'匿名访客';
+    var time=new Date().toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'});
+    var page=location.href;
 
-  fetch('{{ $pushUrl }}', {
-    method: 'POST',
-    body: body
-  }).then(function() {
-    localStorage.setItem(KEY, today);
-  }).catch(function() {});
+    var title='💬 博客新留言 - '+name;
+    var content=[
+      '#### 留言信息',
+      '| 项目 | 内容 |',
+      '|------|------|',
+      '| 昵称 | '+name+' |',
+      '| 时间 | '+time+' |',
+      '| 页面 | '+page+' |',
+      '',
+      '#### 留言内容',
+      '',
+      msg
+    ].join('\n');
+
+    var body=new URLSearchParams();
+    body.append('title',title);
+    body.append('content',content);
+
+    fetch(url,{method:'POST',body:body}).then(function(r){return r.json()}).then(function(d){
+      if(d.error_code===0){
+        tipEl.textContent='发送成功，感谢留言！';
+        bodyEl.value='';
+        setTimeout(function(){panel.classList.remove('open');tipEl.textContent=''},2000);
+      }else{
+        tipEl.textContent='发送失败，请稍后重试';
+      }
+    }).catch(function(){
+      tipEl.textContent='网络错误，请稍后重试';
+    }).finally(function(){
+      sendBtn.disabled=false;
+    });
+  });
 })();
 </script>
 {{- end -}}
