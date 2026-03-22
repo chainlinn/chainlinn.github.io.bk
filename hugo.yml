@@ -67,8 +67,8 @@ params:
     buttons:
       - name: "标签"
         url: "/tags"
-      - name: "Android"
-        url: "/android"  
+      - name: "文档归纳"
+        url: "/document"  
       # 你可以添加更多按钮
       # - name: "项目"
       #   url: "/projects"
