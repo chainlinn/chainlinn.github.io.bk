@@ -15,7 +15,7 @@ categories:
 
 <font style="color:rgba(25, 26, 31, 0.9);"></font>
 
-![](../../images/2023/1676276921091-c44ad9b7-f173-4099-9bed-39486d5dbd07.png)
+![](/images/2023/1676276921091-c44ad9b7-f173-4099-9bed-39486d5dbd07.png)
 
 <font style="color:rgba(25, 26, 31, 0.9);"></font>
 

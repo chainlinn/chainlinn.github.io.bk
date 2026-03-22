@@ -18,7 +18,7 @@ categories:
 
 <font style="color:rgba(25, 26, 31, 0.9);">经过观察发现，我们的报价接口的 RT 有明显的增加，时间点和我们做数据回流的时间点刚好吻合：</font>
 
-![](../../images/2022/1668685108394-2fb2fb72-c827-41c7-871e-2a571667a0ba.png)
+![](/images/2022/1668685108394-2fb2fb72-c827-41c7-871e-2a571667a0ba.png)
 
 ### <font style="color:rgba(25, 26, 31, 0.9);">问题排查</font>
 <font style="color:rgba(25, 26, 31, 0.9);">所以第一时间开始排查接口的链路情况了，很明显这次 RT 升高就是因为我们的数据回流导致的，于是首先登录服务器通过 Arthas （使用手册：</font>[https://arthas.aliyun.com/doc/index.html](https://arthas.aliyun.com/doc/index.html)<font style="color:rgba(25, 26, 31, 0.9);"> </font><font style="color:rgba(25, 26, 31, 0.9);">）看了下接口耗时的主要操作，验证下是不是在查询定价配置表的地方。</font>
@@ -79,7 +79,7 @@ Affect(class count: 1 , method count: 1) cost in 427 ms, listenerId: 6
 
 <font style="color:rgba(25, 26, 31, 0.9);"></font>
 
-![](../../images/2022/1668685108378-345890d6-7663-444a-bbc7-19fd74f048d6.png)
+![](/images/2022/1668685108378-345890d6-7663-444a-bbc7-19fd74f048d6.png)
 
 <font style="color:rgba(25, 26, 31, 0.9);"></font>
 
@@ -106,7 +106,7 @@ Affect(class count: 1 , method count: 1) cost in 427 ms, listenerId: 6
 
 <font style="color:rgba(25, 26, 31, 0.9);">索引发布后，接口 RT 有明显下降：</font>
 
-![](../../images/2022/1668685108344-ff18d881-49ee-4633-9c01-8fedbc80cc0e.png)
+![](/images/2022/1668685108344-ff18d881-49ee-4633-9c01-8fedbc80cc0e.png)
 
 <font style="color:rgba(25, 26, 31, 0.9);">平均 RT 比之前还要低了一些。</font>
 

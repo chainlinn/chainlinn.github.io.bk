@@ -306,7 +306,7 @@ getFruit : Apple{price=0.5}
 
 
 
-![](../../images/2020/15938462506312.jpg)￼
+![](/images/2020/15938462506312.jpg)￼
 
 
 
@@ -418,7 +418,7 @@ getFruit : Apple{price=0.5}
 
 
 
-![](../../images/2020/15938495572144.jpg)￼
+![](/images/2020/15938495572144.jpg)￼
 
 
 
@@ -478,7 +478,7 @@ at com.alibaba.fastjson.parser.ParserConfig.checkAutoType(ParserConfig.java:1244
 
 
 
-![](../../images/2020/15938532891003.jpg)
+![](/images/2020/15938532891003.jpg)
 
 
 
@@ -494,7 +494,7 @@ at com.alibaba.fastjson.parser.ParserConfig.checkAutoType(ParserConfig.java:1244
 
 
 
-![](../../images/2020/15938545656293.jpg)
+![](/images/2020/15938545656293.jpg)
 
 
 

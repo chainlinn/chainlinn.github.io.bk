@@ -15,7 +15,7 @@ categories:
 
 在Redis的官网文档中明确的提到过，不支持回滚：[https://redis.io/docs/interact/transactions/](https://redis.io/docs/interact/transactions/)
 
-![](../../images/2023/1703999289243-9f43239e-2bd3-44c6-a5a2-590209d64ef8.png)
+![](/images/2023/1703999289243-9f43239e-2bd3-44c6-a5a2-590209d64ef8.png)
 
 不支持回滚主要的原因是**支持回滚将对 Redis 的简洁性和性能产生重大影响。**
 

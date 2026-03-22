@@ -17,7 +17,7 @@ categories:
 
 
 
-![](../../images/2023/1683538843167-4a3a6c11-ca65-4e06-9f2e-c3e38c6deb5c.png)
+![](/images/2023/1683538843167-4a3a6c11-ca65-4e06-9f2e-c3e38c6deb5c.png)
 
 
 
@@ -125,7 +125,7 @@ categories:
 
 
 
-![](../../images/2023/1683539410575-5c34b98d-97da-4b1c-9979-c4d0fffc67b1.png)
+![](/images/2023/1683539410575-5c34b98d-97da-4b1c-9979-c4d0fffc67b1.png)
 
 
 

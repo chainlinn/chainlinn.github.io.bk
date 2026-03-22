@@ -32,7 +32,7 @@ categories:
 
 
 
-![](../../images/2024/1714878734227-f7ab211d-9817-4f8b-94e8-eb6e8f7d8824.png)
+![](/images/2024/1714878734227-f7ab211d-9817-4f8b-94e8-eb6e8f7d8824.png)
 
 
 
@@ -43,7 +43,7 @@ categories:
 + **分片总数（Sharding Total）**：表示任务被分成多少片。例如，如果设置为3，则表示任务被分为3片。其实就是你集群中服务器的数量。
 + **分片序号（Sharding Index）**：表示当前执行器执行的是哪一片。序号从0开始，最大值为分片总数减1。
 
-![](../../images/2025/1746440979576-f27c8be4-e6b1-47d4-a498-f77441814502.png)
+![](/images/2025/1746440979576-f27c8be4-e6b1-47d4-a498-f77441814502.png)
 
 在任务执行的代码中，可以通过调用XxlJobHelper.getShardIndex()和XxlJobHelper.getShardTotal()方法获取当前执行器的分片序号和总分片数。
 

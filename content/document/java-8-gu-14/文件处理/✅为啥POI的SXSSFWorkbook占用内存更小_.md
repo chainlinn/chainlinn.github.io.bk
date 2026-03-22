@@ -205,7 +205,7 @@ public SheetDataWriter() throws IOException {
 
 
 
-![](../../images/2023/1700376924337-169f9616-ab5a-4ec6-a94a-0123000536ec.png)
+![](/images/2023/1700376924337-169f9616-ab5a-4ec6-a94a-0123000536ec.png)
 
 
 
@@ -213,7 +213,7 @@ public SheetDataWriter() throws IOException {
 
 
 
-![](../../images/2023/1700376941273-908b7369-ec83-4c16-a951-3754d41897a0.png)
+![](/images/2023/1700376941273-908b7369-ec83-4c16-a951-3754d41897a0.png)
 
 
 

@@ -55,7 +55,7 @@ class MyThread implements Runnable {
 
 
 
-![](../../images/2020/16065562943648.jpg)
+![](/images/2020/16065562943648.jpg)
 
 
 
@@ -63,7 +63,7 @@ class MyThread implements Runnable {
 
 
 
-![](../../images/2020/16065563249582.jpg)
+![](/images/2020/16065563249582.jpg)
 
 
 
@@ -99,7 +99,7 @@ Process finished with exit code 0
 
 
 
-![](../../images/2020/16065565440571.jpg)
+![](/images/2020/16065565440571.jpg)
 
 
 

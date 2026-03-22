@@ -109,7 +109,7 @@ public Object execute(SqlSession sqlSession, Object[] args) {
 ### 缓存
 Sqlsession是Mybatis对Sql执行的封装，真正的SQL处理逻辑要通过Executor来执行。Executor有多个实现类，因为在查询之前，要先check缓存是否存在，所以默认使用的是CachingExecutor类，顾名思义，它的作用就是二级缓存。
 
-![](../../images/2023/1675262096615-980676ef-ddc6-4a9c-b9e9-f6157b4d59bc.jpeg)
+![](/images/2023/1675262096615-980676ef-ddc6-4a9c-b9e9-f6157b4d59bc.jpeg)
 
 CachingExecutor的执行逻辑如下所示：
 

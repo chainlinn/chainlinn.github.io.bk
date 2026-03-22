@@ -25,7 +25,7 @@ categories:
 
 ****
 
-![](../../images/2025/1752666332030-edca2ba8-5455-4f4b-b466-332210f0ccce.png)
+![](/images/2025/1752666332030-edca2ba8-5455-4f4b-b466-332210f0ccce.png)
 
 
 

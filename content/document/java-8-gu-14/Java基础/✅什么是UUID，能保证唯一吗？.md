@@ -29,7 +29,7 @@ Java中的java.util.UUID生成的UUID是V3和V4两种：
 
 
 
-![](../../images/2022/1669638424320-b15cfa40-ffc2-4ca0-9b61-78fccdf450cc.png)
+![](/images/2022/1669638424320-b15cfa40-ffc2-4ca0-9b61-78fccdf450cc.png)
 
 <font style="color:rgb(34, 34, 34);"></font>
 

@@ -19,7 +19,7 @@ categories:
 
 以下是官网中关于过期的实现的描述（[https://redis.io/commands/expire/](https://redis.io/commands/expire/) ）：
 
-![](../../images/2023/1693564662579-2c439295-24af-4cad-ae5e-c4793f68deaf.png)
+![](/images/2023/1693564662579-2c439295-24af-4cad-ae5e-c4793f68deaf.png)
 
 
 

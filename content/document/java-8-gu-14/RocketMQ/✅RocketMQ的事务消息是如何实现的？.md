@@ -29,7 +29,7 @@ RocketMQ的事务消息是通过TransactionListener接口来实现的。
 
 
 
-![](../../images/2023/1676883263316-1e97eaa2-df90-44f6-8cc9-3037a438d0a0.jpeg)
+![](/images/2023/1676883263316-1e97eaa2-df90-44f6-8cc9-3037a438d0a0.jpeg)
 
 
 

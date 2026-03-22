@@ -79,7 +79,7 @@ public class Main {
 
 ![](./5.png)
 
-![](../../images/2024/1706941762023-68c89cfa-7acc-4f1c-9cfc-af572c68d404.png)
+![](/images/2024/1706941762023-68c89cfa-7acc-4f1c-9cfc-af572c68d404.png)
 
 
 
@@ -87,7 +87,7 @@ public class Main {
 
 ![](./6.png)
 
-![](../../images/2024/1706941762410-db42db30-00b4-4d76-b4a0-78f1f97bdb02.png)
+![](/images/2024/1706941762410-db42db30-00b4-4d76-b4a0-78f1f97bdb02.png)
 
 从图中可以看到CPU使用率并没有明显升高，java进程占用的CPU非常低。
 
@@ -95,7 +95,7 @@ public class Main {
 
 `jstack -l`![](./7.png)
 
-![](../../images/2024/1706941762433-44e7ada9-1bd5-4874-8d85-e103f1c0a67f.png)
+![](/images/2024/1706941762433-44e7ada9-1bd5-4874-8d85-e103f1c0a67f.png)
 
 选一个Thread1查看一下线程状态：
 
@@ -111,7 +111,7 @@ top -Hp <java进程pid> #查看线程状态
 
 
 
-![](./8.png)![](../../images/2024/1706941762473-f1816aff-10fc-4c15-bc04-f24afa6c32f2.png)
+![](./8.png)![](/images/2024/1706941762473-f1816aff-10fc-4c15-bc04-f24afa6c32f2.png)
 
 
 

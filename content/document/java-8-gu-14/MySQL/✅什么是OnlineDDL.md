@@ -143,7 +143,7 @@ MySQL中的INPLACE其实还可以分为以下两种算法：
 
 以下是MySQL官网上给出的Online DDL对索引操作的支持情况：
 
-![](../../images/2023/1699087940495-5f8f233a-7e00-4e6b-82d2-4de1bc796eff.png)
+![](/images/2023/1699087940495-5f8f233a-7e00-4e6b-82d2-4de1bc796eff.png)
 
 ## OnlineDDL的原理
 

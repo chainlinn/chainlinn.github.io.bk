@@ -33,7 +33,7 @@ categories:
 
 
 
-![](../../images/2023/1678007048697-34522acd-1c00-4bc1-9ebd-af9edf9053f0.png)
+![](/images/2023/1678007048697-34522acd-1c00-4bc1-9ebd-af9edf9053f0.png)
 
 
 

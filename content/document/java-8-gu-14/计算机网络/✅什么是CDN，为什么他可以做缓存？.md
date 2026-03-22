@@ -25,7 +25,7 @@ CDN是Content Delivery Network的缩写，翻译成内容分发网络（这个�
 
 
 
-![](../../images/2023/1685247503762-461d1a9f-4c3c-4e7b-b296-ee2be0bf63ae.png)
+![](/images/2023/1685247503762-461d1a9f-4c3c-4e7b-b296-ee2be0bf63ae.png)
 
 
 

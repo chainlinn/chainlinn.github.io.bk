@@ -217,7 +217,7 @@ SourceFile: "JavapTest.java"
 
 
 
-![](../../images/2023/1696857383822-11f7a85a-c60c-4b2c-ae3c-d6939ca957d2.png)
+![](/images/2023/1696857383822-11f7a85a-c60c-4b2c-ae3c-d6939ca957d2.png)
 
 
 

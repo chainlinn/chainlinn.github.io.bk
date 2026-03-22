@@ -112,7 +112,7 @@ Exception in thread "Thread-1" java.lang.ArrayIndexOutOfBoundsException: Array i
 
 
 
-![](../../images/2024/1705728607475-03116499-bc2e-44ec-89dc-9c96b919fd5a.jpeg)
+![](/images/2024/1705728607475-03116499-bc2e-44ec-89dc-9c96b919fd5a.jpeg)
 
   
  
@@ -166,7 +166,7 @@ for (int i = 0; i < v.size(); i++) {
 
 <font style="color:rgb(51, 51, 51);"></font>
 
-![](../../images/2024/1705728673343-b632dcc9-3770-4abd-84e2-e929c43472a4.jpeg)
+![](/images/2024/1705728673343-b632dcc9-3770-4abd-84e2-e929c43472a4.jpeg)
 
 <font style="color:rgb(51, 51, 51);"></font>
 

@@ -15,13 +15,13 @@ categories:
 
 Spring中：
 
-![](../../images/2023/1699169900674-ea85e8aa-ae76-4fda-b516-ff6350b1be64.png)
+![](/images/2023/1699169900674-ea85e8aa-ae76-4fda-b516-ff6350b1be64.png)
 
 
 
 Dubbo中：
 
-![](../../images/2023/1699169943116-7eb05894-f704-4b33-ac40-f5973844595a.png)
+![](/images/2023/1699169943116-7eb05894-f704-4b33-ac40-f5973844595a.png)
 
 
 

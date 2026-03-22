@@ -49,7 +49,7 @@ WatchManager是Zookeeper服务端内部的一个模块，用于管理所有watch
 
 
 
-![](../../images/2023/1677912683921-9e88d23a-2733-425e-a9b6-a477b4d53b32.png)
+![](/images/2023/1677912683921-9e88d23a-2733-425e-a9b6-a477b4d53b32.png)
 
 
 
@@ -65,5 +65,5 @@ WatchManager是Zookeeper服务端内部的一个模块，用于管理所有watch
 
 
 
-![](../../images/2023/1677913724274-14acefb4-8bc7-4853-9d1b-4c3603ab634f.png)
+![](/images/2023/1677913724274-14acefb4-8bc7-4853-9d1b-4c3603ab634f.png)
 

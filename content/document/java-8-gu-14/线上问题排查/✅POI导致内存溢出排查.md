@@ -46,7 +46,7 @@ jmap -dump:live,format=b,file=heapdump.hprof <pid>
 
 
 
-![](../../images/2023/1700378903070-68af4a3c-9227-4f46-8fc4-383639dfcd6a.png)
+![](/images/2023/1700378903070-68af4a3c-9227-4f46-8fc4-383639dfcd6a.png)
 
 _（当时的分析截图未保存，这个截图是我从网上找的，几乎和我们当时现象一模一样）_
 

@@ -96,7 +96,7 @@ public static Integer valueOf(int i) {
 
 
 
-![](../../images/2025/1754114954877-90d5e328-f335-4c8b-a2e6-bdc50058b032.png)
+![](/images/2025/1754114954877-90d5e328-f335-4c8b-a2e6-bdc50058b032.png)
 
 
 

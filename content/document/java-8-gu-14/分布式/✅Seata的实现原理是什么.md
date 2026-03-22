@@ -33,7 +33,7 @@ Seata是一个阿里开源的分布式事务解决方案（Simple Extensible Aut
 
 
 
-![](../../images/2023/1691212535940-51d90d22-ad71-4274-a632-1ad27d661aa1.png)
+![](/images/2023/1691212535940-51d90d22-ad71-4274-a632-1ad27d661aa1.png)
 
 
 
@@ -65,7 +65,7 @@ Seata是一个阿里开源的分布式事务解决方案（Simple Extensible Aut
 
 
 
-![](../../images/2023/1691213549843-0ba2065e-cdeb-4341-89f7-3e27c2af14af.png)
+![](/images/2023/1691213549843-0ba2065e-cdeb-4341-89f7-3e27c2af14af.png)
 
 
 
@@ -73,7 +73,7 @@ Seata是一个阿里开源的分布式事务解决方案（Simple Extensible Aut
 
 
 
-![](../../images/2023/1691213610596-d9084b3b-74a8-4f12-abcf-990717d93060.png)
+![](/images/2023/1691213610596-d9084b3b-74a8-4f12-abcf-990717d93060.png)
 
 
 
@@ -85,7 +85,7 @@ Seata是一个阿里开源的分布式事务解决方案（Simple Extensible Aut
 
 
 
-![](../../images/2023/1691213685250-ac8f2f0b-90d3-4f8f-a12f-892732f7c237.png)<font style="color:rgb(36, 41, 46);">  
+![](/images/2023/1691213685250-ac8f2f0b-90d3-4f8f-a12f-892732f7c237.png)<font style="color:rgb(36, 41, 46);">  
 </font>
 
 这里要求所有的RM都能做到2阶段，第一阶段做事务的预处理，第二阶段做事务的提交或者回滚。具体怎么实现，是否需要自己改代码，这个不同的模式不太一样。

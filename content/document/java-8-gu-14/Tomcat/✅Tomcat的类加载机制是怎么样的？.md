@@ -191,7 +191,7 @@ public Class<?> loadClass(String name, boolean resolve) throws ClassNotFoundExce
 
 
 
-![](../../images/2023/1702559818249-905f973a-4a20-4ee2-b603-688e0c460fd8.png)
+![](/images/2023/1702559818249-905f973a-4a20-4ee2-b603-688e0c460fd8.png)
 
 （图中红线和绿线是2选一分别执行的，不会同时执行，也不会交叉执行。）
 

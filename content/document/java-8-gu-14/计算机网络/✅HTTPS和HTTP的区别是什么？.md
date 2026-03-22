@@ -15,7 +15,7 @@ HTTPS还经常被称之为<font style="color:rgb(32, 33, 34);">HTTP over SSL或�
 
 <font style="color:rgb(32, 33, 34);"></font>
 
-![](../../images/2023/1698481085767-925e51fd-a290-4357-acbc-9f4bca16906c.png)
+![](/images/2023/1698481085767-925e51fd-a290-4357-acbc-9f4bca16906c.png)
 
 <font style="color:rgb(32, 33, 34);"></font>
 

@@ -15,7 +15,7 @@ Dubbo是RPC框架，需要远程调用，那么就需要把请求和响应做序
 
 在[Dubbo 3.0](https://github.com/apache/dubbo/tree/3.3/dubbo-serialization) 中，内置了3种序列化协议：
 
-![](../../images/2024/1704532702023-a1278f43-e27b-454b-be83-e59cadb48006.png)
+![](/images/2024/1704532702023-a1278f43-e27b-454b-be83-e59cadb48006.png)
 
 
 
@@ -37,7 +37,7 @@ Dubbo是RPC框架，需要远程调用，那么就需要把请求和响应做序
 
 <font style="color:rgb(55, 65, 81);"></font>
 
-![](../../images/2024/1704532830505-c3cefb9f-1ece-484b-b2b1-946738da21ad.png)
+![](/images/2024/1704532830505-c3cefb9f-1ece-484b-b2b1-946738da21ad.png)
 
 <font style="color:rgb(55, 65, 81);"></font>
 
@@ -55,5 +55,5 @@ Dubbo是RPC框架，需要远程调用，那么就需要把请求和响应做序
 
 
 
-![](../../images/2024/1704533239946-e7a0107a-4e48-42cb-8e3c-54a46795a371.png)
+![](/images/2024/1704533239946-e7a0107a-4e48-42cb-8e3c-54a46795a371.png)
 

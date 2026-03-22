@@ -38,7 +38,7 @@ categories:
 
 
 
-![](../../images/2021/16119907257353.jpg)
+![](/images/2021/16119907257353.jpg)
 
 
 
@@ -167,7 +167,7 @@ BigDecimal中提供了一个通过double创建BigDecimal的方法——BigDecima
 
 
 
-![](../../images/2021/16119945021181.jpg)
+![](/images/2021/16119945021181.jpg)
 
 
 

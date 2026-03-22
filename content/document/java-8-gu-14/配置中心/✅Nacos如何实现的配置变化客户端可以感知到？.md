@@ -53,7 +53,7 @@ categories:
 
 
 
-![](../../images/2023/1677917788586-beb9bfc7-35b1-4960-be3b-5e8589a8f013.png)
+![](/images/2023/1677917788586-beb9bfc7-35b1-4960-be3b-5e8589a8f013.png)
 
 
 

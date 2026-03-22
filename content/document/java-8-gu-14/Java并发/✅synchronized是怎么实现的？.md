@@ -117,7 +117,7 @@ public void doSth1(){
 
 
 
-![](../../images/2019/165dc67181a2c632.jpg)
+![](/images/2019/165dc67181a2c632.jpg)
 
 
 
@@ -125,7 +125,7 @@ public void doSth1(){
 
 
 
-![](../../images/2019/165dc6718182c75f.jpg)
+![](/images/2019/165dc6718182c75f.jpg)
 
 
 
@@ -209,7 +209,7 @@ ObjectMonitor 中有几个关键属性：
 
 
 
-![](../../images/2019/165dc6718151f32f.png)
+![](/images/2019/165dc6718151f32f.png)
 
 
 
@@ -280,7 +280,7 @@ void ATTR ObjectMonitor::enter(TRAPS) {
 
 
 
-![](../../images/2019/165dc671817e245b.png)
+![](/images/2019/165dc671817e245b.png)
 
 
 
@@ -326,7 +326,7 @@ void ATTR ObjectMonitor::exit(TRAPS) {
 
 
 
-![](../../images/2019/165dc6718278c2dc.png)
+![](/images/2019/165dc6718278c2dc.png)
 
 
 

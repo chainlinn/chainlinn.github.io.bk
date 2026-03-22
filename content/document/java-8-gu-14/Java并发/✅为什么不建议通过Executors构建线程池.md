@@ -27,7 +27,7 @@ ExecutorService executor = Executors.newFixedThreadPool(nThreads) ;
 
 
 
-![](../../images/2018/15406254121131.jpg)
+![](/images/2018/15406254121131.jpg)
 
 
 

@@ -23,7 +23,7 @@ categories:
 
 MySQL的主从复制，是基于binlog实现的，主要过程是这样的：
 
-![](../../images/2024/1710418626146-1bacdddd-68eb-4eff-80fa-1c006e814fc5.png)
+![](/images/2024/1710418626146-1bacdddd-68eb-4eff-80fa-1c006e814fc5.png)
 
 
 
@@ -104,7 +104,7 @@ MySQL目前支持多种复制方式，其中包括了全同步复制、异步复
 
 
 
-![](../../images/2023/1692363516478-340255ed-f1cb-4cfb-aae1-cf21970d78c3.png)
+![](/images/2023/1692363516478-340255ed-f1cb-4cfb-aae1-cf21970d78c3.png)
 
 
 

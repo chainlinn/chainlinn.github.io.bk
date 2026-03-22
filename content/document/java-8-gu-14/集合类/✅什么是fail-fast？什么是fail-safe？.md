@@ -198,7 +198,7 @@ private void fastRemove(int index) {
 
 
 
-![](../../images/2019/15551448234429.jpg)
+![](/images/2019/15551448234429.jpg)
 
 
 

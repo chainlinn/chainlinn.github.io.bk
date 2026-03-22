@@ -11,7 +11,7 @@ categories:
 
 和InnoDB最大的不同，MyISAM是采用了一种索引和数据分离的存储方式，也就是说，MyISAM中索引文件和数据文件是独立的。
 
-![](../../images/2023/1697716353442-c70b80e4-be96-427a-b7d3-5ece0bdb58ef.png)
+![](/images/2023/1697716353442-c70b80e4-be96-427a-b7d3-5ece0bdb58ef.png)
 
 
 

@@ -29,7 +29,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/http.jpg)
+![](/images/2018/http.jpg)
 
 <font style="color:#000000;"></font>
 
@@ -59,7 +59,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/1.0-1.1.png)
+![](/images/2018/1.0-1.1.png)
 
 <font style="color:#000000;"></font>
 
@@ -92,7 +92,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/spdy.png)
+![](/images/2018/spdy.png)
 
 <font style="color:#000000;"></font>
 
@@ -107,7 +107,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/http21.png)
+![](/images/2018/http21.png)
 
 <font style="color:#000000;"></font>
 
@@ -126,7 +126,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/frame-layer.png)
+![](/images/2018/frame-layer.png)
 
 <font style="color:#000000;"></font>
 
@@ -145,7 +145,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/IMG_1960.png)
+![](/images/2018/IMG_1960.png)
 
 <font style="color:#000000;"></font>
 
@@ -153,7 +153,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/multi.png)
+![](/images/2018/multi.png)
 
 <font style="color:#000000;"></font>
 
@@ -168,7 +168,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/header.png)
+![](/images/2018/header.png)
 
 <font style="color:#000000;"></font>
 
@@ -179,7 +179,7 @@ categories:
 
 <font style="color:#000000;"></font>
 
-![](../../images/2018/push.png)
+![](/images/2018/push.png)
 
 <font style="color:#000000;"></font>
 
@@ -196,7 +196,7 @@ categories:
 
 **<font style="color:#000000;">所谓的持久连接就是：在一个TCP连接上可以传送多个HTTP请求和响应，减少了建立和关闭连接的消耗和延迟。</font>**
 
-![](../../images/2022/1668598205182-21b6c964-9b6f-4b72-bd48-f69b429de2c0.jpeg)
+![](/images/2022/1668598205182-21b6c964-9b6f-4b72-bd48-f69b429de2c0.jpeg)
 
 <font style="color:#000000;">引入了持久连接之后，在性能方面，HTTP协议有了明显的提升。</font>
 
@@ -204,7 +204,7 @@ categories:
 
 <font style="color:#000000;">所谓请求管道，就是在HTTP响应到达之前，可以将多条请求放入队列，当第一条HTTP请求通过网络流向服务器时，第二条和第三条请求也可以开始发送了。在高时延网络条件下，这样做可以降低网络的环回时间，提高性能。</font>
 
-![](../../images/2022/1668598205173-4c874605-cfb7-40dd-b237-08fa8d3bb18d.jpeg)
+![](/images/2022/1668598205173-4c874605-cfb7-40dd-b237-08fa8d3bb18d.jpeg)
 
 **<font style="color:#000000;">但是，对于管道连接还是有一定的限制和要求的，其中一个比较关键的就是服务端必须按照与请求相同的顺序回送HTTP响应。</font>**
 
@@ -212,7 +212,7 @@ categories:
 
 <font style="color:#000000;">但是HTTP队头阻塞的问题在HTTP/2中得到了有效的解决。</font>**<font style="color:#000000;">HTTP/2废弃了管道化的方式</font>**<font style="color:#000000;">，而是创新性的引入了帧、消息和数据流等概念。</font>**<font style="color:#000000;">客户端和服务器可以把 HTTP 消息分解为互不依赖的帧，然后乱序发送，最后再在另一端把它们重新组合起来。</font>**
 
-![](../../images/2022/1668598205169-b306cc37-62f0-4e8f-b02c-29c2e27d6e82.jpeg)
+![](/images/2022/1668598205169-b306cc37-62f0-4e8f-b02c-29c2e27d6e82.jpeg)
 
 **<font style="color:#000000;">因为没有顺序了，所以就不需要阻塞了，就有效的解决了HTTP队头阻塞的问题。</font>**
 

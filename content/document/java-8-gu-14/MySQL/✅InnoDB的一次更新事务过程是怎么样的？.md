@@ -41,7 +41,7 @@ categories:
 
 
 
-![](../../images/2023/1692360052478-7a123e12-d590-438f-9abd-c968f0b7b2bb.png)
+![](/images/2023/1692360052478-7a123e12-d590-438f-9abd-c968f0b7b2bb.png)
 
 
 

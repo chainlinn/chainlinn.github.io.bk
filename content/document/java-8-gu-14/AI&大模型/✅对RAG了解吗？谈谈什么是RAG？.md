@@ -39,7 +39,7 @@ RAG 的全称是：**Retrieval-Augmented Generation**，翻译成中文是：**�
 
 
 
-![](../../images/2025/1745653669151-4e1bed2b-cb0a-4cd5-a3d7-d80711ccc67b.png)
+![](/images/2025/1745653669151-4e1bed2b-cb0a-4cd5-a3d7-d80711ccc67b.png)
 
 
 

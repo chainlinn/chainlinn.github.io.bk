@@ -26,7 +26,7 @@ Lombok是一款非常实用Java工具，可用来帮助开发人员消除Java的
 
 在IDEA中安装方式如下:
 
-![](../../images/2023/1698667430096-6dec78ea-8ec2-4b57-9be4-fef6fa50a5f9.jpeg)
+![](/images/2023/1698667430096-6dec78ea-8ec2-4b57-9be4-fef6fa50a5f9.jpeg)
 
 
 
@@ -254,7 +254,7 @@ public class ShoppingCart {
 
 
 
-![](../../images/2023/1698667620980-1ac41017-aa1c-4a37-92ad-28520a52815f.jpeg)
+![](/images/2023/1698667620980-1ac41017-aa1c-4a37-92ad-28520a52815f.jpeg)
 
   
 

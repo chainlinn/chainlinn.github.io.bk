@@ -141,7 +141,7 @@ public class XxlJobConfiguration {
 ### 创建配置类入口文件
 
 
-![](../../images/2024/1708752264849-bac41842-2d0c-4e60-a91e-7c2e3b32d744.png)
+![](/images/2024/1708752264849-bac41842-2d0c-4e60-a91e-7c2e3b32d744.png)
 
 在你的starter项目的src/main/resources下，创建META-INF/spring目录，并且创建一个
 

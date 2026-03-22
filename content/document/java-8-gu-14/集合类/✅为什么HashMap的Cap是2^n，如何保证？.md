@@ -112,7 +112,7 @@ static final int tableSizeFor(int cap) {
 
 
 
-![](../../images/2022/1668839424702-a03b79f5-bcf1-45c3-9151-9308d8d0ead1.jpeg)
+![](/images/2022/1668839424702-a03b79f5-bcf1-45c3-9151-9308d8d0ead1.jpeg)
 
 
 

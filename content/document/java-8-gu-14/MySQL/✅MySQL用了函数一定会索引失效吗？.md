@@ -66,7 +66,7 @@ SELECT * FROM employees WHERE CONCAT(first_name, ' ', last_name) = 'Hollis Chuan
 
 
 
-![](../../images/2024/1711774432866-6fb0ec38-023f-4cc2-a22e-a9f6d0a7c174.png)
+![](/images/2024/1711774432866-6fb0ec38-023f-4cc2-a22e-a9f6d0a7c174.png)
 
 
 

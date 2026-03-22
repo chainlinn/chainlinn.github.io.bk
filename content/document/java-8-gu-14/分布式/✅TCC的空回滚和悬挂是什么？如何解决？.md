@@ -52,7 +52,7 @@ CREATE TABLE `distribute_transaction` (
 
 
 
-![画板](../../images/2023/1682670714289-9ee76fd6-05cd-46a2-a4a7-9056bd86ddcf.jpeg)
+![画板](/images/2023/1682670714289-9ee76fd6-05cd-46a2-a4a7-9056bd86ddcf.jpeg)
 
 
 

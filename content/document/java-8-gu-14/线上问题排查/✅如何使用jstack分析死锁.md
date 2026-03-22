@@ -74,7 +74,7 @@ class Suo {
 
 
 
-![](../../images/2023/1694948245009-c9d0bf3a-db0a-4c78-8ff0-afd4e114c2fe.png)
+![](/images/2023/1694948245009-c9d0bf3a-db0a-4c78-8ff0-afd4e114c2fe.png)
 
 
 

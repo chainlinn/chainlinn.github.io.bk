@@ -13,7 +13,7 @@ categories:
 
 
 
-![](../../images/2023/1702880427123-d4534019-4b0f-470a-995b-9c2c8b42d2fb.png)
+![](/images/2023/1702880427123-d4534019-4b0f-470a-995b-9c2c8b42d2fb.png)
 
 
 
@@ -24,7 +24,7 @@ categories:
 
 
 
-![](../../images/2023/1702879034460-ec898ac3-abed-4ae2-acf7-13777385b45c.png)
+![](/images/2023/1702879034460-ec898ac3-abed-4ae2-acf7-13777385b45c.png)
 
 
 
@@ -60,7 +60,7 @@ categories:
 
 <font style="color:rgb(36, 41, 46);"></font>
 
-![](../../images/2023/1702879386755-26739c8b-7cc8-4b2d-987d-da1dd6940342.png)
+![](/images/2023/1702879386755-26739c8b-7cc8-4b2d-987d-da1dd6940342.png)
 
 
 
@@ -68,7 +68,7 @@ categories:
 
 
 
-![](../../images/2023/1702879491271-715cd913-fe9b-4a3d-9ea0-13013ebeba1a.png)
+![](/images/2023/1702879491271-715cd913-fe9b-4a3d-9ea0-13013ebeba1a.png)
 
 
 
@@ -98,7 +98,7 @@ categories:
 
 
 
-![](../../images/2023/1702879718972-49d2feb6-48f6-41d9-b2fa-96edb3449a93.png)
+![](/images/2023/1702879718972-49d2feb6-48f6-41d9-b2fa-96edb3449a93.png)
 
 
 
@@ -110,7 +110,7 @@ categories:
 
 
 
-![](../../images/2023/1702879979493-fc330314-721b-4f40-bc74-a6e3af642b8a.png)
+![](/images/2023/1702879979493-fc330314-721b-4f40-bc74-a6e3af642b8a.png)
 
 
 
@@ -118,7 +118,7 @@ categories:
 
 
 
-![](../../images/2023/1702880468284-890e1eb5-f25e-4c21-9843-4001383d0a6c.png)
+![](/images/2023/1702880468284-890e1eb5-f25e-4c21-9843-4001383d0a6c.png)
 
 
 
@@ -130,7 +130,7 @@ categories:
 
 
 
-![](../../images/2023/1702880138834-76381c2f-b580-4e4b-b80e-a76d27fe98a8.png)
+![](/images/2023/1702880138834-76381c2f-b580-4e4b-b80e-a76d27fe98a8.png)
 
 
 
@@ -138,7 +138,7 @@ categories:
 
 
 
-![](../../images/2023/1702880259932-ce1a3b43-accd-45c5-8c6b-a749c0cbb969.png)
+![](/images/2023/1702880259932-ce1a3b43-accd-45c5-8c6b-a749c0cbb969.png)
 
 
 

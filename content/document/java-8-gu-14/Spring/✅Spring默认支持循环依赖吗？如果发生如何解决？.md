@@ -17,7 +17,7 @@ categories:
 
 
 
-![](../../images/2024/1725002623336-1e44f575-f4bb-460c-9caa-90a89bef6787.png)
+![](/images/2024/1725002623336-1e44f575-f4bb-460c-9caa-90a89bef6787.png)
 
 
 

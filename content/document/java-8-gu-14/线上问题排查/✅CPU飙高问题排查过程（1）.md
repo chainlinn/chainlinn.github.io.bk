@@ -25,7 +25,7 @@ categories:
 
 
 
-![](../../images/2021/16165515783925-scaled.jpg)
+![](/images/2021/16165515783925-scaled.jpg)
 
 
 
@@ -98,7 +98,7 @@ curl -L https://arthas.aliyun.com/install.sh | sh
 
 
 
-![](../../images/2021/16165659820207.jpg)
+![](/images/2021/16165659820207.jpg)
 
 
 
@@ -187,7 +187,7 @@ public abstract class BaseMybatisDAO implements InitializingBean {
 
 
 
-![](../../images/2021/16165777571485.jpg)
+![](/images/2021/16165777571485.jpg)
 
 
 
@@ -195,7 +195,7 @@ sequence的写操作QPS也有明显下降：
 
 
 
-![](../../images/2021/16165777883205.jpg)
+![](/images/2021/16165777883205.jpg)
 
 
 
@@ -203,7 +203,7 @@ sequence的写操作QPS也有明显下降：
 
 
 
-![](../../images/2021/16165667534840.jpg)
+![](/images/2021/16165667534840.jpg)
 
 
 

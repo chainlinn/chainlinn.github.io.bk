@@ -79,7 +79,7 @@ logback当前分成三个模块：logback-core,logback- classic和logback-access
 
 
 
-![](../../images/2018/15430457243811.jpg)
+![](/images/2018/15430457243811.jpg)
 
 
 
@@ -98,7 +98,7 @@ logback当前分成三个模块：logback-core,logback- classic和logback-access
 
 
 
-![](../../images/2018/15430470508468.png)
+![](/images/2018/15430470508468.png)
 
 
 

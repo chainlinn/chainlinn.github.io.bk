@@ -18,7 +18,7 @@ categories:
 
 <font style="color:rgb(51, 51, 51);">工作流程如下：</font>
 
-![](../../images/2023/1684769065876-bd895685-02d1-493b-acdc-4e9386200dbf.png)
+![](/images/2023/1684769065876-bd895685-02d1-493b-acdc-4e9386200dbf.png)
 
 <font style="color:rgb(51, 51, 51);">对于一级缓存，有两点需要注意的是：</font>
 
@@ -30,7 +30,7 @@ categories:
 
 工作流程如下：
 
-![](../../images/2023/1684769046065-3aaaa9c9-0d33-4093-9ec5-1094968c4b2c.png)
+![](/images/2023/1684769046065-3aaaa9c9-0d33-4093-9ec5-1094968c4b2c.png)
 
 因为二级缓存是基于namespace的，所以一般情况下，Mybatis的二级缓存是不适合多表查询的情况的。举个例子：
 

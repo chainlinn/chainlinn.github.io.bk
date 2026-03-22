@@ -51,7 +51,7 @@ public static ConfigurableApplicationContext run(Object[] sources, String[] args
 
 
 
-![](../../images/2023/1700289209958-a7eadd74-5f94-4e5a-bc95-b4fb9466a5c2.png)
+![](/images/2023/1700289209958-a7eadd74-5f94-4e5a-bc95-b4fb9466a5c2.png)
 
 ```java
 public SpringApplication(Object... sources) {
@@ -95,7 +95,7 @@ private void initialize(Object[] sources) {
 
 具体实现的代码和流程如下：
 
-![](../../images/2023/1700290239953-57bff073-5cfd-4007-b26f-0e9ddbafa1d1.png)
+![](/images/2023/1700290239953-57bff073-5cfd-4007-b26f-0e9ddbafa1d1.png)
 
 ```java
 private <T> Collection<? extends T> getSpringFactoriesInstances(Class<T> type, Class<?>[] parameterTypes, Object... args) {
@@ -122,7 +122,7 @@ private <T> Collection<? extends T> getSpringFactoriesInstances(Class<T> type, C
 
 
 
-![](../../images/2023/1700290270548-c372f15d-ccf6-4236-b7fc-8d970233fdf4.png)
+![](/images/2023/1700290270548-c372f15d-ccf6-4236-b7fc-8d970233fdf4.png)
 
 
 
@@ -139,7 +139,7 @@ private <T> Collection<? extends T> getSpringFactoriesInstances(Class<T> type, C
 
 
 
-![](../../images/2023/1700292941424-49b97eaa-c0b7-43cc-b933-5a93a612ce7b.png)
+![](/images/2023/1700292941424-49b97eaa-c0b7-43cc-b933-5a93a612ce7b.png)
 
 
 
@@ -498,7 +498,7 @@ public TomcatWebServer(Tomcat tomcat, boolean autoStart, Shutdown shutdown) {
 
 
 
-![](../../images/2023/1700295160982-af970710-9c20-4fa9-a387-e6f129c28a25.png)
+![](/images/2023/1700295160982-af970710-9c20-4fa9-a387-e6f129c28a25.png)
 
 
 
@@ -508,5 +508,5 @@ public TomcatWebServer(Tomcat tomcat, boolean autoStart, Shutdown shutdown) {
 
 
 
-![](../../images/2023/1700295434553-30dfeeb3-2cee-4aa4-877a-f7ea8003e1dd.png)
+![](/images/2023/1700295434553-30dfeeb3-2cee-4aa4-877a-f7ea8003e1dd.png)
 

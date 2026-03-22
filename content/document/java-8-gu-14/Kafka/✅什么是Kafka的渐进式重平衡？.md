@@ -36,7 +36,7 @@ props.put("partition.assignment.strategy",
 
 
 
-![](../../images/2025/1742611885480-f1a744ec-d1ca-4cca-a3aa-61d6ee60e9a4.png)
+![](/images/2025/1742611885480-f1a744ec-d1ca-4cca-a3aa-61d6ee60e9a4.png)
 
 
 
@@ -52,7 +52,7 @@ props.put("partition.assignment.strategy",
 
 
 
-![](../../images/2025/1742612042870-016a020a-62ff-45c3-a8c6-ca7119d50d8e.png)
+![](/images/2025/1742612042870-016a020a-62ff-45c3-a8c6-ca7119d50d8e.png)
 
 
 
@@ -69,7 +69,7 @@ props.put("partition.assignment.strategy",
 
 
 
-![](../../images/2025/1742612134571-ebe6c5ed-573b-4087-9594-ffcc92ce4c31.png)
+![](/images/2025/1742612134571-ebe6c5ed-573b-4087-9594-ffcc92ce4c31.png)
 
 
 
@@ -79,7 +79,7 @@ props.put("partition.assignment.strategy",
 
 
 
-![](../../images/2025/1742612278627-250d2a0a-2df1-4dc2-9cd2-9c38254fc0c7.png)
+![](/images/2025/1742612278627-250d2a0a-2df1-4dc2-9cd2-9c38254fc0c7.png)
 
 
 

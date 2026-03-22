@@ -55,7 +55,7 @@ categories:
 
 <font style="color:rgb(85, 85, 85);"></font>
 
-![](../../images/2023/1676784906321-c8c1c42d-dd6a-44be-828f-e8db953a0ffe.png)
+![](/images/2023/1676784906321-c8c1c42d-dd6a-44be-828f-e8db953a0ffe.png)
 
 
 

@@ -93,7 +93,7 @@ ConcurrentSkipListMap 和 ConcurrentHashMap 的主要区别：
 1. 底层实现方式不同。C**oncurrentSkipListMap底层基于跳表。ConcurrentHashMap底层基于Hash桶和红黑树**
 2. **ConcurrentHashMap不支持排序。ConcurrentSkipListMap支持排序。**
 
-![](../../images/2022/1665119055515-c5701dc8-ac99-4a28-929e-20b8a38280be.jpeg)
+![](/images/2022/1665119055515-c5701dc8-ac99-4a28-929e-20b8a38280be.jpeg)
 
 ## 
 ## <font style="color:rgb(38, 38, 38);">SynchronizedList和Vector的区别</font>

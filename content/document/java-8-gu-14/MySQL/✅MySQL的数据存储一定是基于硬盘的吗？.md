@@ -62,7 +62,7 @@ alter table table1 engine=InnoDB;
 
 <font style="color:rgb(36, 41, 47);"></font>
 
-![](../../images/2022/1665901344068-99b2792b-7a37-40b2-839d-0c799993209b.png)
+![](/images/2022/1665901344068-99b2792b-7a37-40b2-839d-0c799993209b.png)
 
 
 

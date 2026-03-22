@@ -108,7 +108,7 @@ ON DUPLICATE KEY UPDATE value = 'a';
 
 
 
-![](../../images/2024/1717423621870-3f79cdbf-7ca8-4042-a4fe-66e35d30ac7a.png)
+![](/images/2024/1717423621870-3f79cdbf-7ca8-4042-a4fe-66e35d30ac7a.png)
 
 
 
@@ -116,7 +116,7 @@ ON DUPLICATE KEY UPDATE value = 'a';
 
 
 
-![](../../images/2024/1717423646127-353f38eb-a35e-4e02-aa89-2892cf60afb0.png)
+![](/images/2024/1717423646127-353f38eb-a35e-4e02-aa89-2892cf60afb0.png)
 
 
 
@@ -128,7 +128,7 @@ ON DUPLICATE KEY UPDATE value = 'a';
 
 
 
-![](../../images/2024/1717423663215-b07b89d9-889a-49fd-b9b9-c23e6cb3a86d.png)
+![](/images/2024/1717423663215-b07b89d9-889a-49fd-b9b9-c23e6cb3a86d.png)
 
 
 

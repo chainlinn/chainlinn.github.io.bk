@@ -11,7 +11,7 @@ Mybatis内置了三种数据源，分别是Pooled，Unpooled和JNDI，其中Pool
 
 Mybatis数据源的类图如下所示：
 
-![](../../images/2023/1684660340953-1acc1590-1b07-4df6-ad1a-9fc15936c9f3.png)
+![](/images/2023/1684660340953-1acc1590-1b07-4df6-ad1a-9fc15936c9f3.png)
 
 可以看到，在Mybatis中，会通过工厂模式来获得对应的数据源，那么Mybatis是在执行的哪一步获取的呢？  
 答案是在执行SQL之前，Mybatis会获取数据库连接Connection，而此时获得的Connection则是应用的启动的时候，已经通过配置项中的文件加载到内存中了：

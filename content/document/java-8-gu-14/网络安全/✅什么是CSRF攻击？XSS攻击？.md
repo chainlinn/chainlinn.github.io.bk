@@ -15,7 +15,7 @@ categories:
 
 
 
-![](../../images/2015/csrf-attack-1.png)
+![](/images/2015/csrf-attack-1.png)
 
 
 

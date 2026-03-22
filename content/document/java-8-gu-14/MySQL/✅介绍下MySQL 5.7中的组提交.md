@@ -65,7 +65,7 @@ mysql> show variables like '%group_commit%';
 
 
 
-![](../../images/2023/1692967827189-6aab9276-25ee-4d75-8dea-0506e886387e.png)
+![](/images/2023/1692967827189-6aab9276-25ee-4d75-8dea-0506e886387e.png)
 
 
 

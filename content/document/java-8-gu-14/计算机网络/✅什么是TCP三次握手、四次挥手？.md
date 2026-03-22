@@ -10,7 +10,7 @@ categories:
 ## 三次握手
 
 
-![](../../images/2023/1675138505949-2e21fdde-ec4c-4943-82da-96a85391642c.png)
+![](/images/2023/1675138505949-2e21fdde-ec4c-4943-82da-96a85391642c.png)
 
 
 
@@ -21,7 +21,7 @@ categories:
 ## 四次挥手
 
 
-![](../../images/2023/1675138535863-b4e954fa-ddff-4d1c-b1eb-195c98906c86.png)
+![](/images/2023/1675138535863-b4e954fa-ddff-4d1c-b1eb-195c98906c86.png)
 
 
 

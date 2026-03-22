@@ -17,7 +17,7 @@ categories:
 
 
 
-![](../../images/2023/1690091469933-03059138-036f-46fa-9153-3bcdf8438ecd.png)
+![](/images/2023/1690091469933-03059138-036f-46fa-9153-3bcdf8438ecd.png)
 
 
 
@@ -49,7 +49,7 @@ git merge feature main
 
 
 
-![](../../images/2023/1690094246537-d6fd3d83-56eb-4a53-bcca-c7bfdbf0feb4.png)
+![](/images/2023/1690094246537-d6fd3d83-56eb-4a53-bcca-c7bfdbf0feb4.png)
 
 
 
@@ -75,7 +75,7 @@ git rebase feature
 
 
 
-![](../../images/2023/1690094295032-5e35a6bb-f42f-4deb-aa15-f41f90f43a02.png)
+![](/images/2023/1690094295032-5e35a6bb-f42f-4deb-aa15-f41f90f43a02.png)
 
 
 
@@ -136,7 +136,7 @@ rebase会将所有的Main分支上的提交移动到Feature分支的顶端，问
 
 
 
-![](../../images/2023/1690094700194-c03c80ba-cd08-4786-ae4f-64f68a61e14a.png)
+![](/images/2023/1690094700194-c03c80ba-cd08-4786-ae4f-64f68a61e14a.png)
 
 
 

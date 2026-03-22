@@ -38,7 +38,7 @@ public class ServiceB{
 
 
 
-![](../../images/2023/1679812780685-93cd8a87-1da3-4fd5-a071-0600d7d6b6c6.png)
+![](/images/2023/1679812780685-93cd8a87-1da3-4fd5-a071-0600d7d6b6c6.png)
 
 
 

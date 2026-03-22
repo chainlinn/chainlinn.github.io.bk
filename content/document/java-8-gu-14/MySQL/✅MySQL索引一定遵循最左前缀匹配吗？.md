@@ -61,7 +61,7 @@ INSERT INTO t1 SELECT f1, f2 + 40 FROM t1;
 
 
 
-![](../../images/2022/16701385370311.jpg)
+![](/images/2022/16701385370311.jpg)
 
 
 

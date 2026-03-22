@@ -39,7 +39,7 @@ insert的undolog需要明确的记录下来这是一个删除操作，所以**in
 
 同时存储的重要信息还有undo no、table id、主键各列信息<len,value>列表等。
 
-![](../../images/2025/1753453197562-e48fdf83-eb06-40cd-ac7b-7c27d667a4cb.png)
+![](/images/2025/1753453197562-e48fdf83-eb06-40cd-ac7b-7c27d667a4cb.png)
 
 
 

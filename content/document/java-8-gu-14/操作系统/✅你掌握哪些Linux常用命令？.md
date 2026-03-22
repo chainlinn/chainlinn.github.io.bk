@@ -14,7 +14,7 @@ categories:
 
 <font style="color:rgb(55, 65, 81);"></font>
 
-![](../../images/2023/1702089650506-29faa34a-9c93-4640-a599-6a9dc37a2f92.png)
+![](/images/2023/1702089650506-29faa34a-9c93-4640-a599-6a9dc37a2f92.png)
 
 <font style="color:rgb(55, 65, 81);"></font>
 
@@ -22,13 +22,13 @@ categories:
 
 
 
-![](../../images/2023/1702089414016-be73b5d4-3335-4eb1-9dcd-169d45586dff.png)
+![](/images/2023/1702089414016-be73b5d4-3335-4eb1-9dcd-169d45586dff.png)
 
 
 
 **-h**<font style="color:rgb(55, 65, 81);">（--human-readable）：以易于阅读的格式（如MB、GB）显示信息。</font>
 
-![](../../images/2023/1702089512659-a8c07ae8-d971-41a3-8619-a4aa29110912.png)
+![](/images/2023/1702089512659-a8c07ae8-d971-41a3-8619-a4aa29110912.png)
 
 
 
@@ -40,7 +40,7 @@ categories:
 
 
 
-![](../../images/2023/1702089959701-271a7939-f7fc-4d05-ad38-6fd0082b340b.png)
+![](/images/2023/1702089959701-271a7939-f7fc-4d05-ad38-6fd0082b340b.png)
 
 
 
@@ -48,7 +48,7 @@ categories:
 
 <font style="color:rgb(51, 51, 51);"></font>
 
-![](../../images/2023/1702091273463-7cfc9e94-2415-4336-b4b4-d94437966fed.png)
+![](/images/2023/1702091273463-7cfc9e94-2415-4336-b4b4-d94437966fed.png)
 
 
 
@@ -66,7 +66,7 @@ ps aux|grep java | grep --color Xmx
 
 
 
-![](../../images/2023/1702091116260-da1b5700-b93f-4e36-8038-0dc587ff290a.png)
+![](/images/2023/1702091116260-da1b5700-b93f-4e36-8038-0dc587ff290a.png)
 
 <font style="color:rgb(55, 65, 81);"></font>
 
@@ -87,13 +87,13 @@ ps aux|grep java | grep --color Xmx
 1. **ls**<font style="color:rgb(55, 65, 81);">：列出目录内容。当需要显示隐藏文件的时候用</font>`<font style="color:rgb(55, 65, 81);">ls -a</font>`
 2. **<font style="color:rgb(55, 65, 81);">ll</font>**<font style="color:rgb(55, 65, 81);">：</font>**ll**<font style="color:rgb(55, 65, 81);">是</font>**ls -l**<font style="color:rgb(55, 65, 81);">命令的一个别名，用于以详细列表格式显示当前目录中的文件和目录。</font>
 
-![](../../images/2023/1702090099317-9624e98c-bff8-45a0-8570-7a2b42c15366.png)
+![](/images/2023/1702090099317-9624e98c-bff8-45a0-8570-7a2b42c15366.png)
 
 3. **cd**<font style="color:rgb(55, 65, 81);">：更改当前目录。</font>
 4. **pwd**<font style="color:rgb(55, 65, 81);">：显示当前目录路径。</font>
 5. **<font style="color:rgb(55, 65, 81);">open</font>**<font style="color:rgb(55, 65, 81);">：直接打开当前文件夹，这个命令在linux中用的不多，但是我在mac中用的比较多，当我在idea中的时候，想要打开当前目录的文件夹，我就会Terminal中使用open命令。这个命令会通过文件管理器打开当前目录。</font>
 
-![](../../images/2023/1702090447547-f92bb300-a1be-4ce3-8412-fd9393328824.png)
+![](/images/2023/1702090447547-f92bb300-a1be-4ce3-8412-fd9393328824.png)
 
 6. **mkdir**<font style="color:rgb(55, 65, 81);">：创建新目录。</font>
 7. **rmdir**<font style="color:rgb(55, 65, 81);">：删除空目录。</font>
@@ -161,7 +161,7 @@ grep "ERROR" application.log | grep "Biz"
 
 <font style="color:rgb(55, 65, 81);"></font>
 
-![](../../images/2023/1702091439959-72c489fc-cc5f-433e-bb73-54b6142eb70c.png)
+![](/images/2023/1702091439959-72c489fc-cc5f-433e-bb73-54b6142eb70c.png)
 
 
 

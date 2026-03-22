@@ -44,28 +44,28 @@ final void ensureWritable0(int minWritableBytes) {
 ### 原生ByteBuffer的弊端
 Java原生的ByteBuffer的数据结构，分为limit，capacity两个指针，如果我们写入“Hollis”之后，ByteBuffer的内容如下：
 
-![](../../images/2023/1673180746706-927a77a2-0cda-44b9-b2f9-648b7e172063.png)
+![](/images/2023/1673180746706-927a77a2-0cda-44b9-b2f9-648b7e172063.png)
 
 此时，如果我们要从该ByteBuffer中read数据，ByteBuffer会默认从position开始读，这样就什么也读不到，所以我们必须调用#flip方法，将position指针移动，如下：
 
-![](../../images/2023/1673180814196-2d41af9c-8bed-4ad8-93e4-d783655875db.png)
+![](/images/2023/1673180814196-2d41af9c-8bed-4ad8-93e4-d783655875db.png)
 
 这样我们才可以读到“Hollis”这个数据，万一我们调用的时候忘记使用flip，就会很坑爹。
 
 ### Netty的ByteBuf
 Netty自带的ByteBuf通过读写双指针避免了上面的问题，假如我们写入“Hollis”后，ByteBuf的内容如下：
 
-![](../../images/2023/1673181168872-9e2ca4ff-d145-4ad4-83f0-0f3cffce1503.png)
+![](/images/2023/1673181168872-9e2ca4ff-d145-4ad4-83f0-0f3cffce1503.png)
 
 在写入的同时，我们可以直接通过readPointer读取数据，如下所示：
 
-![](../../images/2023/1673181214917-e8c4598e-3fc0-48eb-a0f7-ce7bc8bef99c.png)
+![](/images/2023/1673181214917-e8c4598e-3fc0-48eb-a0f7-ce7bc8bef99c.png)
 
 在这个过程中，我们完全不用像JavaNIO的ByteBufer一样，感知其结构内部的操作，也不用调用flip，随意的读取和写入即可。
 
 同时，假如我们读Hollis这个数据，读到了一半，还剩下“is”没有读完，我们可以调用discardReadBytes方法将指针移位，为可写区域增加空间，如下所示：
 
-![](../../images/2023/1673181482582-f07018c7-1091-4e78-ae0d-ec336660e921.png)
+![](/images/2023/1673181482582-f07018c7-1091-4e78-ae0d-ec336660e921.png)
 
 ### 多种ByteBuf实现
 Netty根据不同的场景，有不同的ByteBuf实现，主要的几种分别是：Pooled，UnPooled，Direct，Heap，列表格如下：

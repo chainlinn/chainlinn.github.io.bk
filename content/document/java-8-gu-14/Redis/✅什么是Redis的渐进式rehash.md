@@ -31,7 +31,7 @@ categories:
 
 
 
-![](../../images/2023/1692419575799-517aced7-3c0b-480a-be5e-447a50ca375d.png)
+![](/images/2023/1692419575799-517aced7-3c0b-480a-be5e-447a50ca375d.png)
 
 
 
@@ -39,7 +39,7 @@ categories:
 
 
 
-![](../../images/2023/1692419598612-bd29a7c5-0da4-48f4-b324-8cf56f7a91b6.png)
+![](/images/2023/1692419598612-bd29a7c5-0da4-48f4-b324-8cf56f7a91b6.png)
 
 
 
@@ -53,7 +53,7 @@ categories:
 
 
 
-![](../../images/2023/1692419675045-d8066838-5c20-4d5b-b92a-d22a5e074e3b.png)
+![](/images/2023/1692419675045-d8066838-5c20-4d5b-b92a-d22a5e074e3b.png)
 
 
 
@@ -65,7 +65,7 @@ categories:
 
 
 
-![](../../images/2023/1692419800439-5a62ebb9-35f6-4814-bce1-98de88fb8a20.png)
+![](/images/2023/1692419800439-5a62ebb9-35f6-4814-bce1-98de88fb8a20.png)
 
 
 

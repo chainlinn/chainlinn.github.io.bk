@@ -38,7 +38,7 @@ categories:
 
 
 
-![](../../images/2023/1693112003377-d243f86d-fc21-4b34-a498-f5de2164bead.png)
+![](/images/2023/1693112003377-d243f86d-fc21-4b34-a498-f5de2164bead.png)
 
 
 

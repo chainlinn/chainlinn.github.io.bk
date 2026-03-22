@@ -76,7 +76,7 @@ Reference 不会自动进入上下文。只有当 Instruction 中明确指示，
 
 
 
-![画板](../../images/2026/1768111887979-ced71d90-fc1e-4986-9039-0ce5b3bcde6b.jpeg)
+![画板](/images/2026/1768111887979-ced71d90-fc1e-4986-9039-0ce5b3bcde6b.jpeg)
 
 # 
 

@@ -107,7 +107,7 @@ public class XSSFExcelReadTest {
 
 
 
-![](../../images/2023/1700377615322-53e7546e-3383-4316-8506-16eada7b74e5.png)
+![](/images/2023/1700377615322-53e7546e-3383-4316-8506-16eada7b74e5.png)
 
 
 
@@ -158,7 +158,7 @@ class PrintDataListener implements ReadListener<Object> {
 
 同样使用Arthas查看内存占用情况：
 
-### ![](../../images/2023/1700377694873-6495aa8e-f41e-4842-8e03-0c6848a6c6b4.png)
+### ![](/images/2023/1700377694873-6495aa8e-f41e-4842-8e03-0c6848a6c6b4.png)
 
 
 内存占用只有不到100M。

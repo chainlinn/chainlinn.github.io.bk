@@ -46,7 +46,7 @@ categories:
 
 
 
-![](../../images/2018/Pic2.png)
+![](/images/2018/Pic2.png)
 
 
 
@@ -96,7 +96,7 @@ categories:
 
 
 
-![](../../images/2018/Pic3.png)
+![](/images/2018/Pic3.png)
 
 
 
@@ -183,7 +183,7 @@ public void f() {
 
 
 
-![](../../images/2018/Pic4.png)
+![](/images/2018/Pic4.png)
 
 
 

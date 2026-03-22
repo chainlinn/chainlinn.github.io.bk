@@ -166,7 +166,7 @@ select a,d,f from t2 where a = "Hollis" order by d;
 
 
 
-![](../../images/2024/1705327004578-ab52ae7b-14ad-447e-b493-b3e06a7f3d74.png)
+![](/images/2024/1705327004578-ab52ae7b-14ad-447e-b493-b3e06a7f3d74.png)
 
 
 
@@ -213,7 +213,7 @@ select a,d,f from t2 where a = "Hollis" order by d;
 
 
 
-![](../../images/2024/1705327030869-b238aa06-2977-4c3e-a382-183e6ba98fd8.png)
+![](/images/2024/1705327030869-b238aa06-2977-4c3e-a382-183e6ba98fd8.png)
 
 
 

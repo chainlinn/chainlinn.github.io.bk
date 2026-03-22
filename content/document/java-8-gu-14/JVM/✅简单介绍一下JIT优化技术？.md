@@ -23,7 +23,7 @@ categories:
 
 有了JIT技术之后，JVM还是通过解释器进行解释执行。但是，**当JVM发现某个方法或代码块运行时执行的特别频繁的时候，就会认为这是“热点代码”（Hot Spot Code)。然后JIT会把部分“热点代码”翻译成本地机器相关的机器码，并进行优化，然后再把翻译后的机器码缓存起来，以备下次使用。**
 
-![](../../images/2022/1667466529876-3467ee10-0d71-4f1a-a42c-76fdcfe224ad.jpeg)
+![](/images/2022/1667466529876-3467ee10-0d71-4f1a-a42c-76fdcfe224ad.jpeg)
 
   
 
@@ -47,7 +47,7 @@ HotSpot虚拟机中内置了两个JIT编译器：Client Complier和Server Compli
 
 
 
-![](../../images/2022/1667466581344-a66e636c-af2a-4a78-9b0f-be259b5fca0f.png)
+![](/images/2022/1667466581344-a66e636c-af2a-4a78-9b0f-be259b5fca0f.png)
 
 
 

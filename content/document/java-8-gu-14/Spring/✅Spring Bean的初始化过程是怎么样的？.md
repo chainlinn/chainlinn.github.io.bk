@@ -19,7 +19,7 @@ categories:
 
 
 
-![](../../images/2023/1699966914771-319aeb73-ee91-46f8-b32a-cba0e57bcc74.png)
+![](/images/2023/1699966914771-319aeb73-ee91-46f8-b32a-cba0e57bcc74.png)
 
 
 

@@ -102,7 +102,7 @@ private Node enq(final Node node) {
 
 
 
-![](../../images/2024/1704527213375-e9cfffe7-0819-4de8-bd05-1f80449a6876.png)
+![](/images/2024/1704527213375-e9cfffe7-0819-4de8-bd05-1f80449a6876.png)
 
 
 

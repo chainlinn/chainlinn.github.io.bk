@@ -24,7 +24,7 @@ Redis是基于内存的，MySQL是基于磁盘的（非Memory引擎），所以R
 
 
 
-![](../../images/2025/1744440724925-f7ee0b2d-4c5c-4039-9913-7f72255e75a3.png)
+![](/images/2025/1744440724925-f7ee0b2d-4c5c-4039-9913-7f72255e75a3.png)
 
 测评地址：[https://help.aliyun.com/zh/redis/support/performance-whitepaper-of-community-edition-instances](https://help.aliyun.com/zh/redis/support/performance-whitepaper-of-community-edition-instances)
 

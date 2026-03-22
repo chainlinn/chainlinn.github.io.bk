@@ -13,7 +13,7 @@ categories:
 
 <font style="color:rgb(68, 68, 68);"></font>
 
-![](../../images/2023/1681550795216-558ee94f-f6f2-4610-984f-bc60495188b4.jpeg)
+![](/images/2023/1681550795216-558ee94f-f6f2-4610-984f-bc60495188b4.jpeg)
 
 
 

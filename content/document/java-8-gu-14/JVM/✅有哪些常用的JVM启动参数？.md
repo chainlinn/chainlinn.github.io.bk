@@ -57,7 +57,7 @@ java -Xmx512m -XX:+UseG1GC -jar your-application.jar
 
 
 
-![](../../images/2023/1704001546418-690df6e2-978d-47c8-8be3-190e26272bb0.png)
+![](/images/2023/1704001546418-690df6e2-978d-47c8-8be3-190e26272bb0.png)
 
 （图片来源于网络）
 

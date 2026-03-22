@@ -63,7 +63,7 @@ Server is ready.
 
 <font style="color:rgb(51, 51, 51);">页面如下：</font>
 
-![](../../images/2023/1696856886268-0af6bd97-9507-4900-972b-48f25f7e4302.png)
+![](/images/2023/1696856886268-0af6bd97-9507-4900-972b-48f25f7e4302.png)
 
 
 
@@ -91,11 +91,11 @@ Execute Object Query Language (OQL) query
 
 **<font style="color:rgb(51, 51, 51);">Show instance counts for all classes (excluding platform)</font>**<font style="color:rgb(51, 51, 51);">，平台外的所有对象信息。如下图：</font>
 
-![](../../images/2023/1696856921301-88ef08f2-5d89-4424-bf15-0b1dbdd9857a.png)
+![](/images/2023/1696856921301-88ef08f2-5d89-4424-bf15-0b1dbdd9857a.png)
 
 **<font style="color:rgb(51, 51, 51);">Show heap histogram</font>**<font style="color:rgb(51, 51, 51);"> </font><font style="color:rgb(51, 51, 51);">以树状图形式展示堆情况。如下图：</font>
 
-![](../../images/2023/1696856921573-1ea1be3a-4149-4208-bbfd-11cbacb2a3c5.png)
+![](/images/2023/1696856921573-1ea1be3a-4149-4208-bbfd-11cbacb2a3c5.png)
 
 <font style="color:rgb(51, 51, 51);">具体排查时需要结合代码，观察是否大量应该被回收的对象在一直被引用或者是否有占用内存特别大的对象无法被回收。</font>
 

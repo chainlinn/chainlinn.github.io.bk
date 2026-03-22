@@ -13,7 +13,7 @@ Object Relational Mapping ，简称ORM，翻译过来是对象关系映射。一
 
 
 
-![](../../images/2023/1673157428793-a11d2cf5-d725-435b-8cfe-3d3f1b65d091.png)
+![](/images/2023/1673157428793-a11d2cf5-d725-435b-8cfe-3d3f1b65d091.png)
 
 
 

@@ -19,7 +19,7 @@ categories:
 
 
 
-![](../../images/2023/1673071467790-da4c1bfd-4aee-4441-832a-efb0009d11c9.png)
+![](/images/2023/1673071467790-da4c1bfd-4aee-4441-832a-efb0009d11c9.png)
 
 
 
@@ -85,7 +85,7 @@ System.out.println(sdf.parse(dataStr));
 
 
 
-![](../../images/2018/15431240092595.jpg)
+![](/images/2018/15431240092595.jpg)
 
 
 
@@ -93,7 +93,7 @@ System.out.println(sdf.parse(dataStr));
 
 
 
-![](../../images/2018/15431240361504.jpg)
+![](/images/2018/15431240361504.jpg)
 
 
 
@@ -250,7 +250,7 @@ public class Main {
 
 
 
-![](../../images/2018/guiyue2.png)
+![](/images/2018/guiyue2.png)
 
 
 
@@ -278,7 +278,7 @@ public class Main {
 
 
 
-![](../../images/2018/15431313894397.jpg)
+![](/images/2018/15431313894397.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 
 
-![](../../images/2023/1682304911735-e83f4e3c-c29c-4b9c-a795-f0ac770af6e7.png)
+![](/images/2023/1682304911735-e83f4e3c-c29c-4b9c-a795-f0ac770af6e7.png)
 
 
 
@@ -114,7 +114,7 @@ ALTER TABLE `fraud_risk_case`
 
 
 
-![](../../images/2023/1682305893774-e6a8ad32-4687-4a5c-8925-491cb931e06d.png)
+![](/images/2023/1682305893774-e6a8ad32-4687-4a5c-8925-491cb931e06d.png)
 
 
 

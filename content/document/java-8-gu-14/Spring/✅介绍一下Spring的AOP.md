@@ -302,7 +302,7 @@ protected Object createProxy(
 
 
 
-![](../../images/2023/1673766092954-e6308cd9-ce8d-4854-9b97-1c785721bff4.png)
+![](/images/2023/1673766092954-e6308cd9-ce8d-4854-9b97-1c785721bff4.png)
 
 
 

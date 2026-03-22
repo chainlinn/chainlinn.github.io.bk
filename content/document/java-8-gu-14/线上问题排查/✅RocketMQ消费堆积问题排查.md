@@ -45,20 +45,20 @@ spring.cloud.stream.rocketmq.bindings.consumerC.consumer.tags=CONSUMER_C_TOPIC_T
 
 但是当机器发布一半后开始灰度观察的时候，出现了消息堆积问题：
 
-![](../../images/2023/1682427421166-51c052e1-7992-4ed3-b71e-21d9bdd0709a.png)
+![](/images/2023/1682427421166-51c052e1-7992-4ed3-b71e-21d9bdd0709a.png)
 
 ## 问题原因
 ### 消息订阅关系不一致
 经过历史经验和踩坑，感觉有可能是订阅组机器订阅关系不一致导致的消息堆积问题（因为订阅组的机器有的订阅关系是A，有的是B，MQ不能确定是否要消费，就能只能先堆积到broker中），查看MQ控制台后发现，确实是消息订阅关系不一致，导致消息堆积  
-![](../../images/2023/1682427825233-7e043a14-1dac-46b2-9c97-b34d090890e7.png)
+![](/images/2023/1682427825233-7e043a14-1dac-46b2-9c97-b34d090890e7.png)
 
 已经发布的那台订阅如下：
 
-![](../../images/2023/1682428293109-62907d55-e0c5-469c-abbc-08f3e6cf3b38.png)
+![](/images/2023/1682428293109-62907d55-e0c5-469c-abbc-08f3e6cf3b38.png)
 
 未发布的订阅关系如下（明显多于已经发布的机器的订阅关系）
 
-![](../../images/2023/1682428655336-a8380f7b-a0ee-4319-8de1-32d9c41144b2.png)
+![](/images/2023/1682428655336-a8380f7b-a0ee-4319-8de1-32d9c41144b2.png)
 
 ### Spring Cloud Stream 和 RocketMQ Native
 所以就引申出了一个问题，为什么将Spring Cloud Stream修改为原生的MetaQ之后，同一个ConsumerId对应的订阅关系就会改变呢？
@@ -73,19 +73,19 @@ spring.cloud.stream.rocketmq.bindings.consumerC.consumer.tags=CONSUMER_C_TOPIC_T
 #### RocketMQ
 RocketMQ client的类图如下：
 
-![](../../images/2023/1682425441600-dea2f79c-1e75-497a-b208-f6bf09973596.png)
+![](/images/2023/1682425441600-dea2f79c-1e75-497a-b208-f6bf09973596.png)
 
 + MQConsumerInner：记录当前consumerGroup和服务端的交互方式，以及topic和tag的映射关系。默认的实现是DefaultMQPushConsumerImpl，和consumerGroup的对应关系是1 : 1
 + MQClientInstance：统一管理网络链接等可以复用的对象，通过Map维护了ConsumerGroupId和MQConsumerInner的映射关系。简单来说，<font style="color:#DF2A3F;">就是一个ConsumerGroup，只能对应一个MQConsumerInner，</font>如下代码所示：
 
-![](../../images/2023/1682425442602-e5ee0fff-4b44-4ae0-aeae-8f563baf3942.png)
+![](/images/2023/1682425442602-e5ee0fff-4b44-4ae0-aeae-8f563baf3942.png)
 
 #### Spring Cloud Stream
-![](../../images/2023/1682425443533-40b769ce-8a26-481d-a42e-26a2949fd9fe.png)
+![](/images/2023/1682425443533-40b769ce-8a26-481d-a42e-26a2949fd9fe.png)
 
 Spring Cloud Stream是连接Spring和中间件的一个胶水层，在Spring Cloud Stream启动的时候，也会注册一个ConsumerGourp，如下代码所示：
 
-![](../../images/2023/1682425444585-ca1490b9-08c7-4654-98a3-726304f6e095.png)
+![](/images/2023/1682425444585-ca1490b9-08c7-4654-98a3-726304f6e095.png)
 
 ### 问题根因
 分析到这里，原因就已经很明显了。Spring Cloud Stream会在启动的时候自己new一个MetaPushConsumer（事实上就是一个新的MQConsumerInner），所以对于一个ConsumerGroup来说，就存在了两个MQConsumerInner，这显然是不符合RocketMQ要求的1:1的映射关系的，所以RocketMQ默认会用新的映射代替老的映射关系。显然，Spring Cloud Stream的被RocketMQ原生的给替代掉了。
@@ -120,12 +120,12 @@ spring.cloud.stream.rocketmq.bindings.consumerC.consumer.tags=CONSUMER_C_TOPIC_T
 ### 中间件代码如何确定版本
 arthas中的sc 命令 
 
-![](../../images/2023/1682425445317-52934b47-4f0c-4ba9-9787-adf6713e075b.png)
+![](/images/2023/1682425445317-52934b47-4f0c-4ba9-9787-adf6713e075b.png)
 
 ### Idea如何debug具体版本的中间件
-![](../../images/2023/1682425445693-f30c71da-02ab-4d5b-bf80-6ecb10d1a66d.png)
+![](/images/2023/1682425445693-f30c71da-02ab-4d5b-bf80-6ecb10d1a66d.png)
 
 
 
-![](../../images/2023/1682425446186-55f31009-2326-4304-903e-36954e97eaec.png)
+![](/images/2023/1682425446186-55f31009-2326-4304-903e-36954e97eaec.png)
 

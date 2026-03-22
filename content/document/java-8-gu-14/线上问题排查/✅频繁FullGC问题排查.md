@@ -13,7 +13,7 @@ categories:
 
 
 
-![](../../images/2023/1680089336683-0c6e8b61-4e89-4128-ad99-b100f3769bee.png)
+![](/images/2023/1680089336683-0c6e8b61-4e89-4128-ad99-b100f3769bee.png)
 
 
 
@@ -38,13 +38,13 @@ categories:
 
 
 
-![](../../images/2023/1680089460712-a6c4ba9a-34c5-485f-a6ed-c2605fbd6c76.png)
+![](/images/2023/1680089460712-a6c4ba9a-34c5-485f-a6ed-c2605fbd6c76.png)
 
 
 
 
 
-![](../../images/2023/1680089495465-20cc538c-ad0a-421a-8c42-363925fe4098.png)
+![](/images/2023/1680089495465-20cc538c-ad0a-421a-8c42-363925fe4098.png)
 
 
 
@@ -333,7 +333,7 @@ public ASMCodeGenerator(final AviatorEvaluatorInstance instance, final String so
 
 ****
 
-![](../../images/2023/1680091849585-85a8be75-fd21-49ff-ba2b-02fde1a07d1f.png)
+![](/images/2023/1680091849585-85a8be75-fd21-49ff-ba2b-02fde1a07d1f.png)
 
 
 
@@ -342,7 +342,7 @@ public ASMCodeGenerator(final AviatorEvaluatorInstance instance, final String so
 
 
 
-![](../../images/2023/1680091876431-e2a4c631-7d40-4b63-8432-fb7f19656e8d.png)
+![](/images/2023/1680091876431-e2a4c631-7d40-4b63-8432-fb7f19656e8d.png)
 
 
 
@@ -351,11 +351,11 @@ public ASMCodeGenerator(final AviatorEvaluatorInstance instance, final String so
 + 使用cacheKey的缓存方案
     - public Expression <font style="color:#ffc66d;">compile</font>(<font style="color:#cc7832;">final </font>String cacheKey<font style="color:#cc7832;">, final </font>String expression<font style="color:#cc7832;">, final boolean </font>cached)
 
-![](../../images/2023/1680091893999-0e2ded1d-289c-4d31-a86d-e8157a5d7948.png)
+![](/images/2023/1680091893999-0e2ded1d-289c-4d31-a86d-e8157a5d7948.png)
 
 + key组装规则
     - ${product}_${priceBaseDTO.code}_${simpleName}_${method}
 
-![](../../images/2023/1680091893680-d2c76887-5bae-44e7-bfb2-3421adf1fade.png)
+![](/images/2023/1680091893680-d2c76887-5bae-44e7-bfb2-3421adf1fade.png)
 
 ## 

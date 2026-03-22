@@ -22,7 +22,7 @@ categories:
 
 
 
-![](../../images/2024/1716003544630-fb56821b-49a0-4f76-9fa6-88dd0d2fd617.png)
+![](/images/2024/1716003544630-fb56821b-49a0-4f76-9fa6-88dd0d2fd617.png)
 
 
 
@@ -67,7 +67,7 @@ Redis 中的 hashtag 是键名中用大括号 {} 包裹的部分。Redis 对大�
 
 [https://github.com/redis/redis-doc/pull/1893/files](https://github.com/redis/redis-doc/pull/1893/files)
 
-![](../../images/2024/1716004303668-9a615f5f-5029-49eb-9c59-fc9fef2eea3e.png)
+![](/images/2024/1716004303668-9a615f5f-5029-49eb-9c59-fc9fef2eea3e.png)
 
 
 

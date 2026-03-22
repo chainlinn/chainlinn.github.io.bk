@@ -83,13 +83,13 @@ varchar在实际存储时只用实际字符长度 + 长度信息字节，不像 
 
 
 
-![](../../images/2025/1755263453501-3c5f74b4-3dd9-45bc-99c5-895e46c84546.png)
+![](/images/2025/1755263453501-3c5f74b4-3dd9-45bc-99c5-895e46c84546.png)
 
 <font style="color:#DF2A3F;">(注意：错误信息，不要信）</font>
 
 <font style="color:#DF2A3F;"></font>
 
-![](../../images/2025/1755263490619-203ad0b6-2236-417e-8423-98574b52c248.png)<font style="color:#DF2A3F;">(注意：错误信息，不要信）</font>
+![](/images/2025/1755263490619-203ad0b6-2236-417e-8423-98574b52c248.png)<font style="color:#DF2A3F;">(注意：错误信息，不要信）</font>
 
 
 
@@ -101,7 +101,7 @@ varchar在实际存储时只用实际字符长度 + 长度信息字节，不像 
 
 
 
-![](../../images/2025/1755263727008-4c59841f-826a-49b7-84ec-dd2518a36dd9.png)
+![](/images/2025/1755263727008-4c59841f-826a-49b7-84ec-dd2518a36dd9.png)
 
 <font style="color:rgb(64, 64, 64);"></font>
 
