@@ -21,26 +21,30 @@ caches:
 # --- 顶部菜单配置 ---
 menu:
   main:
+    - identifier: posts
+      name: "文章"
+      url: "/posts/"
+      weight: 1
     - identifier: document
       name: "文档归纳"
       url: "/document/"
-      weight: 1
+      weight: 2
     - identifier: archives
       name: "归档"
       url: "/archives/"
-      weight: 2
+      weight: 3
     - identifier: search
       name: "搜索"
       url: "/search/"
-      weight: 3
+      weight: 4
     - identifier: tags
       name: "标签"
       url: "/tags/"
-      weight: 4
+      weight: 5
     - identifier: rss
       name: "RSS订阅集合"
       url: "/rss/"
-      weight: 5
+      weight: 6
     # 你可以继续添加更多菜单项，比如 "关于"
     # - identifier: about
     #   name: "关于"
@@ -49,6 +53,7 @@ menu:
 
 # --- 主题参数配置 (这是 PaperMod 主题的核心) ---
 params:
+  mainSections: ["posts"] # 文章主分区，影响首页、归档等聚合页
 
   # --- 网站信息 ---
   author: "santu"
