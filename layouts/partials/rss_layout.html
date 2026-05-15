@@ -64,7 +64,8 @@
                     <div class="post-content"><p>暂时没有动态信息。</p></div>
                 {{ end }}
             </div>
-            <div id="feed-loader" style="text-align: center; padding: 20px; display: none;">
+            <div id="feed-loader" class="feed-loader" style="display: none;">
+                <div class="feed-loader-spinner"></div>
                 <p>正在加载更多...</p>
             </div>
         </div>
@@ -123,17 +124,17 @@ document.addEventListener('DOMContentLoaded', function () {
     function filterArticles() {if (isFiltering) return; isFiltering = true; articlesContainer.classList.add('is-filtering');setTimeout(() => {articlesContainer.innerHTML = ''; displayedCount = 0;if (currentFilter.main === 'all') { articlesToDisplay = allArticles; } else if (currentFilter.sub === currentFilter.main) { articlesToDisplay = allArticles.filter(a => a.category === currentFilter.main); } else { articlesToDisplay = allArticles.filter(a => a.blog_name === currentFilter.sub); } if (articlesToDisplay.length === 0) { articlesContainer.innerHTML = '<div class="post-content"><p>该筛选条件下暂时没有动态。</p></div>'; updateWrapperHeight(); } else { loadMoreArticles(true); } articlesContainer.classList.remove('is-filtering'); isFiltering = false;}, 200);}
     mainCategoriesContainer.addEventListener('click',e=>{const button=e.target.closest('.category-btn');if(!button)return;const value=button.dataset.filterValue;if(value===currentFilter.main&&value!=='all'){currentFilter={main:'all',sub:'all'}}else{currentFilter={main:value,sub:value};if(value!=='all'){renderSubCategories(value)}}updateFilterUI();filterArticles()});
     subCategoriesContainer.addEventListener('click',e=>{const button=e.target.closest('.category-btn');if(!button)return;const value=button.dataset.filterValue;if(value!==currentFilter.sub){currentFilter.sub=value;updateFilterUI();filterArticles()}});
-    const handleScroll=()=>{if(!wrapper.classList.contains('detail-view-active')&&window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-300&&!isLoading&&displayedCount<articlesToDisplay.length){loadMoreArticles()}};window.addEventListener('scroll',handleScroll);
+    let scrollTicking=false;const handleScroll=()=>{if(!scrollTicking){requestAnimationFrame(()=>{if(!wrapper.classList.contains('detail-view-active')&&window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-300&&!isLoading&&displayedCount<articlesToDisplay.length){loadMoreArticles()}scrollTicking=false});scrollTicking=true}};window.addEventListener('scroll',handleScroll,{passive:true});
     function createArticleHTML(article){const d=new Date(article.published).toLocaleString('zh-CN',{year:'numeric',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});const tempDiv=document.createElement('div');tempDiv.innerHTML=article.content||article.summary;let summaryText=tempDiv.textContent||tempDiv.innerText||"";summaryText=summaryText.length>150?summaryText.substring(0,150)+'...':summaryText;return`<article class="post-entry"><header class="entry-header"><h2 class="entry-hint-parent"><a href="javascript:void(0);" class="read-more-trigger" data-id="${article.id}">${article.title}</a></h2></header><div class="entry-content"><p>${summaryText}</p></div><footer class="entry-footer"><span title="${article.blog_name}">${article.source_icon} ${article.blog_name}</span>&nbsp;·&nbsp;<time>${d}</time></footer></article>`}
     function loadMoreArticles(isFirstLoad = false){if(isLoading) return; isLoading = true;if(!isFirstLoad) { loader.style.display = 'block'; }setTimeout(() => {const startIndex = displayedCount, endIndex = startIndex + articlesPerPage;const articlesChunk = articlesToDisplay.slice(startIndex, endIndex);if(articlesChunk.length > 0) {let articlesHTML = '';articlesChunk.forEach(article => { articlesHTML += createArticleHTML(article); });articlesContainer.insertAdjacentHTML('beforeend', articlesHTML);displayedCount += articlesChunk.length;}updateWrapperHeight(); if(!isFirstLoad) { loader.style.display = 'none'; }isLoading = false;}, isFirstLoad ? 0 : 300);}
-    function updateWrapperHeight() { requestAnimationFrame(() => { if (!wrapper.classList.contains('detail-view-active')) { wrapper.style.height = listView.scrollHeight + 'px'; } }); }
+    function updateWrapperHeight() { requestAnimationFrame(() => { if (!wrapper.classList.contains('detail-view-active')) { const imgs = listView.querySelectorAll('img'); const pending = Array.from(imgs).filter(i => !i.complete); if (pending.length > 0) { let loaded = 0; pending.forEach(i => { i.addEventListener('load', () => { loaded++; if (loaded === pending.length) wrapper.style.height = listView.scrollHeight + 'px'; }, { once: true }); i.addEventListener('error', () => { loaded++; if (loaded === pending.length) wrapper.style.height = listView.scrollHeight + 'px'; }, { once: true }); }); } wrapper.style.height = listView.scrollHeight + 'px'; } }); }
     function showArticleDetail(articleId) {const article = allArticles.find(a => a.id === articleId); if (!article) return;detailTitle.textContent = article.title;const d = new Date(article.published).toLocaleString('zh-CN', {year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'});detailMeta.innerHTML = `<span title="${article.blog_name}">${article.source_icon} ${article.blog_name}</span>&nbsp;·&nbsp;<time>${d}</time>&nbsp;·&nbsp;<a href="${article.link}" target="_blank" rel="noopener noreferrer">查看原文</a>`;detailBody.innerHTML = article.content || '<p>此文章没有提供正文内容。</p>';detailBody.querySelectorAll('img').forEach(img => { img.classList.remove('image-error'); img.onerror = function() { this.classList.add('image-error'); this.onerror = null; }; });const codeBlocks = detailBody.querySelectorAll('pre code');if (codeBlocks.length > 0) { loadHljs().then(hljs => { codeBlocks.forEach(block => { hljs.highlightElement(block); if (block.parentElement.tagName === 'PRE') { enhanceCodeBlock(block.parentElement); } }); }).catch(err => console.error("Highlight.js 加载失败:", err)); }const detailHeight = detailView.scrollHeight;wrapper.style.height = detailHeight + 'px';wrapper.classList.add('detail-view-active');pageContainer.classList.add('detail-view-is-active');window.scrollTo({top: wrapper.offsetTop - 20, behavior: 'smooth'});}
     function hideArticleDetail() {if (!wrapper.classList.contains('detail-view-active')) return;const listHeight = listView.scrollHeight;wrapper.style.height = listHeight + 'px';wrapper.classList.remove('detail-view-active');pageContainer.classList.remove('detail-view-is-active');}
     window.addEventListener('load', () => { updateWrapperHeight(); });
     articlesContainer.addEventListener('click', function(e){ const trigger = e.target.closest('.read-more-trigger'); if(trigger && trigger.dataset.id){ e.preventDefault(); showArticleDetail(trigger.dataset.id); } });
     detailCloseBtn.addEventListener('click', hideArticleDetail);
-    document.addEventListener('keydown',function(e){if(e.key==="Escape"&&wrapper.classList.contains('detail-view-active')){hideArticleDetail()}});
-    let hljsPromise=null;function loadHljs(){if(!hljsPromise){hljsPromise=new Promise((resolve,reject)=>{if(window.hljs){return resolve(window.hljs)}const style=document.createElement('link');style.rel='stylesheet';style.href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/vs2015.min.css';document.head.appendChild(style);const script=document.createElement('script');script.src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js';script.onload=()=>resolve(window.hljs);script.onerror=reject;document.head.appendChild(script)})}return hljsPromise}
+    document.addEventListener('keydown',function(e){if(e.key!=="Escape")return;var lb=lightbox.classList.contains('is-visible');var dv=wrapper.classList.contains('detail-view-active');if(lb){e.preventDefault();e.stopPropagation();closeLightbox()}else if(dv){hideArticleDetail()}});
+    let hljsPromise=null;let hljsStyleLoaded=false;function loadHljs(){if(!hljsPromise){hljsPromise=new Promise((resolve,reject)=>{if(window.hljs){return resolve(window.hljs)}if(!hljsStyleLoaded&&!document.querySelector('link[href*="highlight.js/11.9.0/styles"]')){const style=document.createElement('link');style.rel='stylesheet';style.href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/vs2015.min.css';document.head.appendChild(style);hljsStyleLoaded=true}const existingScript=document.querySelector('script[src*="highlight.js/11.9.0/highlight.min"]');if(existingScript){existingScript.addEventListener('load',()=>resolve(window.hljs));existingScript.addEventListener('error',reject);return}const script=document.createElement('script');script.src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js';script.onload=()=>resolve(window.hljs);script.onerror=reject;document.head.appendChild(script)})}return hljsPromise}
     function enhanceCodeBlock(preElement){if(preElement.parentElement.classList.contains('code-block-wrapper'))return;const codeElement=preElement.querySelector('code');const wrapper=document.createElement('div');wrapper.className='code-block-wrapper';const header=document.createElement('div');header.className='code-block-header';const langMatch=codeElement.className.match(/language-(\S+)/);const langName=document.createElement('span');langName.className='language-name';langName.textContent=langMatch?langMatch[1]:'';const copyButton=document.createElement('button');copyButton.className='copy-code-button';const copyIconSVG=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>`;const checkIconSVG=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;copyButton.innerHTML=`<span class="copy-icon">${copyIconSVG}</span><span class="copy-text">复制</span>`;copyButton.addEventListener('click',()=>{navigator.clipboard.writeText(codeElement.innerText).then(()=>{copyButton.innerHTML=`<span class="copy-icon">${checkIconSVG}</span><span class="copy-text">已复制!</span>`;copyButton.classList.add('copied');setTimeout(()=>{copyButton.innerHTML=`<span class="copy-icon">${copyIconSVG}</span><span class="copy-text">复制</span>`;copyButton.classList.remove('copied')},2000)})});header.appendChild(langName);header.appendChild(copyButton);preElement.parentNode.insertBefore(wrapper,preElement);wrapper.appendChild(header);wrapper.appendChild(preElement)}
 
     // --- 开始：图片灯箱 (Lightbox) 功能 [双指缩放修复版] ---
@@ -148,22 +149,21 @@ document.addEventListener('DOMContentLoaded', function () {
     let initialPinchDistance = 0;
     let pinchCenter = { x: 0, y: 0 };
     
+    let scrollY = 0;
     function openLightbox(src) {
+        scrollY = window.scrollY;
         lightboxImage.setAttribute('src', src);
         resetImageTransform();
         lightbox.classList.add('is-visible');
         document.body.style.overflow = 'hidden';
-        // 阻止页面滚动和其他交互
-        document.body.style.position = 'fixed';
-        document.body.style.width = '100%';
+        document.body.style.touchAction = 'none';
     }
 
     function closeLightbox() {
         lightbox.classList.remove('is-visible');
         document.body.style.overflow = '';
-        // 恢复页面滚动
-        document.body.style.position = '';
-        document.body.style.width = '';
+        document.body.style.touchAction = '';
+        window.scrollTo(0, scrollY);
     }
 
     function resetImageTransform() {
@@ -343,13 +343,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
     
-    document.addEventListener('keydown', e => {
-        if (e.key === 'Escape' && lightbox.classList.contains('is-visible')) {
-            e.preventDefault();
-            e.stopPropagation();
-            closeLightbox();
-        }
-    });
+    // ESC 键处理已统一到上方主逻辑中
 
     // 使用 capture: true 确保在最外层捕获所有事件
     lightbox.addEventListener('touchstart', handleTouchStart, { passive: false, capture: true });
@@ -389,12 +383,13 @@ document.addEventListener('DOMContentLoaded', function () {
     .read-more-trigger { text-decoration: none; color: inherit; cursor: pointer; }
     .read-more-trigger:hover { text-decoration: underline; }
     .friends-feed-page-container.detail-view-is-active .feed-filter-container { pointer-events: none; opacity: 0.5; }
+    .friends-feed-page-container.detail-view-is-active .feed-filter-container::after { content: '（查看文章时筛选器暂不可用）'; display: block; font-size: 0.8em; color: var(--secondary); margin-top: 8px; }
     .detail-view-content-wrapper { background-color: var(--entry); padding: 1rem 0.5rem; border-radius: 12px; border: 1px solid var(--border-color); }
     .detail-view-close-btn { display: inline-block; margin-bottom: 2rem; background: var(--code-bg); border: 1px solid var(--border-color); color: var(--primary); padding: 8px 16px; border-radius: 8px; cursor: pointer; font-size: 0.9em; font-weight: 500; transition: all 0.2s ease; }
     .detail-view-close-btn:hover { background-color: var(--primary); border-color: var(--primary); color: var(--entry); }
     .detail-header { padding-bottom: 1rem; border-bottom: 1px solid var(--border-color); margin-bottom: 1.5rem; }
     #detail-title { margin: 0 0 0.5rem 0; font-size: 2em; line-height: 1.3; }
-    .detail-body-content { max-height: none; overflow-y: visible; }
+    .detail-body-content { max-width: 75ch; margin: 0 auto; max-height: none; overflow-y: visible; }
     .detail-body-content img { max-width: 100%; height: auto; display: block; margin: 1em 0; border-radius: 8px; background-color: var(--code-bg); cursor: zoom-in; }
     .detail-body-content img.image-error { position: relative; min-height: 150px; width: 100%; font-size: 0.9em; color: var(--secondary); filter: grayscale(100%); content: ''; cursor: default; }
     .detail-body-content img.image-error::before { content: '🖼️'; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2.5em; opacity: 0.5; }
@@ -420,4 +415,23 @@ document.addEventListener('DOMContentLoaded', function () {
     #lightbox-image:active { cursor: grabbing; }
     .lightbox-close-btn { position: absolute; top: 20px; right: 20px; background: none; border: none; font-size: 2.5rem; color: rgba(255, 255, 255, 0.8); cursor: pointer; transition: color 0.2s ease, transform 0.2s ease; z-index: 10; pointer-events: all; }
     .lightbox-close-btn:hover { color: #fff; transform: scale(1.1); }
+    /* 加载指示器 */
+    .feed-loader { text-align: center; padding: 32px 20px; display: flex; flex-direction: column; align-items: center; gap: 12px; color: var(--secondary); }
+    .feed-loader-spinner { width: 28px; height: 28px; border: 3px solid var(--border-color); border-top-color: var(--primary); border-radius: 50%; animation: feed-spin 0.8s linear infinite; }
+    @keyframes feed-spin { to { transform: rotate(360deg); } }
+    /* 代码块移动端滚动提示 */
+    .detail-body-content pre { -webkit-overflow-scrolling: touch; }
+    .detail-body-content pre::-webkit-scrollbar { height: 6px; }
+    .detail-body-content pre::-webkit-scrollbar-thumb { background: rgba(128,128,128,0.4); border-radius: 3px; }
+    .code-block-wrapper { overflow-x: auto; }
+    /* 移动端筛选按钮响应式 */
+    @media (max-width: 640px) {
+        .filter-bar { gap: 8px; }
+        .main-btn { padding: 6px 12px; font-size: 0.82em; border-radius: 6px; }
+        .sub-btn { padding: 4px 10px; font-size: 0.78em; }
+        .detail-view-content-wrapper { padding: 0.8rem 0.4rem; }
+        #detail-title { font-size: 1.4em; }
+        .detail-body-content { max-width: none; }
+        .lightbox-close-btn { top: 10px; right: 10px; font-size: 2rem; }
+    }
 </style>
