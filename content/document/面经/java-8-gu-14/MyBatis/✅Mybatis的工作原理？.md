@@ -144,7 +144,7 @@ public <E> List<E> query(MappedStatement ms, Object parameterObject, RowBounds r
 
 具体的细节可以参考：
 
-[🔜Mybatis的缓存机制](../MyBatis/✅Mybatis的缓存机制.md)
+[🔜Mybatis的缓存机制]({{< ref "MyBatis/✅Mybatis的缓存机制.md" >}})
 
 ### 查询数据库
 如果一级缓存中没有的话，则需要调用JDBC执行真正的SQL逻辑。我们知道，在调用JDBC之前，是需要建立连接的，如下代码所示：

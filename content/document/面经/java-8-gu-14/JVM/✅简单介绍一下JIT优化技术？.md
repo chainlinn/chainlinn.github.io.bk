@@ -39,7 +39,7 @@ HotSpot虚拟机中内置了两个JIT编译器：Client Complier和Server Compli
 
 
 
-[✅Java是编译型还是解释型?](../JVM/✅Java是编译型还是解释型_.md)
+[✅Java是编译型还是解释型?]({{< ref "JVM/✅Java是编译型还是解释型_.md" >}})
 
 
 
@@ -90,7 +90,7 @@ HotSpot虚拟机中内置了两个JIT编译器：Client Complier和Server Compli
 ### 逃逸分析
 
 
-[✅什么是逃逸分析？](../JVM/✅什么是逃逸分析？.md)
+[✅什么是逃逸分析？]({{< ref "JVM/✅什么是逃逸分析？.md" >}})
 
 
 
@@ -135,7 +135,7 @@ public void f() {
 ### 标量替换&栈上分配
 
 
-[Java中的对象一定在堆上分配内存吗？](../JVM/✅Java中的对象一定在堆上分配内存吗？.md)
+[Java中的对象一定在堆上分配内存吗？]({{< ref "JVM/✅Java中的对象一定在堆上分配内存吗？.md" >}})
 
 
 

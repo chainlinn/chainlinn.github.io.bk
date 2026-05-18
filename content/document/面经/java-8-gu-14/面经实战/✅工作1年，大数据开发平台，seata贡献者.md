@@ -68,15 +68,15 @@ categories:
 
 
 
-[✅Redis实现分布锁的时候，哪些问题需要考虑？](../Redis/✅Redis实现分布锁的时候，哪些问题需要考虑？.md)
+[✅Redis实现分布锁的时候，哪些问题需要考虑？]({{< ref "Redis/✅Redis实现分布锁的时候，哪些问题需要考虑？.md" >}})
 
 
 
-[✅如何用Redisson实现分布式锁？](../Redis/✅如何用Redisson实现分布式锁？.md)
+[✅如何用Redisson实现分布式锁？]({{< ref "Redis/✅如何用Redisson实现分布式锁？.md" >}})
 
 
 
-[✅Redisson的watchdog机制是怎么样的？](../Redis/✅Redisson的watchdog机制是怎么样的？.md)
+[✅Redisson的watchdog机制是怎么样的？]({{< ref "Redis/✅Redisson的watchdog机制是怎么样的？.md" >}})
 
 
 
@@ -89,7 +89,7 @@ categories:
 
 
 
-[✅如何解决接口幂等的问题？](../分布式/✅如何解决接口幂等的问题？.md)
+[✅如何解决接口幂等的问题？]({{< ref "分布式/✅如何解决接口幂等的问题？.md" >}})
 
 
 
@@ -106,7 +106,7 @@ categories:
 
 
 
-[✅MySQL中like的模糊查询如何优化](../MySQL/✅MySQL中like的模糊查询如何优化.md)
+[✅MySQL中like的模糊查询如何优化]({{< ref "MySQL/✅MySQL中like的模糊查询如何优化.md" >}})
 
 
 
@@ -125,7 +125,7 @@ categories:
 
 
 
-[✅频繁FullGC问题排查](../线上问题排查/✅频繁FullGC问题排查.md)
+[✅频繁FullGC问题排查]({{< ref "线上问题排查/✅频繁FullGC问题排查.md" >}})
 
 
 
@@ -150,13 +150,13 @@ categories:
 
 
 
-[✅Seata的实现原理是什么](../分布式/✅Seata的实现原理是什么.md)
+[✅Seata的实现原理是什么]({{< ref "分布式/✅Seata的实现原理是什么.md" >}})
 
 
 
-[✅Seata的AT模式和XA有什么区别？](../分布式/✅Seata的AT模式和XA有什么区别？.md)
+[✅Seata的AT模式和XA有什么区别？]({{< ref "分布式/✅Seata的AT模式和XA有什么区别？.md" >}})
 
 
 
-[✅Seata的4种事务模式，各自适合的场景是什么？](../分布式/✅Seata的4种事务模式，各自适合的场景是什么？.md)
+[✅Seata的4种事务模式，各自适合的场景是什么？]({{< ref "分布式/✅Seata的4种事务模式，各自适合的场景是什么？.md" >}})
 

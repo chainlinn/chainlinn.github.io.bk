@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅为什么MySQL会选错索引，如何解决？](../MySQL/✅为什么MySQL会选错索引，如何解决？.md)
+[✅为什么MySQL会选错索引，如何解决？]({{< ref "MySQL/✅为什么MySQL会选错索引，如何解决？.md" >}})
 
 
 

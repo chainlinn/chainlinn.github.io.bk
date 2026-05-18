@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis中的Zset是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
+[✅Redis中的Zset是怎么实现的？]({{< ref "Redis/✅Redis中的Zset是怎么实现的？.md" >}})
 
 
 

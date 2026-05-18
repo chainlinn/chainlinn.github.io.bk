@@ -68,7 +68,7 @@ varchar在实际存储时只用实际字符长度 + 长度信息字节，不像 
 
 <font style="color:rgb(64, 64, 64);"></font>
 
-[✅order by 是怎么实现的？](../MySQL/✅order by 是怎么实现的？.md)
+[✅order by 是怎么实现的？]({{< ref "MySQL/✅order by 是怎么实现的？.md" >}})
 
 
 

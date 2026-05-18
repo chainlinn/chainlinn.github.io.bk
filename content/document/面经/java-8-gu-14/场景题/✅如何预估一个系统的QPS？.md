@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是QPS，什么是RT？](../高性能/✅什么是QPS，什么是RT？.md)
+[✅什么是QPS，什么是RT？]({{< ref "高性能/✅什么是QPS，什么是RT？.md" >}})
 
 
 

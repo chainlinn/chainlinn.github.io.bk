@@ -189,13 +189,13 @@ public class SlidingWindowRateLimiter {
 ### 学习资料
 
 
-[✅过滤器和拦截器的区别是什么？](../Tomcat/✅过滤器和拦截器的区别是什么？.md)
+[✅过滤器和拦截器的区别是什么？]({{< ref "Tomcat/✅过滤器和拦截器的区别是什么？.md" >}})
 
 
 
-[✅如何基于Redis实现滑动窗口限流？](../Redis/✅如何基于Redis实现滑动窗口限流？.md)
+[✅如何基于Redis实现滑动窗口限流？]({{< ref "Redis/✅如何基于Redis实现滑动窗口限流？.md" >}})
 
 
 
-[✅Cookie，Session，Token的区别是什么？](../计算机网络/✅Cookie，Session，Token的区别是什么？.md)
+[✅Cookie，Session，Token的区别是什么？]({{< ref "计算机网络/✅Cookie，Session，Token的区别是什么？.md" >}})
 

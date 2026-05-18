@@ -26,7 +26,7 @@ categories:
 
 
 
-[✅Elasticsearch集群中的角色有哪些？](../ElasticSearch/✅Elasticsearch集群中的角色有哪些？.md)
+[✅Elasticsearch集群中的角色有哪些？]({{< ref "ElasticSearch/✅Elasticsearch集群中的角色有哪些？.md" >}})
 
 
 
@@ -48,5 +48,5 @@ categories:
 
 
 
-[✅什么是ILM（索引生命周期管理）？](../ElasticSearch/✅什么是ILM（索引生命周期管理）？.md)
+[✅什么是ILM（索引生命周期管理）？]({{< ref "ElasticSearch/✅什么是ILM（索引生命周期管理）？.md" >}})
 

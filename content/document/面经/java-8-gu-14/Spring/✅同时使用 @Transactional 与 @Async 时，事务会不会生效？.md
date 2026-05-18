@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅Spring的事务在多线程下生效吗？为什么？](../Spring/✅Spring的事务在多线程下生效吗？为什么？.md)
+[✅Spring的事务在多线程下生效吗？为什么？]({{< ref "Spring/✅Spring的事务在多线程下生效吗？为什么？.md" >}})
 
 
 

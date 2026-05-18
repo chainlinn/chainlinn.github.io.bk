@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redisson的watchdog机制是怎么样的？](../Redis/✅Redisson的watchdog机制是怎么样的？.md)
+[✅Redisson的watchdog机制是怎么样的？]({{< ref "Redis/✅Redisson的watchdog机制是怎么样的？.md" >}})
 
 
 

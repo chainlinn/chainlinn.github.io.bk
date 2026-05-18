@@ -150,7 +150,7 @@ public class RegisterEventListener {
 
 
 
-[为什么不建议直接使用Spring的@Async](../Spring/✅为什么不建议直接使用Spring的@Async.md)
+[为什么不建议直接使用Spring的@Async]({{< ref "Spring/✅为什么不建议直接使用Spring的@Async.md" >}})
 
 # 扩展知识
 

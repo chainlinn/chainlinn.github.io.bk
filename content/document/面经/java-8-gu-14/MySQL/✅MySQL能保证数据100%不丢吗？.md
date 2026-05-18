@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
+[✅什么是事务的2阶段提交？]({{< ref "MySQL/✅什么是事务的2阶段提交？.md" >}})
 
 
 
@@ -65,7 +65,7 @@ categories:
 
 
 
-[✅write和fsync的区别是什么？](../操作系统/✅write和fsync的区别是什么？.md)
+[✅write和fsync的区别是什么？]({{< ref "操作系统/✅write和fsync的区别是什么？.md" >}})
 
 
 

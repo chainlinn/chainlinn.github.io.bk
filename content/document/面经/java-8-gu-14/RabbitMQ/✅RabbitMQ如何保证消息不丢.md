@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅如何保障消息一定能发送到RabbitMQ](../RabbitMQ/✅如何保障消息一定能发送到RabbitMQ.md)
+[✅如何保障消息一定能发送到RabbitMQ]({{< ref "RabbitMQ/✅如何保障消息一定能发送到RabbitMQ.md" >}})
 
 
 
@@ -106,5 +106,5 @@ rabbitTemplate.convertAndSend("simple.queue", message);
 
 
 
-[✅如何基于本地消息表实现分布式事务？](../分布式/✅如何基于本地消息表实现分布式事务？.md)
+[✅如何基于本地消息表实现分布式事务？]({{< ref "分布式/✅如何基于本地消息表实现分布式事务？.md" >}})
 

@@ -16,7 +16,7 @@ categories:
 
 
 
-[✅什么是守护线程，和普通线程有什么区别？](../Java并发/✅什么是守护线程，和普通线程有什么区别？.md)
+[✅什么是守护线程，和普通线程有什么区别？]({{< ref "Java并发/✅什么是守护线程，和普通线程有什么区别？.md" >}})
 
 
 
@@ -39,7 +39,7 @@ categories:
 
 
 
-[✅Java发生了OOM一定会导致JVM 退出吗？](../JVM/✅Java发生了OOM一定会导致JVM 退出吗？.md)
+[✅Java发生了OOM一定会导致JVM 退出吗？]({{< ref "JVM/✅Java发生了OOM一定会导致JVM 退出吗？.md" >}})
 
 
 
@@ -67,7 +67,7 @@ categories:
 
 
 
-[✅对JDK进程执行kill -9有什么影响？](../JVM/✅对JDK进程执行kill -9有什么影响？.md)
+[✅对JDK进程执行kill -9有什么影响？]({{< ref "JVM/✅对JDK进程执行kill -9有什么影响？.md" >}})
 
 ### 
 

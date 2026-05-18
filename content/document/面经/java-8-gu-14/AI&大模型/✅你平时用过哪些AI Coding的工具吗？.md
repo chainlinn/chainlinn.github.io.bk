@@ -68,7 +68,7 @@ TRAE
 ## Claude Code国内不能用，你是怎么用的？
 
 
-[✅Claude Code国内不能用，你是怎么用的？](../AI&大模型/✅Claude Code国内不能用，你是怎么用的？.md)
+[✅Claude Code国内不能用，你是怎么用的？]({{< ref "AI&大模型/✅Claude Code国内不能用，你是怎么用的？.md" >}})
 
 
 

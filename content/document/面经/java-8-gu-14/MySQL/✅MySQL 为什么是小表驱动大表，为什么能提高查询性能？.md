@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅MySQL的驱动表是什么？MySQL怎么选的？](../MySQL/✅MySQL的驱动表是什么？MySQL怎么选的？.md)
+[✅MySQL的驱动表是什么？MySQL怎么选的？]({{< ref "MySQL/✅MySQL的驱动表是什么？MySQL怎么选的？.md" >}})
 
 
 

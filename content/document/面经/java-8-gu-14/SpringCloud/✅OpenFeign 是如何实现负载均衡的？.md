@@ -14,9 +14,9 @@ categories:
 
 
 
-[✅LoadBalancer和Ribbon的区别是什么？为什么用他替代Ribbon？](../SpringCloud/✅LoadBalancer和Ribbon的区别是什么？为什么用他替代Ribbon？.md)
+[✅LoadBalancer和Ribbon的区别是什么？为什么用他替代Ribbon？]({{< ref "SpringCloud/✅LoadBalancer和Ribbon的区别是什么？为什么用他替代Ribbon？.md" >}})
 
 
 
-[✅LoadBalancer支持哪些负载均衡策略？如何修改？](../SpringCloud/✅LoadBalancer支持哪些负载均衡策略？如何修改？.md)
+[✅LoadBalancer支持哪些负载均衡策略？如何修改？]({{< ref "SpringCloud/✅LoadBalancer支持哪些负载均衡策略？如何修改？.md" >}})
 

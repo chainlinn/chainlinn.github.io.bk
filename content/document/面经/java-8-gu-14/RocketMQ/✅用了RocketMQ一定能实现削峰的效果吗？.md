@@ -37,7 +37,7 @@ MQ的消息有推和拉两种模式，如果是那种推的模式，会在上游
 
 
 ## 推&拉
-[✅RocketMQ的消息是推还是拉？](../RocketMQ/✅RocketMQ的消息是推还是拉？.md)
+[✅RocketMQ的消息是推还是拉？]({{< ref "RocketMQ/✅RocketMQ的消息是推还是拉？.md" >}})
 
 
 

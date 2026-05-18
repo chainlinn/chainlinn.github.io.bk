@@ -87,7 +87,7 @@ public class MyApplicationRunner implements ApplicationRunner {
 
 CommandLineRunner 和 ApplicationRunner的调用，是在SpringApplication的run方法中，这个我们在下面这个介绍过：
 
-[✅SpringBoot的启动流程是怎么样的？](../Spring/✅SpringBoot的启动流程是怎么样的？.md)
+[✅SpringBoot的启动流程是怎么样的？]({{< ref "Spring/✅SpringBoot的启动流程是怎么样的？.md" >}})
 
 
 
@@ -144,11 +144,11 @@ public class CachePreloader implements InitializingBean {
 
 
 
-[✅Spring Bean的初始化过程是怎么样的？](../Spring/✅Spring Bean的初始化过程是怎么样的？.md)
+[✅Spring Bean的初始化过程是怎么样的？]({{< ref "Spring/✅Spring Bean的初始化过程是怎么样的？.md" >}})
 
 
 
-[✅@PostConstruct、init-method和afterPropertiesSet执行顺序](../Spring/✅@PostConstruct、init-method和afterPropertiesSet执行顺序.md)
+[✅@PostConstruct、init-method和afterPropertiesSet执行顺序]({{< ref "Spring/✅@PostConstruct、init-method和afterPropertiesSet执行顺序.md" >}})
 
 
 
@@ -182,5 +182,5 @@ public class CachePreloader {
 
 
 
-[✅@PostConstruct、init-method和afterPropertiesSet执行顺序](../Spring/✅@PostConstruct、init-method和afterPropertiesSet执行顺序.md)
+[✅@PostConstruct、init-method和afterPropertiesSet执行顺序]({{< ref "Spring/✅@PostConstruct、init-method和afterPropertiesSet执行顺序.md" >}})
 

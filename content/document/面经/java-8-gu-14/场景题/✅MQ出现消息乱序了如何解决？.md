@@ -32,11 +32,11 @@ categories:
 
 
 
-[✅RocketMQ如何保证消息的顺序性？](../RocketMQ/✅RocketMQ如何保证消息的顺序性？.md)
+[✅RocketMQ如何保证消息的顺序性？]({{< ref "RocketMQ/✅RocketMQ如何保证消息的顺序性？.md" >}})
 
 
 
-[✅Kafka如何实现顺序消费？](../Kafka/✅Kafka如何实现顺序消费？.md)
+[✅Kafka如何实现顺序消费？]({{< ref "Kafka/✅Kafka如何实现顺序消费？.md" >}})
 
 
 

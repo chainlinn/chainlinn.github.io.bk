@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅什么是ReadView，什么样的ReadView可见？](../MySQL/✅什么是ReadView，什么样的ReadView可见？.md)
+[✅什么是ReadView，什么样的ReadView可见？]({{< ref "MySQL/✅什么是ReadView，什么样的ReadView可见？.md" >}})
 
 
 
@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅Innodb的RR到底有没有解决幻读？](../MySQL/✅Innodb的RR到底有没有解决幻读？.md)
+[✅Innodb的RR到底有没有解决幻读？]({{< ref "MySQL/✅Innodb的RR到底有没有解决幻读？.md" >}})
 
 
 

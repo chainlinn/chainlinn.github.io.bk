@@ -13,11 +13,11 @@ categories:
 
 
 
-[✅什么是POI，为什么它会导致内存溢出？](../文件处理/✅什么是POI，为什么它会导致内存溢出？.md)
+[✅什么是POI，为什么它会导致内存溢出？]({{< ref "文件处理/✅什么是POI，为什么它会导致内存溢出？.md" >}})
 
 
 
-[✅POI的如何做大文件的写入](../文件处理/✅POI的如何做大文件的写入.md)
+[✅POI的如何做大文件的写入]({{< ref "文件处理/✅POI的如何做大文件的写入.md" >}})
 
 
 
@@ -37,7 +37,7 @@ categories:
 ### XSSFWorkbook文件读取
 
 
-读取一个27.3 MB的文件（文件的生成代码在[✅POI的如何做大文件的写入](../文件处理/✅POI的如何做大文件的写入.md)中）
+读取一个27.3 MB的文件（文件的生成代码在[✅POI的如何做大文件的写入]({{< ref "文件处理/✅POI的如何做大文件的写入.md" >}})中）
 
 
 
@@ -171,5 +171,5 @@ class PrintDataListener implements ReadListener<Object> {
 ## EasyExcel为啥内存占用小
 
 
-[✅EasyExcel为啥内存占用小？](../文件处理/✅EasyExcel为啥内存占用小？.md)
+[✅EasyExcel为啥内存占用小？]({{< ref "文件处理/✅EasyExcel为啥内存占用小？.md" >}})
 

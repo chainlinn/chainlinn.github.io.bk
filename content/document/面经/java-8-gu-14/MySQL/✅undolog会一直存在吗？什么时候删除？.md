@@ -20,7 +20,7 @@ undolog是innodb中重要的一种日志，他的主要作用有两个：
 
 
 
-[✅如何理解MVCC？](../MySQL/✅如何理解MVCC？.md)
+[✅如何理解MVCC？]({{< ref "MySQL/✅如何理解MVCC？.md" >}})
 
 
 

@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅介绍一下Redis的集群模式？](../Redis/✅介绍一下Redis的集群模式？.md)
+[✅介绍一下Redis的集群模式？]({{< ref "Redis/✅介绍一下Redis的集群模式？.md" >}})
 
 
 

@@ -62,7 +62,7 @@ categories:
 
 
 
-[你的项目有哪些难点&亮点？](../项目难点&亮点/你的项目有哪些难点&亮点？.md)
+[你的项目有哪些难点&亮点？]({{< ref "项目难点&亮点/你的项目有哪些难点&亮点？.md" >}})
 
 
 
@@ -79,15 +79,15 @@ categories:
 
 
 
-[✅BigDecimal和Long表示金额哪个更合适，怎么选择？](../Java基础/✅BigDecimal和Long表示金额哪个更合适，怎么选择？.md)
+[✅BigDecimal和Long表示金额哪个更合适，怎么选择？]({{< ref "Java基础/✅BigDecimal和Long表示金额哪个更合适，怎么选择？.md" >}})
 
 
 
-[✅订单到期关闭如何实现](../场景题/✅订单到期关闭如何实现.md)
+[✅订单到期关闭如何实现]({{< ref "场景题/✅订单到期关闭如何实现.md" >}})
 
 
 
-[✅为什么不建议使用MQ实现订单到期关闭？](../场景题/✅为什么不建议使用MQ实现订单到期关闭？.md)
+[✅为什么不建议使用MQ实现订单到期关闭？]({{< ref "场景题/✅为什么不建议使用MQ实现订单到期关闭？.md" >}})
 
 
 
@@ -98,7 +98,7 @@ categories:
 
 
 
-[✅Leaf生成分布式ID的原理？](../分布式/✅Leaf生成分布式ID的原理？.md)
+[✅Leaf生成分布式ID的原理？]({{< ref "分布式/✅Leaf生成分布式ID的原理？.md" >}})
 
 
 
@@ -109,7 +109,7 @@ categories:
 
 
 
-[✅xxl-job 支持分片任务吗？实现原理是什么？](../定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md)
+[✅xxl-job 支持分片任务吗？实现原理是什么？]({{< ref "定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md" >}})
 
 
 
@@ -128,23 +128,23 @@ categories:
 
 
 
-[✅Oracle 和 MySQL 的区别是什么？如何选择？](../Oracle/✅Oracle 和 MySQL 的区别是什么？如何选择？.md)
+[✅Oracle 和 MySQL 的区别是什么？如何选择？]({{< ref "Oracle/✅Oracle 和 MySQL 的区别是什么？如何选择？.md" >}})
 
 
 
-[✅InnoDB和MyISAM有什么区别？](../MySQL/✅InnoDB和MyISAM有什么区别？.md)
+[✅InnoDB和MyISAM有什么区别？]({{< ref "MySQL/✅InnoDB和MyISAM有什么区别？.md" >}})
 
 
 
-[✅where条件的顺序影响使用索引吗？](../MySQL/✅where条件的顺序影响使用索引吗？.md)
+[✅where条件的顺序影响使用索引吗？]({{< ref "MySQL/✅where条件的顺序影响使用索引吗？.md" >}})
 
 
 
-[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](../MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md)
+[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？]({{< ref "MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md" >}})
 
 
 
-[✅limit 0,100和limit 10000000,100一样吗？](../MySQL/✅limit 0,100和limit 10000000,100一样吗？.md)
+[✅limit 0,100和limit 10000000,100一样吗？]({{< ref "MySQL/✅limit 0,100和limit 10000000,100一样吗？.md" >}})
 
 
 
@@ -157,11 +157,11 @@ categories:
 
 
 
-[✅hash冲突通常怎么解决？](../集合类/✅hash冲突通常怎么解决？.md)
+[✅hash冲突通常怎么解决？]({{< ref "集合类/✅hash冲突通常怎么解决？.md" >}})
 
 
 
-[✅Java 8中的Stream用过吗？都能干什么？](../集合类/✅Java 8中的Stream用过吗？都能干什么？.md)
+[✅Java 8中的Stream用过吗？都能干什么？]({{< ref "集合类/✅Java 8中的Stream用过吗？都能干什么？.md" >}})
 
 
 
@@ -172,7 +172,7 @@ categories:
 
 
 
-[✅Spring中用到了哪些设计模式](../Spring/✅Spring中用到了哪些设计模式.md)
+[✅Spring中用到了哪些设计模式]({{< ref "Spring/✅Spring中用到了哪些设计模式.md" >}})
 
 
 

@@ -59,5 +59,5 @@ HBase做离线核对，离线报表的生成。
 ## Redis\MySQL\MongoDB区别？
 
 
-[✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？](../场景题/✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？.md)
+[✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？]({{< ref "场景题/✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？.md" >}})
 

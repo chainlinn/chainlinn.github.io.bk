@@ -129,7 +129,7 @@ class Test {
 
 不过，如果使用构造器的依赖注入就不会有这种问题，或者，我们可以使用Resource注解也可以解决上述问题
 
-[🔜Autowired和Resource的关系？](../Spring/✅Autowired和Resource的关系？.md)
+[🔜Autowired和Resource的关系？]({{< ref "Spring/✅Autowired和Resource的关系？.md" >}})
 
 # 知识扩展
 ## Spring支持哪些注入方式

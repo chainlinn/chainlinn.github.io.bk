@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？](../分布式/✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？.md)
+[✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？]({{< ref "分布式/✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？.md" >}})
 
 
 

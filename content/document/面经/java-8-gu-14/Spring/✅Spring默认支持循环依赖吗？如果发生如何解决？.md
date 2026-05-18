@@ -29,7 +29,7 @@ categories:
 
 ****
 
-[✅三级缓存是如何解决循环依赖的问题的？](../Spring/✅三级缓存是如何解决循环依赖的问题的？.md)
+[✅三级缓存是如何解决循环依赖的问题的？]({{< ref "Spring/✅三级缓存是如何解决循环依赖的问题的？.md" >}})
 
 
 
@@ -51,5 +51,5 @@ private PayChannelServiceFactory payChannelServiceFactory;
 
 
 
-[✅@Lazy注解能解决循环依赖吗？](../Spring/✅@Lazy注解能解决循环依赖吗？.md)
+[✅@Lazy注解能解决循环依赖吗？]({{< ref "Spring/✅@Lazy注解能解决循环依赖吗？.md" >}})
 

@@ -46,5 +46,5 @@ public class DefaultSingletonBeanRegistry extends SimpleAliasRegistry implements
 ## 三级缓存与循环依赖
 
 
-[✅三级缓存是如何解决循环依赖的问题的？](../Spring/✅三级缓存是如何解决循环依赖的问题的？.md)
+[✅三级缓存是如何解决循环依赖的问题的？]({{< ref "Spring/✅三级缓存是如何解决循环依赖的问题的？.md" >}})
 

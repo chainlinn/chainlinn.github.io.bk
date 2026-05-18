@@ -46,7 +46,7 @@ Safe Point（安全点）是JVM中的一个关键概念。官方的解释是（[
 
 
 
-[✅什么是Stop The World？](../JVM/✅什么是Stop The World？.md)
+[✅什么是Stop The World？]({{< ref "JVM/✅什么是Stop The World？.md" >}})
 
 
 
@@ -56,7 +56,7 @@ Safe Point（安全点）是JVM中的一个关键概念。官方的解释是（[
 
 
 
-[✅为什么JDK 15要废弃偏向锁？](../Java并发/✅为什么JDK 15要废弃偏向锁？.md)
+[✅为什么JDK 15要废弃偏向锁？]({{< ref "Java并发/✅为什么JDK 15要废弃偏向锁？.md" >}})
 
 
 
@@ -72,7 +72,7 @@ Safe Point（安全点）是JVM中的一个关键概念。官方的解释是（[
 
 
 
-[✅什么是Java Dump，如何获取？](../其他/✅什么是Java Dump，如何获取？.md)
+[✅什么是Java Dump，如何获取？]({{< ref "其他/✅什么是Java Dump，如何获取？.md" >}})
 
 
 
@@ -88,7 +88,7 @@ Safe Point（安全点）是JVM中的一个关键概念。官方的解释是（[
 
 
 
-[✅简单介绍一下JIT优化技术？](../JVM/✅简单介绍一下JIT优化技术？.md)
+[✅简单介绍一下JIT优化技术？]({{< ref "JVM/✅简单介绍一下JIT优化技术？.md" >}})
 
 
 

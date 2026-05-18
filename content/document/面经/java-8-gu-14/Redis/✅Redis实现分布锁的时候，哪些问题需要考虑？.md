@@ -28,7 +28,7 @@ categories:
 
 
 
-[✅Redis中的setnx命令为什么是原子性的](../Redis/✅Redis中的setnx命令为什么是原子性的.md)
+[✅Redis中的setnx命令为什么是原子性的]({{< ref "Redis/✅Redis中的setnx命令为什么是原子性的.md" >}})
 
 
 
@@ -36,7 +36,7 @@ categories:
 
 
 
-[✅Redis为什么这么快？](../Redis/✅Redis为什么这么快？.md)
+[✅Redis为什么这么快？]({{< ref "Redis/✅Redis为什么这么快？.md" >}})
 
 
 
@@ -44,7 +44,7 @@ categories:
 
 
 
-[✅如何用setnx实现一个可重入锁？](../Redis/✅如何用setnx实现一个可重入锁？.md)
+[✅如何用setnx实现一个可重入锁？]({{< ref "Redis/✅如何用setnx实现一个可重入锁？.md" >}})
 
 
 
@@ -54,7 +54,7 @@ categories:
 
 
 
-[✅Redisson里面的锁是实现可重入的？](../Redis/✅Redisson的锁是如何实现可重入的？.md)
+[✅Redisson里面的锁是实现可重入的？]({{< ref "Redis/✅Redisson的锁是如何实现可重入的？.md" >}})
 
 
 
@@ -73,7 +73,7 @@ categories:
 
 
 
-[✅Redisson里面的锁是怎么来防止误删的？](../Redis/✅Redisson里面的锁是怎么来防止误删的？.md)
+[✅Redisson里面的锁是怎么来防止误删的？]({{< ref "Redis/✅Redisson里面的锁是怎么来防止误删的？.md" >}})
 
 
 
@@ -100,7 +100,7 @@ categories:
 
 
 
-[✅Redisson的watch dog机制是怎么样的？](../Redis/✅Redisson的watchdog机制是怎么样的？.md)
+[✅Redisson的watch dog机制是怎么样的？]({{< ref "Redis/✅Redisson的watchdog机制是怎么样的？.md" >}})
 
 
 
@@ -123,7 +123,7 @@ categories:
 
 
 
-[✅介绍一下Redis的集群模式？](../Redis/✅介绍一下Redis的集群模式？.md)
+[✅介绍一下Redis的集群模式？]({{< ref "Redis/✅介绍一下Redis的集群模式？.md" >}})
 
 
 
@@ -143,7 +143,7 @@ categories:
 
 
 
-[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
+[✅什么是RedLock，他解决了什么问题？]({{< ref "Redis/✅什么是RedLock，他解决了什么问题？.md" >}})
 
 
 
@@ -160,7 +160,7 @@ categories:
 
 
 
-[✅介绍下Redis集群的脑裂问题？](../Redis/✅介绍下Redis集群的脑裂问题？.md)
+[✅介绍下Redis集群的脑裂问题？]({{< ref "Redis/✅介绍下Redis集群的脑裂问题？.md" >}})
 
 
 

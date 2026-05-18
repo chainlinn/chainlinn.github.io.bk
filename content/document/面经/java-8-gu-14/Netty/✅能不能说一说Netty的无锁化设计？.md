@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅Netty的线程模型是怎么样的？](../Netty/✅Netty的线程模型是怎么样的？.md)
+[✅Netty的线程模型是怎么样的？]({{< ref "Netty/✅Netty的线程模型是怎么样的？.md" >}})
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅说说 Netty 的对象池技术？](../Netty/✅说说 Netty 的对象池技术？.md)
+[✅说说 Netty 的对象池技术？]({{< ref "Netty/✅说说 Netty 的对象池技术？.md" >}})
 
 
 

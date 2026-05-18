@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是ThreadLocal，如何实现的？](../Java并发/✅什么是ThreadLocal，如何实现的？.md)
+[✅什么是ThreadLocal，如何实现的？]({{< ref "Java并发/✅什么是ThreadLocal，如何实现的？.md" >}})
 
 
 

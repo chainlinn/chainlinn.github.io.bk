@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅什么是MCP？](../AI&大模型/✅什么是MCP？.md)
+[✅什么是MCP？]({{< ref "AI&大模型/✅什么是MCP？.md" >}})
 
 
 
-[✅什么是Agent Skill？](../AI&大模型/✅什么是Agent Skill？.md)
+[✅什么是Agent Skill？]({{< ref "AI&大模型/✅什么是Agent Skill？.md" >}})
 
 
 

@@ -27,7 +27,7 @@ categories:
 
 
 
-[✅如何自定义一个starter？](../Spring/✅如何自定义一个starter？.md)
+[✅如何自定义一个starter？]({{< ref "Spring/✅如何自定义一个starter？.md" >}})
 
 
 
@@ -56,7 +56,7 @@ categories:
 
 
 
-[✅Spring 6.0和SpringBoot 3.0有什么新特性？](../Spring/✅Spring 6.0和SpringBoot 3.0有什么新特性？.md)
+[✅Spring 6.0和SpringBoot 3.0有什么新特性？]({{< ref "Spring/✅Spring 6.0和SpringBoot 3.0有什么新特性？.md" >}})
 
 
 

@@ -24,7 +24,7 @@ categories:
 
 
 
-[✅binlog、redolog和undolog区别？](../MySQL/✅binlog、redolog和undolog区别？.md)
+[✅binlog、redolog和undolog区别？]({{< ref "MySQL/✅binlog、redolog和undolog区别？.md" >}})
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅InnoDB如何解决脏读、不可重复读和幻读的？](../MySQL/✅InnoDB如何解决脏读、不可重复读和幻读的？.md)
+[✅InnoDB如何解决脏读、不可重复读和幻读的？]({{< ref "MySQL/✅InnoDB如何解决脏读、不可重复读和幻读的？.md" >}})
 
 
 
@@ -70,7 +70,7 @@ categories:
 
 
 
-[✅binlog、redolog和undolog区别？](../MySQL/✅binlog、redolog和undolog区别？.md)
+[✅binlog、redolog和undolog区别？]({{< ref "MySQL/✅binlog、redolog和undolog区别？.md" >}})
 
 
 
@@ -89,7 +89,7 @@ MySQL中还有很多主键、外键、唯一性约束、非空约束等等都能
 
 
 
-[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
+[✅什么是事务的2阶段提交？]({{< ref "MySQL/✅什么是事务的2阶段提交？.md" >}})
 
 
 

@@ -25,7 +25,7 @@ categories:
 
 
 
-[介绍下RabbitMQ的事务机制](../RabbitMQ/✅介绍下RabbitMQ的事务机制.md)
+[介绍下RabbitMQ的事务机制]({{< ref "RabbitMQ/✅介绍下RabbitMQ的事务机制.md" >}})
 
 
 
@@ -150,6 +150,6 @@ public class PublisherCallbacksExample {
 
 
 
-[RabbitMQ如何保证消息不丢](../RabbitMQ/✅RabbitMQ如何保证消息不丢.md)
+[RabbitMQ如何保证消息不丢]({{< ref "RabbitMQ/✅RabbitMQ如何保证消息不丢.md" >}})
 
 # 

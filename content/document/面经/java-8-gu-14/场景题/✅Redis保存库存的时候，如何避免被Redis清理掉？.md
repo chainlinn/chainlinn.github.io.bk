@@ -13,7 +13,7 @@ categories:
 
 ****
 
-[✅Redis的内存淘汰策略是怎么样的？](../Redis/✅Redis的内存淘汰策略是怎么样的？.md)
+[✅Redis的内存淘汰策略是怎么样的？]({{< ref "Redis/✅Redis的内存淘汰策略是怎么样的？.md" >}})
 
 
 

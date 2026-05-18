@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是OnlineDDL](../MySQL/✅什么是OnlineDDL.md)
+[✅什么是OnlineDDL]({{< ref "MySQL/✅什么是OnlineDDL.md" >}})
 
 
 

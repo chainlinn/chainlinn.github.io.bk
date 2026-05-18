@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Kafka如何实现批量消费？](../Kafka/✅Kafka如何实现批量消费？.md)
+[✅Kafka如何实现批量消费？]({{< ref "Kafka/✅Kafka如何实现批量消费？.md" >}})
 
 
 

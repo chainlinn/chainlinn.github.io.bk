@@ -70,7 +70,7 @@ categories:
 
 
 
-[✅说下什么是p90，p95，P99？](../高性能/✅说下什么是p90，p95，P99？.md)
+[✅说下什么是p90，p95，P99？]({{< ref "高性能/✅说下什么是p90，p95，P99？.md" >}})
 
 
 
@@ -89,19 +89,19 @@ categories:
 
 
 
-[✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？](../场景题/✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？.md)
+[✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？]({{< ref "场景题/✅Redis、MySQL和MongoDB的区别是什么，各自适用场景呢？.md" >}})
 
 
 
-[✅为什么MySQL用B+树，MongoDB用B树？](../场景题/✅为什么MySQL用B+树，MongoDB用B树？.md)
+[✅为什么MySQL用B+树，MongoDB用B树？]({{< ref "场景题/✅为什么MySQL用B+树，MongoDB用B树？.md" >}})
 
 
 
-[✅InnoDB为什么不用跳表，Redis为什么不用B+树？](../场景题/✅InnoDB为什么不用跳表，Redis为什么不用B+树？.md)
+[✅InnoDB为什么不用跳表，Redis为什么不用B+树？]({{< ref "场景题/✅InnoDB为什么不用跳表，Redis为什么不用B+树？.md" >}})
 
 
 
-[✅Redis的事务和MySQL的事务区别？](../Redis/✅Redis的事务和MySQL的事务区别？.md)
+[✅Redis的事务和MySQL的事务区别？]({{< ref "Redis/✅Redis的事务和MySQL的事务区别？.md" >}})
 
 
 
@@ -116,15 +116,15 @@ categories:
 
 
 
-[✅Redis为什么这么快？](../Redis/✅Redis为什么这么快？.md)
+[✅Redis为什么这么快？]({{< ref "Redis/✅Redis为什么这么快？.md" >}})
 
 
 
-[✅什么是热Key问题，如何解决热key问题](../Redis/✅什么是热Key问题，如何解决热key问题.md)
+[✅什么是热Key问题，如何解决热key问题]({{< ref "Redis/✅什么是热Key问题，如何解决热key问题.md" >}})
 
 
 
-[✅什么是大Key问题，如何解决？](../Redis/✅什么是大Key问题，如何解决？.md)
+[✅什么是大Key问题，如何解决？]({{< ref "Redis/✅什么是大Key问题，如何解决？.md" >}})
 
 
 
@@ -135,11 +135,11 @@ categories:
 
 
 
-[✅什么是可重入锁，怎么实现可重入锁？](../Java并发/✅什么是可重入锁，怎么实现可重入锁？.md)
+[✅什么是可重入锁，怎么实现可重入锁？]({{< ref "Java并发/✅什么是可重入锁，怎么实现可重入锁？.md" >}})
 
 
 
-[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
+[✅什么是RedLock，他解决了什么问题？]({{< ref "Redis/✅什么是RedLock，他解决了什么问题？.md" >}})
 
 
 
@@ -150,7 +150,7 @@ categories:
 
 
 
-[✅Redis Cluster 中使用事务和 lua 有什么限制？](../Redis/✅Redis Cluster 中使用事务和 lua 有什么限制？.md)
+[✅Redis Cluster 中使用事务和 lua 有什么限制？]({{< ref "Redis/✅Redis Cluster 中使用事务和 lua 有什么限制？.md" >}})
 
 
 
@@ -167,11 +167,11 @@ categories:
 
 
 
-[✅Zookeeper的典型应用场景有哪些？](../Zookeeper/✅Zookeeper的典型应用场景有哪些？.md)
+[✅Zookeeper的典型应用场景有哪些？]({{< ref "Zookeeper/✅Zookeeper的典型应用场景有哪些？.md" >}})
 
 
 
-[✅Zookeeper是CP的还是AP的？](../Zookeeper/✅Zookeeper是CP的还是AP的？.md)
+[✅Zookeeper是CP的还是AP的？]({{< ref "Zookeeper/✅Zookeeper是CP的还是AP的？.md" >}})
 
 
 
@@ -186,7 +186,7 @@ categories:
 
 
 
-[✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？](../分布式/✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？.md)
+[✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？]({{< ref "分布式/✅Redis 的分布式锁和 Zookeeper 的分布式锁有啥区别？.md" >}})
 
 
 
@@ -201,11 +201,11 @@ categories:
 
 
 
-[✅什么是分布式事务？](../分布式/✅什么是分布式事务？.md)
+[✅什么是分布式事务？]({{< ref "分布式/✅什么是分布式事务？.md" >}})
 
 
 
-[✅怎么做数据对账？](../场景题/✅怎么做数据对账？.md)
+[✅怎么做数据对账？]({{< ref "场景题/✅怎么做数据对账？.md" >}})
 
 
 
@@ -216,5 +216,5 @@ categories:
 
 
 
-[✅为什么一定要做限流？不应该服务好客户吗？不应该是加机器吗？](../场景题/✅为什么一定要做限流？不应该服务好客户吗？不应该是加机器吗？.md)
+[✅为什么一定要做限流？不应该服务好客户吗？不应该是加机器吗？]({{< ref "场景题/✅为什么一定要做限流？不应该服务好客户吗？不应该是加机器吗？.md" >}})
 

@@ -101,5 +101,5 @@ ORDER BY year, product;
 
 
 
-[✅MySQL如何实现行转列和列转行？](../MySQL/✅MySQL如何实现行转列和列转行？.md)
+[✅MySQL如何实现行转列和列转行？]({{< ref "MySQL/✅MySQL如何实现行转列和列转行？.md" >}})
 

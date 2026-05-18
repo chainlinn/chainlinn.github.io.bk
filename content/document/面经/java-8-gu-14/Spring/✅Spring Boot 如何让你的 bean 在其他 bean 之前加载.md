@@ -55,7 +55,7 @@ public class BeanOrderConfiguration {
 ### BeanFactoryPostProcessor
 前两种方式只能对于特定的Bean生效，如果我们希望某个Bean在其他所有Bean加载之前就初始化，用前面两种方式显然是不合适的，我们这个时候，就需要从Spring容器的生命周期中去找方法。
 
-[✅SpringBean的初始化流程](../Spring/✅Spring Bean的初始化过程是怎么样的？.md)
+[✅SpringBean的初始化流程]({{< ref "Spring/✅Spring Bean的初始化过程是怎么样的？.md" >}})
 
 通过上面的参考文章我们可以知道，Spring的Bean在初始化之前，会通过`BeanFactoryPostProcessor#postProcessBeanFactory`对工厂进行处理，我们可以依赖这个特性，在此刻提前初始化我们需要的bean
 

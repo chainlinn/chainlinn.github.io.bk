@@ -311,14 +311,14 @@ protected void scheduleExpirationRenewal(long threadId) {
 
 
 
-[✅什么是时间轮？](../定时任务/✅什么是时间轮？.md)
+[✅什么是时间轮？]({{< ref "定时任务/✅什么是时间轮？.md" >}})
 
 
 
 
 
 ## <font style="color:rgb(38, 38, 38);">watchdog一直续期，客户端挂了怎么办？</font>
-[✅watchdog一直续期，那客户端挂了怎么办？](../Redis/✅watchdog一直续期，那客户端挂了怎么办？.md)
+[✅watchdog一直续期，那客户端挂了怎么办？]({{< ref "Redis/✅watchdog一直续期，那客户端挂了怎么办？.md" >}})
 
 
 

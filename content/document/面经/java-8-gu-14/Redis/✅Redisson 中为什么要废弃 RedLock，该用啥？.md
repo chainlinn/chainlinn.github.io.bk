@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
+[✅什么是RedLock，他解决了什么问题？]({{< ref "Redis/✅什么是RedLock，他解决了什么问题？.md" >}})
 
 
 

@@ -34,7 +34,7 @@ categories:
 
 
 
-[✅MySQL做索引更新的时候，会锁表吗？](../MySQL/✅MySQL做索引更新的时候，会锁表吗？.md)
+[✅MySQL做索引更新的时候，会锁表吗？]({{< ref "MySQL/✅MySQL做索引更新的时候，会锁表吗？.md" >}})
 
 
 

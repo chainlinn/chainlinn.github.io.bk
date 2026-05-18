@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅为什么要尽量避免使用select * ？](../MySQL/✅为什么要尽量避免使用select * ？.md)
+[✅为什么要尽量避免使用select * ？]({{< ref "MySQL/✅为什么要尽量避免使用select * ？.md" >}})
 
 
 

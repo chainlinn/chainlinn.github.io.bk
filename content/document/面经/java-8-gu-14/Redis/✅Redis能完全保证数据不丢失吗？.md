@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis的持久化机制是怎样的？](../Redis/✅Redis的持久化机制是怎样的？.md)
+[✅Redis的持久化机制是怎样的？]({{< ref "Redis/✅Redis的持久化机制是怎样的？.md" >}})
 
 
 
@@ -37,7 +37,7 @@ Redis提供了两种持久化的机制，分别是RDB和AOF。AOF和RDB各自有
 
 
 
-[✅RDB和AOF的写回策略分别是什么？](../Redis/✅RDB和AOF的写回策略分别是什么？.md)
+[✅RDB和AOF的写回策略分别是什么？]({{< ref "Redis/✅RDB和AOF的写回策略分别是什么？.md" >}})
 
 
 

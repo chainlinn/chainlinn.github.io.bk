@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅RocketMQ的消息是推还是拉？](../RocketMQ/✅RocketMQ的消息是推还是拉？.md)
+[✅RocketMQ的消息是推还是拉？]({{< ref "RocketMQ/✅RocketMQ的消息是推还是拉？.md" >}})
 
 
 

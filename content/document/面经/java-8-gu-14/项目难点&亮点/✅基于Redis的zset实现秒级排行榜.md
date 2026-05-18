@@ -172,7 +172,7 @@ private static void joinLeaderboard(Jedis jedis, String user, double score, long
 ### 学习资料
 
 
-[✅Redis中的Zset是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
+[✅Redis中的Zset是怎么实现的？]({{< ref "Redis/✅Redis中的Zset是怎么实现的？.md" >}})
 
 
 
@@ -180,5 +180,5 @@ private static void joinLeaderboard(Jedis jedis, String user, double score, long
 
 
 
-[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？](../场景题/✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？.md)
+[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？]({{< ref "场景题/✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？.md" >}})
 

@@ -69,5 +69,5 @@ alter table table1 engine=InnoDB;
 ## Innodb和MyISAM有什么区别？
 
 
-[✅InnoDB和MyISAM有什么区别？](../MySQL/✅InnoDB和MyISAM有什么区别？.md)
+[✅InnoDB和MyISAM有什么区别？]({{< ref "MySQL/✅InnoDB和MyISAM有什么区别？.md" >}})
 

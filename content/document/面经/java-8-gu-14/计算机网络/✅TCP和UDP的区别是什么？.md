@@ -13,7 +13,7 @@ TCP（Transmission Control Protocol，传输控制协议）和UDP（User Datagra
 
 
 
-[✅介绍一下OSI七层模型？](../计算机网络/✅介绍一下OSI七层模型？.md)
+[✅介绍一下OSI七层模型？]({{< ref "计算机网络/✅介绍一下OSI七层模型？.md" >}})
 
 
 
@@ -36,7 +36,7 @@ TCP（Transmission Control Protocol，传输控制协议）和UDP（User Datagra
 
 
 
-[✅介绍下TCP是如何实现拥塞控制的？](../计算机网络/✅介绍下TCP是如何实现拥塞控制的？.md)
+[✅介绍下TCP是如何实现拥塞控制的？]({{< ref "计算机网络/✅介绍下TCP是如何实现拥塞控制的？.md" >}})
 
 
 

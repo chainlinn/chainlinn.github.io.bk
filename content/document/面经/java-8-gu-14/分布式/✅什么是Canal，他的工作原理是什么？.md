@@ -29,5 +29,5 @@ Canal的实现原理其实挺简单的：
 
 <font style="color:rgb(31, 35, 40);"></font>
 
-[MySQL主从复制的过程](../MySQL/✅MySQL主从复制的过程.md)
+[MySQL主从复制的过程]({{< ref "MySQL/✅MySQL主从复制的过程.md" >}})
 

@@ -50,7 +50,7 @@ Externalizable继承了Serializable，该接口中定义了两个抽象方法：
 所以，实现Externalizable，并实现writeExternal()和readExternal()方法可以指定序列化哪些属性。
 
 ## 如果序列化后的文件或者原始类被篡改，还能被反序列化吗？
-[✅serialVersionUID 有何用途? 如果没定义会有什么问题？](../Java基础/✅serialVersionUID 有何用途? 如果没定义会有什么问题？.md)
+[✅serialVersionUID 有何用途? 如果没定义会有什么问题？]({{< ref "Java基础/✅serialVersionUID 有何用途? 如果没定义会有什么问题？.md" >}})
 
 
 

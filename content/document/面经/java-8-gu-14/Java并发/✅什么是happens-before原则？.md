@@ -19,7 +19,7 @@ categories:
 
 
 
-[✅synchronized是如何保证原子性、可见性、有序性的？](../Java并发/✅synchronized是如何保证原子性、可见性、有序性的？.md)
+[✅synchronized是如何保证原子性、可见性、有序性的？]({{< ref "Java并发/✅synchronized是如何保证原子性、可见性、有序性的？.md" >}})
 
 
 

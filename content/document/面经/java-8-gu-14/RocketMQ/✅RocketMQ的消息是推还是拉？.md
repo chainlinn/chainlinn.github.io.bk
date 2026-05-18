@@ -68,7 +68,7 @@ public class DefaultMQPushConsumer extends ClientConfig implements MQPushConsume
 
 
 
-[✅消息队列使用拉模式好还是推模式好？为什么？](../场景题/✅消息队列使用拉模式好还是推模式好？为什么？.md)
+[✅消息队列使用拉模式好还是推模式好？为什么？]({{< ref "场景题/✅消息队列使用拉模式好还是推模式好？为什么？.md" >}})
 
 
 

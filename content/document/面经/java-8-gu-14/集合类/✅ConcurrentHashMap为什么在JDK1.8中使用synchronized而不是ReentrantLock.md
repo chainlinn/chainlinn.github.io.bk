@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ConcurrentHashMap为什么在JDK 1.8中废弃分段锁？](../集合类/✅ConcurrentHashMap为什么在JDK 1.8中废弃分段锁？.md)
+[✅ConcurrentHashMap为什么在JDK 1.8中废弃分段锁？]({{< ref "集合类/✅ConcurrentHashMap为什么在JDK 1.8中废弃分段锁？.md" >}})
 
 
 
@@ -25,7 +25,7 @@ categories:
 
 
 
-[✅synchronized和reentrantLock区别？](../Java并发/✅synchronized和reentrantLock区别？.md)
+[✅synchronized和reentrantLock区别？]({{< ref "Java并发/✅synchronized和reentrantLock区别？.md" >}})
 
 
 

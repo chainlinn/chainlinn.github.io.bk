@@ -80,7 +80,7 @@ MySQL的bin log主要支持三种格式，分别是statement、row以及mixed。
 
 
 
-[✅MySQL的binlog有几种格式](../MySQL/✅MySQL的binlog有几种格式.md)
+[✅MySQL的binlog有几种格式]({{< ref "MySQL/✅MySQL的binlog有几种格式.md" >}})
 
 
 
@@ -178,5 +178,5 @@ ERROR 1598 (HY000): Binary logging not possible. Message: Transaction level 'REA
 ## 为什么很多大厂会把默认的RR改成RC
 
 
-[✅为什么默认RR，大厂要改成RC？](../MySQL/✅为什么默认RR，大厂要改成RC？.md)
+[✅为什么默认RR，大厂要改成RC？]({{< ref "MySQL/✅为什么默认RR，大厂要改成RC？.md" >}})
 

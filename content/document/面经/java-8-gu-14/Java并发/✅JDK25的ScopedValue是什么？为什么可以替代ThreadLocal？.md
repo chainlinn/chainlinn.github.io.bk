@@ -45,7 +45,7 @@ void methodThatReadsUserContext() {
 
 + `ThreadLocal` 你需要手动管理其生命周期。调用 `set(value)` 后，你必须记得在 finally 块中调用 `remove()`，否则数据会一直留在线程中，导致内存泄漏（尤其是在线程池中，线程会被复用）。
 
-[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](../Java并发/✅ThreadLocal为什么会导致内存泄漏？如何解决的？.md)
+[✅ThreadLocal为什么会导致内存泄漏？如何解决的？]({{< ref "Java并发/✅ThreadLocal为什么会导致内存泄漏？如何解决的？.md" >}})
 
 + `ScopedValue`的生命周期严格限定在 `runWhere` 方法定义的作用域内。退出作用域后，绑定自动地被清除，无需手动移除，从根本上避免了内存泄漏的风险。
 

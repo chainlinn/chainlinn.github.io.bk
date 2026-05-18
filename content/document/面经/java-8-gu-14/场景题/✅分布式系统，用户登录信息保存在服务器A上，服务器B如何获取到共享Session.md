@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅怎么实现分布式Session？](../分布式/✅怎么实现分布式Session？.md)
+[✅怎么实现分布式Session？]({{< ref "分布式/✅怎么实现分布式Session？.md" >}})
 
 
 

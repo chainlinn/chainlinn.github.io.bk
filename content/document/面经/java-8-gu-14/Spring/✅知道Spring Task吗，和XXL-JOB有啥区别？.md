@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅介绍下@Scheduled的实现原理以及用法](../Spring/✅介绍下@Scheduled的实现原理以及用法.md)
+[✅介绍下@Scheduled的实现原理以及用法]({{< ref "Spring/✅介绍下@Scheduled的实现原理以及用法.md" >}})
 
 
 
@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅xxl-job 支持分片任务吗？实现原理是什么？](../定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md)
+[✅xxl-job 支持分片任务吗？实现原理是什么？]({{< ref "定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md" >}})
 
 
 

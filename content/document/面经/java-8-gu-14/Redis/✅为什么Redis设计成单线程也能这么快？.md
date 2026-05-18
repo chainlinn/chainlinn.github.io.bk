@@ -10,7 +10,7 @@ Redis的性能很好，除了因为他基于内存、有高效的数据结构等
 
 
 
-[Redis为什么这么快？](../Redis/✅Redis为什么这么快？.md)
+[Redis为什么这么快？]({{< ref "Redis/✅Redis为什么这么快？.md" >}})
 
 
 

@@ -106,5 +106,5 @@ brokerRole=SYNC_MASTER
 
 
 
-[✅为什么Kafka没办法100%保证消息不丢失？](../Kafka/✅为什么Kafka没办法100%保证消息不丢失？.md)
+[✅为什么Kafka没办法100%保证消息不丢失？]({{< ref "Kafka/✅为什么Kafka没办法100%保证消息不丢失？.md" >}})
 

@@ -70,7 +70,7 @@ SimpleAsyncTaskExecutor这玩意坑很大，其实他并不是真的线程池，
 
 例子用的是这篇的改造的：
 
-[✅在Spring中如何使用Spring Event做事件驱动](../Spring/✅在Spring中如何使用Spring Event做事件驱动.md)
+[✅在Spring中如何使用Spring Event做事件驱动]({{< ref "Spring/✅在Spring中如何使用Spring Event做事件驱动.md" >}})
 
 
 

@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](../MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md)
+[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？]({{< ref "MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md" >}})
 
 
 

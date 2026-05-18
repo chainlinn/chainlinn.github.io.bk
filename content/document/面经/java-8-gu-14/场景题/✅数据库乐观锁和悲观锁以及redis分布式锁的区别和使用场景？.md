@@ -86,7 +86,7 @@ categories:
 
 
 
-[✅如何用Redis实现乐观锁？](../Redis/✅如何用Redis实现乐观锁？.md)
+[✅如何用Redis实现乐观锁？]({{< ref "Redis/✅如何用Redis实现乐观锁？.md" >}})
 
 
 

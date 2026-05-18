@@ -111,7 +111,7 @@ SELECT * FROM orders WHERE status = 'pending' ORDER BY gmt_created DESC;
 
 
 
-[✅如何进行SQL调优？](../MySQL/✅如何进行SQL调优？.md)
+[✅如何进行SQL调优？]({{< ref "MySQL/✅如何进行SQL调优？.md" >}})
 
 
 
@@ -125,11 +125,11 @@ SELECT * FROM orders WHERE status = 'pending' ORDER BY gmt_created DESC;
 
 
 
-[✅SQL执行计划分析的时候，要关注哪些信息？](../MySQL/✅SQL执行计划分析的时候，要关注哪些信息？.md)
+[✅SQL执行计划分析的时候，要关注哪些信息？]({{< ref "MySQL/✅SQL执行计划分析的时候，要关注哪些信息？.md" >}})
 
 
 
-[✅索引失效的问题如何排查？](../MySQL/✅索引失效的问题如何排查？.md)
+[✅索引失效的问题如何排查？]({{< ref "MySQL/✅索引失效的问题如何排查？.md" >}})
 
 
 
@@ -148,7 +148,7 @@ SELECT * FROM orders WHERE status = 'pending' ORDER BY gmt_created DESC;
 
 
 
-[✅慢SQL问题排查](../线上问题排查/✅慢SQL问题排查.md)
+[✅慢SQL问题排查]({{< ref "线上问题排查/✅慢SQL问题排查.md" >}})
 
 
 

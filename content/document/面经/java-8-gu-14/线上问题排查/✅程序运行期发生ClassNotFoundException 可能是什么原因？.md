@@ -25,7 +25,7 @@ categories:
 
 
 
-[✅Java中类加载的过程是怎么样的？](../JVM/✅Java中类加载的过程是怎么样的？.md)
+[✅Java中类加载的过程是怎么样的？]({{< ref "JVM/✅Java中类加载的过程是怎么样的？.md" >}})
 
 
 
@@ -103,7 +103,7 @@ Object obj = clazz.newInstance(); // 创建类的实例
 
 
 
-[✅Maven如何解决jar包冲突的问题？](../Maven&Git/✅Maven如何解决jar包冲突的问题？.md)
+[✅Maven如何解决jar包冲突的问题？]({{< ref "Maven&Git/✅Maven如何解决jar包冲突的问题？.md" >}})
 
 
 

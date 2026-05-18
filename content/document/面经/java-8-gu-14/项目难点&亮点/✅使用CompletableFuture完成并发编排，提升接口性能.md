@@ -61,7 +61,7 @@ allFutures.whenComplete((v, e) -> {
 ### 学习资料
 
 
-[✅CompletableFuture的底层是如何实现的？](../Java并发/✅CompletableFuture的底层是如何实现的？.md)
+[✅CompletableFuture的底层是如何实现的？]({{< ref "Java并发/✅CompletableFuture的底层是如何实现的？.md" >}})
 
 
 

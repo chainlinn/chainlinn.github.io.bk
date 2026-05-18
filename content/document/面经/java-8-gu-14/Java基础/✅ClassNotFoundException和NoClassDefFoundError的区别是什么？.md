@@ -80,7 +80,7 @@ public class B
 
 
 
-[✅Maven如何解决jar包冲突的问题？](../Maven&Git/✅Maven如何解决jar包冲突的问题？.md)
+[✅Maven如何解决jar包冲突的问题？]({{< ref "Maven&Git/✅Maven如何解决jar包冲突的问题？.md" >}})
 
 
 

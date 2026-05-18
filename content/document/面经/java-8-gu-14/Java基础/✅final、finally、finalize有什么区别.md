@@ -85,11 +85,11 @@ try {
 
 
 
-[✅finally中代码一定会执行吗？](../Java基础/✅finally中代码一定会执行吗？.md)
+[✅finally中代码一定会执行吗？]({{< ref "Java基础/✅finally中代码一定会执行吗？.md" >}})
 
 
 
-[✅try中return A，catch中return B，finally中return C，最终返回值是什么？](../Java基础/✅try中return A，catch中return B，finally中return C，最终返回值是什么？.md)
+[✅try中return A，catch中return B，finally中return C，最终返回值是什么？]({{< ref "Java基础/✅try中return A，catch中return B，finally中return C，最终返回值是什么？.md" >}})
 
 
 

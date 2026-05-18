@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅什么是AOT编译？和JIT有啥区别？](../JVM/✅什么是AOT编译？和JIT有啥区别？.md)
+[✅什么是AOT编译？和JIT有啥区别？]({{< ref "JVM/✅什么是AOT编译？和JIT有啥区别？.md" >}})
 
 
 

@@ -21,7 +21,7 @@ Spring事件机制见：
 
 
 
-[✅在Spring中如何使用Spring Event做事件驱动](../Spring/✅在Spring中如何使用Spring Event做事件驱动.md)
+[✅在Spring中如何使用Spring Event做事件驱动]({{< ref "Spring/✅在Spring中如何使用Spring Event做事件驱动.md" >}})
 
 
 

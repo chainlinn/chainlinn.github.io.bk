@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅Seata的AT模式的实现原理](../分布式/✅Seata的AT模式的实现原理.md)
+[✅Seata的AT模式的实现原理]({{< ref "分布式/✅Seata的AT模式的实现原理.md" >}})
 
 
 

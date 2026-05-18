@@ -57,7 +57,7 @@ mysql> show variables like '%group_commit%';
 ## 有了组提交后的2阶段
 
 
-[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
+[✅什么是事务的2阶段提交？]({{< ref "MySQL/✅什么是事务的2阶段提交？.md" >}})
 
 
 

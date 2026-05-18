@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅POI导致内存溢出排查](../线上问题排查/✅POI导致内存溢出排查.md)
+[✅POI导致内存溢出排查]({{< ref "线上问题排查/✅POI导致内存溢出排查.md" >}})
 
 
 
@@ -238,11 +238,11 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 ### 学习资料
 
 
-[✅POI的如何做大文件的写入](../文件处理/✅POI的如何做大文件的写入.md)
+[✅POI的如何做大文件的写入]({{< ref "文件处理/✅POI的如何做大文件的写入.md" >}})
 
 
 
-[✅为什么不建议直接使用Spring的@Async](../Spring/✅为什么不建议直接使用Spring的@Async.md)
+[✅为什么不建议直接使用Spring的@Async]({{< ref "Spring/✅为什么不建议直接使用Spring的@Async.md" >}})
 
 
 

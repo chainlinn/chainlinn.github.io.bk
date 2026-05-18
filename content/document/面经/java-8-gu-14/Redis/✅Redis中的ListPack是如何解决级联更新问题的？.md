@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅介绍下Redis中的ZipList和他的级联更新问题](../Redis/✅介绍下Redis中的ZipList和他的级联更新问题.md)
+[✅介绍下Redis中的ZipList和他的级联更新问题]({{< ref "Redis/✅介绍下Redis中的ZipList和他的级联更新问题.md" >}})
 
 
 

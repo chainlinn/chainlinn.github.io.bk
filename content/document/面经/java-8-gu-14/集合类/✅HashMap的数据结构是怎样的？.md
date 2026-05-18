@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅HashMap的hash方法是如何实现的？](../集合类/✅HashMap的hash方法是如何实现的？.md)
+[✅HashMap的hash方法是如何实现的？]({{< ref "集合类/✅HashMap的hash方法是如何实现的？.md" >}})
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅为什么在JDK8中HashMap要转成红黑树](../集合类/✅为什么在JDK8中HashMap要转成红黑树.md)
+[✅为什么在JDK8中HashMap要转成红黑树]({{< ref "集合类/✅为什么在JDK8中HashMap要转成红黑树.md" >}})
 
 
 

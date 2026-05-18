@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis的持久化机制是怎样的？](../Redis/✅Redis的持久化机制是怎样的？.md)
+[✅Redis的持久化机制是怎样的？]({{< ref "Redis/✅Redis的持久化机制是怎样的？.md" >}})
 
 
 

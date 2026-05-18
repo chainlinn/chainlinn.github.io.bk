@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
+[✅什么是Kafka的重平衡机制？]({{< ref "Kafka/✅什么是Kafka的重平衡机制？.md" >}})
 
 
 
@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅RocketMQ怎么实现消息分发的？](../RocketMQ/✅RocketMQ怎么实现消息分发的？.md)
+[✅RocketMQ怎么实现消息分发的？]({{< ref "RocketMQ/✅RocketMQ怎么实现消息分发的？.md" >}})
 
 
 

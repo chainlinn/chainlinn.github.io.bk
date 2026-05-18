@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅如何用SETNX实现分布式锁？](../Redis/✅如何用SETNX实现分布式锁？.md)
+[✅如何用SETNX实现分布式锁？]({{< ref "Redis/✅如何用SETNX实现分布式锁？.md" >}})
 
 
 
@@ -133,7 +133,7 @@ fairLock.lock();
 
 
 
-[✅公平锁和非公平锁的区别？](../Java并发/✅公平锁和非公平锁的区别？.md)
+[✅公平锁和非公平锁的区别？]({{< ref "Java并发/✅公平锁和非公平锁的区别？.md" >}})
 
 
 
@@ -157,7 +157,7 @@ lock.unlock();
 ### RedLock
 
 
-[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
+[✅什么是RedLock，他解决了什么问题？]({{< ref "Redis/✅什么是RedLock，他解决了什么问题？.md" >}})
 
 
 

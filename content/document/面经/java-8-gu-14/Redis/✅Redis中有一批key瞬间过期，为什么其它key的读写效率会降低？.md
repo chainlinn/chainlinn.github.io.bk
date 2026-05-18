@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis中key过期了一定会立即删除吗](../Redis/✅Redis中key过期了一定会立即删除吗.md)
+[✅Redis中key过期了一定会立即删除吗]({{< ref "Redis/✅Redis中key过期了一定会立即删除吗.md" >}})
 
 
 

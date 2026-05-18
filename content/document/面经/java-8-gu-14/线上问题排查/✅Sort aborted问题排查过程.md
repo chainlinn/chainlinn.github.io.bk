@@ -109,7 +109,7 @@ limit
 
 
 
-[✅order by 是怎么实现的？](../MySQL/✅order by 是怎么实现的？.md)
+[✅order by 是怎么实现的？]({{< ref "MySQL/✅order by 是怎么实现的？.md" >}})
 
 
 

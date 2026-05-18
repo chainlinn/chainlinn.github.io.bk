@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Tomcat中有哪些类加载器?](../Tomcat/✅Tomcat中有哪些类加载器_.md)
+[✅Tomcat中有哪些类加载器?]({{< ref "Tomcat/✅Tomcat中有哪些类加载器_.md" >}})
 
 
 

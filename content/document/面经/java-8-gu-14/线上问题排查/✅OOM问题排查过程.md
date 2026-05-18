@@ -6,7 +6,7 @@ categories:
   - 线上问题排查
 ---
 
-[✅OutOfMemory和StackOverflow的区别是什么](../JVM/✅OutOfMemory和StackOverflow的区别是什么.md)
+[✅OutOfMemory和StackOverflow的区别是什么]({{< ref "JVM/✅OutOfMemory和StackOverflow的区别是什么.md" >}})
 
 
 

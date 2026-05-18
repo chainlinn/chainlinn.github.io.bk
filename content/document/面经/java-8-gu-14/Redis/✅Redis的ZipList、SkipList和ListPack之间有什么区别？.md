@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅Redis中的Zset是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
+[✅Redis中的Zset是怎么实现的？]({{< ref "Redis/✅Redis中的Zset是怎么实现的？.md" >}})
 
 
 
@@ -57,7 +57,7 @@ SkipList就是跳表。跳表是一种在链表的基础上增加多层索引的
 
 
 
-[✅ZSet为什么在数据量少的时候用ZipList，而在数据量大的时候转成SkipList？](../Redis/✅ZSet为什么在数据量少的时候用ZipList，而在数据量大的时候转成SkipList？.md)
+[✅ZSet为什么在数据量少的时候用ZipList，而在数据量大的时候转成SkipList？]({{< ref "Redis/✅ZSet为什么在数据量少的时候用ZipList，而在数据量大的时候转成SkipList？.md" >}})
 
 
 
@@ -65,7 +65,7 @@ SkipList就是跳表。跳表是一种在链表的基础上增加多层索引的
 
 
 
-[✅介绍下Redis中的ZipList和他的级联更新问题](../Redis/✅介绍下Redis中的ZipList和他的级联更新问题.md)
+[✅介绍下Redis中的ZipList和他的级联更新问题]({{< ref "Redis/✅介绍下Redis中的ZipList和他的级联更新问题.md" >}})
 
 
 
@@ -86,7 +86,7 @@ ListPack是 Redis 在 5.0 版本引入的一种新的内存高效数据结构（
 
 
 
-[✅Redis中的ListPack是如何解决级联更新问题的？](../Redis/✅Redis中的ListPack是如何解决级联更新问题的？.md)
+[✅Redis中的ListPack是如何解决级联更新问题的？]({{< ref "Redis/✅Redis中的ListPack是如何解决级联更新问题的？.md" >}})
 
 
 

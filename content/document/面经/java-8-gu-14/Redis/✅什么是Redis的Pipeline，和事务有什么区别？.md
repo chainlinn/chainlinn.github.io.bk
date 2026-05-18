@@ -35,7 +35,7 @@ categories:
 
 
 
-[✅Redis 的事务机制是怎样的？](../Redis/✅Redis 的事务机制是怎样的？.md)
+[✅Redis 的事务机制是怎样的？]({{< ref "Redis/✅Redis 的事务机制是怎样的？.md" >}})
 
 # 扩展知识
 

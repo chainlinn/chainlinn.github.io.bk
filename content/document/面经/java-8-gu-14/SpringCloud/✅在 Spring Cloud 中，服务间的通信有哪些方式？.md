@@ -85,7 +85,7 @@ spring:
 
 
 
-[✅为什么需要SpringCloud Gateway，他起到了什么作用？](../SpringCloud/✅为什么需要SpringCloud Gateway，他起到了什么作用？.md)
+[✅为什么需要SpringCloud Gateway，他起到了什么作用？]({{< ref "SpringCloud/✅为什么需要SpringCloud Gateway，他起到了什么作用？.md" >}})
 
 
 

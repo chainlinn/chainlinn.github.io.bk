@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是SPI，和API有啥区别](../Java基础/✅什么是SPI，和API有啥区别.md)
+[✅什么是SPI，和API有啥区别]({{< ref "Java基础/✅什么是SPI，和API有啥区别.md" >}})
 
 
 

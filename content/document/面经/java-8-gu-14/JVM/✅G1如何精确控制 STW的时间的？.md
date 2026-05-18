@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ZGC和CMS和G1的区别对比?](../JVM/✅ZGC和CMS和G1的区别对比_.md)
+[✅ZGC和CMS和G1的区别对比?]({{< ref "JVM/✅ZGC和CMS和G1的区别对比_.md" >}})
 
 
 

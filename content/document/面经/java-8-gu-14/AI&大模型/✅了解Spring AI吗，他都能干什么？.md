@@ -154,7 +154,7 @@ logger.info("content: {}", content);
 #### **支持Function Calling**
 
 
-[✅什么是Function Calling？](../AI&大模型/✅什么是Function Calling？.md)
+[✅什么是Function Calling？]({{< ref "AI&大模型/✅什么是Function Calling？.md" >}})
 
 
 
@@ -165,7 +165,7 @@ logger.info("content: {}", content);
 #### 支持MCP
 
 
-[✅什么是MCP？](../AI&大模型/✅什么是MCP？.md)
+[✅什么是MCP？]({{< ref "AI&大模型/✅什么是MCP？.md" >}})
 
 
 

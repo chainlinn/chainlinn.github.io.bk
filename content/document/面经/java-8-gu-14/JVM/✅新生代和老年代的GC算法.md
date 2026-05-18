@@ -10,7 +10,7 @@ categories:
 
 
 
-[✅JVM有哪些垃圾回收算法？](../JVM/✅JVM有哪些垃圾回收算法？.md)
+[✅JVM有哪些垃圾回收算法？]({{< ref "JVM/✅JVM有哪些垃圾回收算法？.md" >}})
 
 
 
@@ -26,11 +26,11 @@ categories:
 
 
 
-[✅Java的堆是如何分代的？为什么分代？](../JVM/✅Java的堆是如何分代的？为什么分代？.md)
+[✅Java的堆是如何分代的？为什么分代？]({{< ref "JVM/✅Java的堆是如何分代的？为什么分代？.md" >}})
 
 
 
-[✅新生代如果只有一个Eden+一个Survivor可以吗？](../JVM/✅新生代如果只有一个Eden+一个Survivor可以吗？.md)
+[✅新生代如果只有一个Eden+一个Survivor可以吗？]({{< ref "JVM/✅新生代如果只有一个Eden+一个Survivor可以吗？.md" >}})
 
 
 

@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅synchronized是怎么实现的？](../Java并发/✅synchronized是怎么实现的？.md)
+[✅synchronized是怎么实现的？]({{< ref "Java并发/✅synchronized是怎么实现的？.md" >}})
 
 
 

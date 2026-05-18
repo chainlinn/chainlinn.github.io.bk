@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅volatile能保证原子性吗？为什么？](../Java并发/✅volatile能保证原子性吗？为什么？.md)
+[✅volatile能保证原子性吗？为什么？]({{< ref "Java并发/✅volatile能保证原子性吗？为什么？.md" >}})
 
 
 

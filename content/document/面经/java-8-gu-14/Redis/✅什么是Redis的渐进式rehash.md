@@ -15,7 +15,7 @@ categories:
 
 可以参考下hashmap的rehash过程：
 
-[✅HashMap是如何扩容的？](../集合类/✅HashMap是如何扩容的？.md)
+[✅HashMap是如何扩容的？]({{< ref "集合类/✅HashMap是如何扩容的？.md" >}})
 
 
 

@@ -74,7 +74,7 @@ public void recover(SQLException e) {
 
 
 
-[✅Spring 7 和Spring Boot 4 都有哪些新特性？](../Spring/✅Spring 7 和Spring Boot 4 都有哪些新特性？.md)
+[✅Spring 7 和Spring Boot 4 都有哪些新特性？]({{< ref "Spring/✅Spring 7 和Spring Boot 4 都有哪些新特性？.md" >}})
 
 
 

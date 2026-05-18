@@ -19,14 +19,14 @@ String是不可变的，StringBuilder和StringBuffer是可变的。而StringBuff
 ## String的不可变性
 
 
-[✅String是如何实现不可变的？](../Java基础/✅String是如何实现不可变的？.md)
+[✅String是如何实现不可变的？]({{< ref "Java基础/✅String是如何实现不可变的？.md" >}})
 
 
 
 ## 为什么设计成不可变的
 
 
-[✅String为什么设计成不可变的？](../Java基础/✅String为什么设计成不可变的？.md)
+[✅String为什么设计成不可变的？]({{< ref "Java基础/✅String为什么设计成不可变的？.md" >}})
 
 ## String的"+"是如何实现的
 
@@ -210,7 +210,7 @@ System.out.println((new StringBuilder()).append("+ cost:").append(t2 - t1).toStr
 
 
 
-[✅JDK 9中对字符串的拼接做了什么优化？](../Java基础/✅JDK 9中对字符串的拼接做了什么优化？.md)
+[✅JDK 9中对字符串的拼接做了什么优化？]({{< ref "Java基础/✅JDK 9中对字符串的拼接做了什么优化？.md" >}})
 
 
 

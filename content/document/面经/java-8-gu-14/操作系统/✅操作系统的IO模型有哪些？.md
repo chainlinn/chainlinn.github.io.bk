@@ -67,8 +67,8 @@ categories:
 
 # <font style="color:rgb(85, 85, 85);">知识扩展</font>
 ## 什么是同步，异步，阻塞，非阻塞？
-[🔜同步、异步、阻塞、非阻塞怎么理解？](../操作系统/✅同步、异步、阻塞、非阻塞怎么理解？.md)
+[🔜同步、异步、阻塞、非阻塞怎么理解？]({{< ref "操作系统/✅同步、异步、阻塞、非阻塞怎么理解？.md" >}})
 
 ## 如何理解select，poll，epoll？
-[📝如何理解select、poll、epoll？](../操作系统/✅如何理解select、poll、epoll？.md)
+[📝如何理解select、poll、epoll？]({{< ref "操作系统/✅如何理解select、poll、epoll？.md" >}})
 

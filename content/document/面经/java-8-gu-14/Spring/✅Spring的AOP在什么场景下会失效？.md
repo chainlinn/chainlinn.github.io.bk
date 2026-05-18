@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅介绍一下Spring的AOP](../Spring/✅介绍一下Spring的AOP.md)
+[✅介绍一下Spring的AOP]({{< ref "Spring/✅介绍一下Spring的AOP.md" >}})
 
 
 

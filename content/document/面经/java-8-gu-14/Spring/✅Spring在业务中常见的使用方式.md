@@ -253,5 +253,5 @@ public class TransactBean {
 
 当然对于声明式的事务也不能滥用，它有可能会导致一些问题：
 
-[事务失效可能是哪些原因？](../Spring/✅Spring事务失效可能是哪些原因？.md)
+[事务失效可能是哪些原因？]({{< ref "Spring/✅Spring事务失效可能是哪些原因？.md" >}})
 

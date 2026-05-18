@@ -13,7 +13,7 @@ categories:
 
 <font style="color:rgb(51, 51, 51);"></font>
 
-[✅HashMap是如何扩容的？](../集合类/✅HashMap是如何扩容的？.md)
+[✅HashMap是如何扩容的？]({{< ref "集合类/✅HashMap是如何扩容的？.md" >}})
 
 
 

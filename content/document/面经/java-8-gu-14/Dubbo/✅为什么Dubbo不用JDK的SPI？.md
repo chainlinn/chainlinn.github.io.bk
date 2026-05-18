@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Dubbo的SPI和JDK的SPI有什么区别？](../Dubbo/✅Dubbo的SPI和JDK的SPI有什么区别？.md)
+[✅Dubbo的SPI和JDK的SPI有什么区别？]({{< ref "Dubbo/✅Dubbo的SPI和JDK的SPI有什么区别？.md" >}})
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
+[✅什么是Kafka的重平衡机制？]({{< ref "Kafka/✅什么是Kafka的重平衡机制？.md" >}})
 
 
 

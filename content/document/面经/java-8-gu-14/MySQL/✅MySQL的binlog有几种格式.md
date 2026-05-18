@@ -9,7 +9,7 @@ categories:
 # 每天记录典型回答
 
 
-[✅binlog、redolog和undolog区别？](../MySQL/✅binlog、redolog和undolog区别？.md)
+[✅binlog、redolog和undolog区别？]({{< ref "MySQL/✅binlog、redolog和undolog区别？.md" >}})
 
 
 
@@ -45,7 +45,7 @@ MySQL的bin log主要支持三种格式，分别是statement、row以及mixed。
 
 
 
-[✅MySQL的limit+order by为什么会数据重复？](../MySQL/✅MySQL的limit+order by为什么会数据重复？.md)
+[✅MySQL的limit+order by为什么会数据重复？]({{< ref "MySQL/✅MySQL的limit+order by为什么会数据重复？.md" >}})
 
 
 
@@ -53,7 +53,7 @@ MySQL的bin log主要支持三种格式，分别是statement、row以及mixed。
 
 
 
-[✅为什么MySQL默认使用RR隔离级别？](../MySQL/✅为什么MySQL默认使用RR隔离级别？.md)
+[✅为什么MySQL默认使用RR隔离级别？]({{< ref "MySQL/✅为什么MySQL默认使用RR隔离级别？.md" >}})
 
 
 

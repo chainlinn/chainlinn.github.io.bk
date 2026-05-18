@@ -13,7 +13,7 @@ zk是一个非常典型的CP的系统，在下面这篇文章中阐述过ZK的AP
 
 
 
-[✅Zookeeper是CP的还是AP的？](../Zookeeper/✅Zookeeper是CP的还是AP的？.md)
+[✅Zookeeper是CP的还是AP的？]({{< ref "Zookeeper/✅Zookeeper是CP的还是AP的？.md" >}})
 
 
 
@@ -43,7 +43,7 @@ ZooKeeper 通过 **ZAB 协议 + Leader单节点写入 + Leader选举机制 + 多
 
 
 
-[✅Zookeeper是如何保证创建的节点是唯一的？](../Zookeeper/✅Zookeeper是如何保证创建的节点是唯一的？.md)
+[✅Zookeeper是如何保证创建的节点是唯一的？]({{< ref "Zookeeper/✅Zookeeper是如何保证创建的节点是唯一的？.md" >}})
 
 
 
@@ -58,7 +58,7 @@ ZooKeeper 的节点（ZNode）版本号 `version`、`zxid` 是内置的。可以
 ### Leader选举机制
 
 
-[✅Zookeeper是选举机制是怎样的？](../Zookeeper/✅Zookeeper是选举机制是怎样的？.md)
+[✅Zookeeper是选举机制是怎样的？]({{< ref "Zookeeper/✅Zookeeper是选举机制是怎样的？.md" >}})
 
 
 

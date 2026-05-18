@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅synchronized的锁升级过程是怎样的？](../Java并发/✅synchronized的锁升级过程是怎样的？.md)
+[✅synchronized的锁升级过程是怎样的？]({{< ref "Java并发/✅synchronized的锁升级过程是怎样的？.md" >}})
 
 
 

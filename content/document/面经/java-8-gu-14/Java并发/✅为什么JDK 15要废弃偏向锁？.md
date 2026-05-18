@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅synchronized的锁升级过程是怎样的？](../Java并发/✅synchronized的锁升级过程是怎样的？.md)
+[✅synchronized的锁升级过程是怎样的？]({{< ref "Java并发/✅synchronized的锁升级过程是怎样的？.md" >}})
 
 
 
@@ -29,7 +29,7 @@ JDK 15决定废弃偏向锁的主要原因是：
 
 
 
-[✅什么是safe point，有啥用？](../JVM/✅什么是safe point，有啥用？.md)
+[✅什么是safe point，有啥用？]({{< ref "JVM/✅什么是safe point，有啥用？.md" >}})
 
 
 

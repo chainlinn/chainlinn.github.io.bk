@@ -41,12 +41,12 @@ categories:
 ### 如何避免单点问题的发生？
 
 
-[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
+[✅什么是RedLock，他解决了什么问题？]({{< ref "Redis/✅什么是RedLock，他解决了什么问题？.md" >}})
 
 
 
 
 
 ## RedLock被废弃
-[✅Redisson 中为什么要废弃 RedLock，该用啥？](../Redis/✅Redisson 中为什么要废弃 RedLock，该用啥？.md)
+[✅Redisson 中为什么要废弃 RedLock，该用啥？]({{< ref "Redis/✅Redisson 中为什么要废弃 RedLock，该用啥？.md" >}})
 

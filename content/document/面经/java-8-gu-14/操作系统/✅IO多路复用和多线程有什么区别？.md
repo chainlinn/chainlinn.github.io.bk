@@ -28,7 +28,7 @@ IO多路复用技术通过允许单个线程同时监控多个I/O请求来解决
 
 
 
-[✅如何理解select、poll、epoll？](../操作系统/✅如何理解select、poll、epoll？.md)
+[✅如何理解select、poll、epoll？]({{< ref "操作系统/✅如何理解select、poll、epoll？.md" >}})
 
 
 

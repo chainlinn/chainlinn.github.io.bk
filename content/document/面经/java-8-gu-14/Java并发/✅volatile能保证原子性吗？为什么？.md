@@ -94,5 +94,5 @@ i++被拆分成3个指令：
 
 
 
-[✅LongAdder和AtomicLong的区别？](../Java并发/✅LongAdder和AtomicLong的区别？.md)
+[✅LongAdder和AtomicLong的区别？]({{< ref "Java并发/✅LongAdder和AtomicLong的区别？.md" >}})
 

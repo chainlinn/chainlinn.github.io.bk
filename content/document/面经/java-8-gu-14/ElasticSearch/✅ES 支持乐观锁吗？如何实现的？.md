@@ -89,7 +89,7 @@ POST /products/_doc/1?if_seq_no=312&if_primary_term=2
 
 
 
-[✅什么是脑裂？如何解决？](../Zookeeper/✅什么是脑裂？如何解决？.md)
+[✅什么是脑裂？如何解决？]({{< ref "Zookeeper/✅什么是脑裂？如何解决？.md" >}})
 
 
 

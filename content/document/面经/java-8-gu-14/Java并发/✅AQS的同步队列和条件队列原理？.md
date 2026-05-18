@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅如何理解AQS？](../Java并发/✅如何理解AQS？.md)
+[✅如何理解AQS？]({{< ref "Java并发/✅如何理解AQS？.md" >}})
 
 
 

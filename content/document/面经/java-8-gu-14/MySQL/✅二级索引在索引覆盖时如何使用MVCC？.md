@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅如何理解MVCC？](../MySQL/✅如何理解MVCC？.md)
+[✅如何理解MVCC？]({{< ref "MySQL/✅如何理解MVCC？.md" >}})
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅什么是聚簇索引和非聚簇索引？](../MySQL/✅什么是聚簇索引和非聚簇索引？.md)
+[✅什么是聚簇索引和非聚簇索引？]({{< ref "MySQL/✅什么是聚簇索引和非聚簇索引？.md" >}})
 
 
 
@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅什么是回表，怎么减少回表的次数？](../MySQL/✅什么是回表，怎么减少回表的次数？.md)
+[✅什么是回表，怎么减少回表的次数？]({{< ref "MySQL/✅什么是回表，怎么减少回表的次数？.md" >}})
 
 
 
@@ -78,7 +78,7 @@ categories:
 > up_limit_id来自于readview：
 >
 
-[✅什么是ReadView，什么样的ReadView可见？](../MySQL/✅什么是ReadView，什么样的ReadView可见？.md)
+[✅什么是ReadView，什么样的ReadView可见？]({{< ref "MySQL/✅什么是ReadView，什么样的ReadView可见？.md" >}})
 
 
 

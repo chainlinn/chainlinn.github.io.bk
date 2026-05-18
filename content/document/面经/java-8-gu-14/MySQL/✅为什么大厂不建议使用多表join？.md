@@ -29,7 +29,7 @@ PS：MySQL 8.0中新增了 hash join算法：
 
 
 
-[✅MySQL的Hash Join是什么？](../MySQL/✅MySQL的Hash Join是什么？.md)
+[✅MySQL的Hash Join是什么？]({{< ref "MySQL/✅MySQL的Hash Join是什么？.md" >}})
 
 
 

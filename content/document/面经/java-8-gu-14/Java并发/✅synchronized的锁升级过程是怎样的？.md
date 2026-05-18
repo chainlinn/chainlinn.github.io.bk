@@ -69,7 +69,7 @@ categories:
 
 
 
-[✅为什么JDK 15要废弃偏向锁？](../Java并发/✅为什么JDK 15要废弃偏向锁？.md)
+[✅为什么JDK 15要废弃偏向锁？]({{< ref "Java并发/✅为什么JDK 15要废弃偏向锁？.md" >}})
 
 
 
@@ -141,5 +141,5 @@ categories:
 ## synchronized 能降级么？
 
 
-[✅synchronized 的锁能降级吗？](../Java并发/✅synchronized 的锁能降级吗？.md)
+[✅synchronized 的锁能降级吗？]({{< ref "Java并发/✅synchronized 的锁能降级吗？.md" >}})
 

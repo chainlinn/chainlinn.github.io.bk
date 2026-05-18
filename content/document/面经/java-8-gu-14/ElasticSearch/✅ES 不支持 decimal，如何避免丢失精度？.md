@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？](../ElasticSearch/✅ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？.md)
+[✅ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？]({{< ref "ElasticSearch/✅ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？.md" >}})
 
 
 

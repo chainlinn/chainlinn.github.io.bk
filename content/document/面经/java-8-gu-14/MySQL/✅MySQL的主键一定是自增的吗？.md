@@ -24,7 +24,7 @@ categories:
 
 
 
-[✅什么是InnoDB的叶分裂和叶合并](../MySQL/✅什么是InnoDB的叶分裂和叶合并？.md)
+[✅什么是InnoDB的叶分裂和叶合并]({{< ref "MySQL/✅什么是InnoDB的叶分裂和叶合并？.md" >}})
 
 
 

@@ -99,7 +99,7 @@ public V put(K key, V value) {
 
 
 
-[✅HashMap的hash方法是如何实现的？](../集合类/✅HashMap的hash方法是如何实现的？.md)
+[✅HashMap的hash方法是如何实现的？]({{< ref "集合类/✅HashMap的hash方法是如何实现的？.md" >}})
 
 
 

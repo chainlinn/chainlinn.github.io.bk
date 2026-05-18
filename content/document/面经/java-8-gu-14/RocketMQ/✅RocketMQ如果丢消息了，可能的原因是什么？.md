@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅RocketMQ如何保证消息不丢失？](../RocketMQ/✅RocketMQ如何保证消息不丢失？.md)
+[✅RocketMQ如何保证消息不丢失？]({{< ref "RocketMQ/✅RocketMQ如何保证消息不丢失？.md" >}})
 
 
 

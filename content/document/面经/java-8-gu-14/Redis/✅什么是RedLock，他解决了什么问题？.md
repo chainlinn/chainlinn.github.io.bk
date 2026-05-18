@@ -166,5 +166,5 @@ Antirez 是 Redis 的作者，，他在自己的博客上发表了一篇文章([
 ## 被废弃
 
 
-[✅Redisson 中为什么要废弃 RedLock](../Redis/✅Redisson 中为什么要废弃 RedLock，该用啥？.md)
+[✅Redisson 中为什么要废弃 RedLock]({{< ref "Redis/✅Redisson 中为什么要废弃 RedLock，该用啥？.md" >}})
 
