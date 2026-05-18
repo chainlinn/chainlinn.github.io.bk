@@ -26,7 +26,7 @@ Redis中是支持事务的，他的事务主要目的是保证多个命令执行
 
 更多原子性的解释参考：
 
-[✅为什么Lua脚本可以保证原子性？](https://www.yuque.com/hollis666/ec96i7/rwdgnu)
+[✅为什么Lua脚本可以保证原子性？](../Redis/✅为什么Lua脚本可以保证原子性？.md)
 
 
 
@@ -105,12 +105,12 @@ if (result == null) {
 ## 事务和pipeline的区别
 
 
-[✅什么是Redis的Pipeline，和事务有什么区别？](https://www.yuque.com/hollis666/ec96i7/sirm5gg3lgc5nslt)
+[✅什么是Redis的Pipeline，和事务有什么区别？](../Redis/✅什么是Redis的Pipeline，和事务有什么区别？.md)
 
 
 
 ## 事务和Lua的区别
 
 
-[✅Redis的事务和Lua之间有哪些区别？](https://www.yuque.com/hollis666/ec96i7/ihi6uuc39q5xdil5)
+[✅Redis的事务和Lua之间有哪些区别？](../Redis/✅Redis的事务和Lua之间有哪些区别？.md)
 

@@ -26,7 +26,7 @@ Redis 的内存淘汰策略用于在内存满了之后，决定哪些 key 要被
 
 
 
-[📝介绍下LFU、LRU等缓存失效算法？](https://www.yuque.com/hollis666/ec96i7/gl3fivks74z4d10e)
+[📝介绍下LFU、LRU等缓存失效算法？](../本地缓存/✅介绍下LFU、LRU等缓存失效算法？.md)
 
 # 扩展知识
 

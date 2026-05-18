@@ -163,12 +163,12 @@ Redis并没有在网络请求模块和数据操作模块中使用多线程模型
 ### Redis的多路复用
 
 
-[为什么Redis设计成单线程也能这么快？](https://www.yuque.com/hollis666/ec96i7/lrhzxqbur0eywnfu)
+[为什么Redis设计成单线程也能这么快？](../Redis/✅为什么Redis设计成单线程也能这么快？.md)
 
  
 
 ### 为什么Redis 6.0 引入多线程
 
 
-[为什么Redis 6.0引入了多线程？](https://www.yuque.com/hollis666/ec96i7/zfpgxa93bmn9png9)
+[为什么Redis 6.0引入了多线程？](../Redis/✅为什么Redis 6.0引入了多线程？.md)
 

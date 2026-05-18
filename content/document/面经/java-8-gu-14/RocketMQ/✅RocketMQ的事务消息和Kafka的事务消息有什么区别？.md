@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅RocketMQ的事务消息是如何实现的？](https://www.yuque.com/hollis666/ec96i7/abxh7z)
+[✅RocketMQ的事务消息是如何实现的？](../RocketMQ/✅RocketMQ的事务消息是如何实现的？.md)
 
 
 
-[✅Kafka支持事务消息吗？如何实现的？](https://www.yuque.com/hollis666/ec96i7/yfzof8znomat1u6g)
+[✅Kafka支持事务消息吗？如何实现的？](../Kafka/✅Kafka支持事务消息吗？如何实现的？.md)
 
 
 

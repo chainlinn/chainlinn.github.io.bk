@@ -147,5 +147,5 @@ Kafka的Consumer实例五种状态，分别是：
 ## 重平衡带来的问题
 
 
-[✅MQ的重平衡会带来哪些问题？](https://www.yuque.com/hollis666/ec96i7/naqgl07qw5s4gv24)
+[✅MQ的重平衡会带来哪些问题？](../Kafka/✅MQ的重平衡会带来哪些问题？.md)
 

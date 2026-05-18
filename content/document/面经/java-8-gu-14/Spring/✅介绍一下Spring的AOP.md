@@ -113,7 +113,7 @@ Spring 提供两种实现方式：
 
 
 
-[🔜SpringBean的初始化流程](https://www.yuque.com/hollis666/ec96i7/zlvhpz)
+[🔜SpringBean的初始化流程](../Spring/✅Spring Bean的初始化过程是怎么样的？.md)
 
 
 
@@ -310,10 +310,10 @@ protected Object createProxy(
 
 
 
-[✅Java的动态代理如何实现？](https://www.yuque.com/hollis666/ec96i7/ugvfzx)
+[✅Java的动态代理如何实现？](../Java基础/✅Java的动态代理如何实现？.md)
 
 
 
 ## 使用AOP可以实现哪些功能？
-[🔜Spring在业务中常见的使用方式](https://www.yuque.com/hollis666/ec96i7/xn5f5v)
+[🔜Spring在业务中常见的使用方式](../Spring/✅Spring在业务中常见的使用方式.md)
 

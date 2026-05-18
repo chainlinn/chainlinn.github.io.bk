@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅什么是MCP？](https://www.yuque.com/hollis666/ec96i7/klg5hggdi82kc813)
+[✅什么是MCP？](../AI&大模型/✅什么是MCP？.md)
 
 
 
-[✅什么是Agent Skill？](https://www.yuque.com/hollis666/ec96i7/vs5mhn65t55d50gx)
+[✅什么是Agent Skill？](../AI&大模型/✅什么是Agent Skill？.md)
 
 
 

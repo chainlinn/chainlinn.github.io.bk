@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅MySQL的驱动表是什么？MySQL怎么选的？](https://www.yuque.com/hollis666/ec96i7/vs83kfhxbz19mkcg)
+[✅MySQL的驱动表是什么？MySQL怎么选的？](../MySQL/✅MySQL的驱动表是什么？MySQL怎么选的？.md)
 
 
 

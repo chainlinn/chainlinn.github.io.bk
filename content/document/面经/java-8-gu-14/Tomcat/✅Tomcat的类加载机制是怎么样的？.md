@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Tomcat中有哪些类加载器?](https://www.yuque.com/hollis666/ec96i7/rgupmyr7wo4s8zi0)
+[✅Tomcat中有哪些类加载器?](../Tomcat/✅Tomcat中有哪些类加载器_.md)
 
 
 

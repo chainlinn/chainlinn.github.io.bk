@@ -25,7 +25,7 @@ categories:
 
 
 
-[✅如果需要跨库join，该如何实现？](https://www.yuque.com/hollis666/ec96i7/br8q53x9u4rb8t12)
+[✅如果需要跨库join，该如何实现？](../场景题/✅如果需要跨库join，该如何实现？.md)
 
 
 

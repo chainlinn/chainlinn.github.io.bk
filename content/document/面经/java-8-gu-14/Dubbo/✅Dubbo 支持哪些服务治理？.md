@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅微服务架构的服务治理有哪些实现方案？](https://www.yuque.com/hollis666/ec96i7/psrpu1cyqxvaufg7)
+[✅微服务架构的服务治理有哪些实现方案？](../微服务/✅微服务架构的服务治理有哪些实现方案？.md)
 
 
 

@@ -32,11 +32,11 @@ categories:
 
 
 
-[✅RocketMQ如何保证消息的顺序性？](https://www.yuque.com/hollis666/ec96i7/nt1ishhbunfo0g86)
+[✅RocketMQ如何保证消息的顺序性？](../RocketMQ/✅RocketMQ如何保证消息的顺序性？.md)
 
 
 
-[✅Kafka如何实现顺序消费？](https://www.yuque.com/hollis666/ec96i7/lpkrgs6l9l5t3214)
+[✅Kafka如何实现顺序消费？](../Kafka/✅Kafka如何实现顺序消费？.md)
 
 
 

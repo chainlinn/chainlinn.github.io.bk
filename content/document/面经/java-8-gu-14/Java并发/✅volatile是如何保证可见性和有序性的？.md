@@ -18,7 +18,7 @@ categories:
 
 
 
-[✅什么是MESI缓存一致性协议](https://www.yuque.com/hollis666/ec96i7/gg2n5fqckk442ouf)
+[✅什么是MESI缓存一致性协议](../操作系统/✅什么是MESI缓存一致性协议.md)
 
 
 
@@ -49,5 +49,5 @@ volatile除了可以保证数据的可见性之外，还有一个强大的功能
 ## 内存屏障
 
 
-[✅到底啥是内存屏障？到底怎么加的？](https://www.yuque.com/hollis666/ec96i7/kozqs205honv8nso)
+[✅到底啥是内存屏障？到底怎么加的？](../Java并发/✅到底啥是内存屏障？到底怎么加的？.md)
 

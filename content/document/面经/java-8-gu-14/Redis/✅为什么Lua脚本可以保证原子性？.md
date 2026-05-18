@@ -95,7 +95,7 @@ EVAL "脚本内容" 2 account:123 account:456 100
 ## Cluster下的lua限制
 
 
-[✅Redis Cluster 中使用事务和 lua 有什么限制？](https://www.yuque.com/hollis666/ec96i7/zb66y7he56otikqs)
+[✅Redis Cluster 中使用事务和 lua 有什么限制？](../Redis/✅Redis Cluster 中使用事务和 lua 有什么限制？.md)
 
 
 
@@ -128,7 +128,7 @@ EVAL "脚本内容" 2 account:123 account:456 100
 ### <font style="color:rgb(17, 17, 51);">集群模式下存在原子性问题</font>
 
 
-[✅Redis Cluster 中使用事务和 lua 有什么限制？](https://www.yuque.com/hollis666/ec96i7/zb66y7he56otikqs)
+[✅Redis Cluster 中使用事务和 lua 有什么限制？](../Redis/✅Redis Cluster 中使用事务和 lua 有什么限制？.md)
 
 
 

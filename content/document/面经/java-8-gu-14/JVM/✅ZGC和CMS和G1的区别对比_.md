@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅JDK 11中新出的ZGC有什么特点？](https://www.yuque.com/hollis666/ec96i7/qpu0uu6em1ompzeh)
+[✅JDK 11中新出的ZGC有什么特点？](../JVM/✅JDK 11中新出的ZGC有什么特点？.md)
 
 
 
-[✅G1和CMS有什么区别？](https://www.yuque.com/hollis666/ec96i7/gkhirkk70lc2zz8z)
+[✅G1和CMS有什么区别？](../JVM/✅G1和CMS有什么区别？.md)
 
 
 

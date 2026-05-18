@@ -6,7 +6,7 @@ categories:
   - 线上问题排查
 ---
 
-[✅什么是Load（负载）？](https://www.yuque.com/hollis666/ec96i7/zmhkxcfgxc5ggz96)
+[✅什么是Load（负载）？](../操作系统/✅什么是Load（负载）？.md)
 
 
 
@@ -52,7 +52,7 @@ categories:
 
 
 
-[✅简单介绍一下JIT优化技术？](https://www.yuque.com/hollis666/ec96i7/nkr4ge)
+[✅简单介绍一下JIT优化技术？](../JVM/✅简单介绍一下JIT优化技术？.md)
 
 
 

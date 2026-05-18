@@ -87,11 +87,11 @@ public ByteArrayOutputStream exportData(List<Data> dataList) {
 
 
 
-[✅POI的如何做大文件的写入](https://www.yuque.com/hollis666/ec96i7/kalmkdx5fukxt13q)
+[✅POI的如何做大文件的写入](../文件处理/✅POI的如何做大文件的写入.md)
 
 
 
-[✅为啥SXSSFWorkbook占用内存更小?](https://www.yuque.com/hollis666/ec96i7/ivczis4gyskog9q2)
+[✅为啥SXSSFWorkbook占用内存更小?](../文件处理/✅为啥SXSSFWorkbook占用内存更小？.md)
 
 
 
@@ -135,5 +135,5 @@ public ByteArrayOutputStream exportData(List<Data> dataList) {
 
 
 
-[✅基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题](https://www.yuque.com/hollis666/ec96i7/wcm6xqvp0z004ing)
+[✅基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题](../项目难点&亮点/✅基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题.md)
 

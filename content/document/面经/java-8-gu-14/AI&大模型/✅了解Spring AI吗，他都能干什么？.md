@@ -154,7 +154,7 @@ logger.info("content: {}", content);
 #### **支持Function Calling**
 
 
-[✅什么是Function Calling？](https://www.yuque.com/hollis666/ec96i7/evlxyxnnbsnibpnn)
+[✅什么是Function Calling？](../AI&大模型/✅什么是Function Calling？.md)
 
 
 
@@ -165,7 +165,7 @@ logger.info("content: {}", content);
 #### 支持MCP
 
 
-[✅什么是MCP？](https://www.yuque.com/hollis666/ec96i7/klg5hggdi82kc813)
+[✅什么是MCP？](../AI&大模型/✅什么是MCP？.md)
 
 
 

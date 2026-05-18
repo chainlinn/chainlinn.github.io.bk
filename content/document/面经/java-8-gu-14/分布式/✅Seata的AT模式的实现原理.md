@@ -29,7 +29,7 @@ Seata中包含了三个组件：
 
 详见：
 
-[✅什么是Seata？他有哪几种模式？](https://www.yuque.com/hollis666/ec96i7/qro9fl9lsiinx1tu)
+[✅什么是Seata？他有哪几种模式？](../分布式/✅什么是Seata？他有哪几种模式？.md)
 
 
 
@@ -154,7 +154,7 @@ public void purchase(String userId, String commodityCode, int count, int money) 
 ## AT模式的脏读问题
 
 
-[✅Seata的AT模式会不会出现脏读？为什么？](https://www.yuque.com/hollis666/ec96i7/pm1eeggifcc1vykp)
+[✅Seata的AT模式会不会出现脏读？为什么？](../分布式/✅Seata的AT模式会不会出现脏读？为什么？.md)
 
 
 

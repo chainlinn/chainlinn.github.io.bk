@@ -83,11 +83,11 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅介绍一下Redis的集群模式？](https://www.yuque.com/hollis666/ec96i7/namhuv165lorwudw)
+[✅介绍一下Redis的集群模式？](../Redis/✅介绍一下Redis的集群模式？.md)
 
 
 
-[✅Redis 5.0中的 Stream是什么？](https://www.yuque.com/hollis666/ec96i7/qehw9x86oxl0r0sc)
+[✅Redis 5.0中的 Stream是什么？](../Redis/✅Redis 5.0中的 Stream是什么？.md)
 
 
 
@@ -106,11 +106,11 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅Nacos是AP的还是CP的？](https://www.yuque.com/hollis666/ec96i7/ed9gu0mf5q4u1pw6)
+[✅Nacos是AP的还是CP的？](../配置中心/✅Nacos是AP的还是CP的？.md)
 
 
 
-[✅Nacos如何实现的配置变化客户端可以感知到？](https://www.yuque.com/hollis666/ec96i7/icbk1rndq13ku07o)
+[✅Nacos如何实现的配置变化客户端可以感知到？](../配置中心/✅Nacos如何实现的配置变化客户端可以感知到？.md)
 
 
 
@@ -121,7 +121,7 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅如何设计一个高可用架构？](https://www.yuque.com/hollis666/ec96i7/vyg778x53xe6elwe)
+[✅如何设计一个高可用架构？](../高可用/✅如何设计一个高可用架构？.md)
 
 
 
@@ -132,7 +132,7 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅如果你的业务量突然提升100倍QPS你会怎么做？](https://www.yuque.com/hollis666/ec96i7/vmymwg4epv4o24lc)
+[✅如果你的业务量突然提升100倍QPS你会怎么做？](../场景题/✅如果你的业务量突然提升100倍QPS你会怎么做？.md)
 
 
 
@@ -143,7 +143,7 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅什么是限流？常见的限流算法有哪些？](https://www.yuque.com/hollis666/ec96i7/aw1zho)
+[✅什么是限流？常见的限流算法有哪些？](../高并发/✅什么是限流？常见的限流算法有哪些？.md)
 
 
 
@@ -156,7 +156,7 @@ Redis的Stream有重平衡的机制吗？
 
 
 
-[✅什么是压测，怎么做压测？](https://www.yuque.com/hollis666/ec96i7/wrzi8qgk7ridgslp)
+[✅什么是压测，怎么做压测？](../高可用/✅什么是压测，怎么做压测？.md)
 
 
 

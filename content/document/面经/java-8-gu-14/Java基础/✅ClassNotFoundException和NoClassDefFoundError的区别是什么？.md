@@ -80,7 +80,7 @@ public class B
 
 
 
-[✅Maven如何解决jar包冲突的问题？](https://www.yuque.com/hollis666/ec96i7/vkkiva)
+[✅Maven如何解决jar包冲突的问题？](../Maven&Git/✅Maven如何解决jar包冲突的问题？.md)
 
 
 

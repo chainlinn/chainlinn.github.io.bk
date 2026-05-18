@@ -125,14 +125,14 @@ ThreadLocalMap(ThreadLocal<?> firstKey, Object firstValue) {
 ## 应用场景
 
 
-[✅ThreadLocal的应用场景有哪些？](https://www.yuque.com/hollis666/ec96i7/bpm9cgs19qwlgc1k)
+[✅ThreadLocal的应用场景有哪些？](../Java并发/✅ThreadLocal的应用场景有哪些？.md)
 
 
 
 ## <font style="color:rgb(85, 85, 85);">ThreadLocal内存泄露问题</font>
 
 
-[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](https://www.yuque.com/hollis666/ec96i7/bueq7weva8ha9f1p)
+[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](../Java并发/✅ThreadLocal为什么会导致内存泄漏？如何解决的？.md)
 
 
 

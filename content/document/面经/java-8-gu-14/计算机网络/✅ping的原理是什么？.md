@@ -30,5 +30,5 @@ ping命令本身处于应用层，相当于一个应用程序。它使用的ICMP
 # 扩展知识
 
 
-[✅ping为什么不需要端口？](https://www.yuque.com/hollis666/ec96i7/pfmnefsmxrwhzd81)
+[✅ping为什么不需要端口？](../计算机网络/✅ping为什么不需要端口？.md)
 

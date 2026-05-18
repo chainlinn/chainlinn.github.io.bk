@@ -146,5 +146,5 @@ public class LruListCache<E> {
 ```
 
 ## 数组和链表的区别
-[🔜数组和链表有何区别？](https://www.yuque.com/hollis666/ec96i7/feley4pfqbz6pkr0)
+[🔜数组和链表有何区别？](../数据结构/✅数组和链表有何区别？.md)
 

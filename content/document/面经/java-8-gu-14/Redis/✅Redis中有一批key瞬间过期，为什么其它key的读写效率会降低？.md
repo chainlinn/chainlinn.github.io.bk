@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis中key过期了一定会立即删除吗](https://www.yuque.com/hollis666/ec96i7/ds8qgg4zmt7l2kvp)
+[✅Redis中key过期了一定会立即删除吗](../Redis/✅Redis中key过期了一定会立即删除吗.md)
 
 
 

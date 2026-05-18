@@ -29,5 +29,5 @@ categories:
 
 
 
-[✅为什么Lua脚本可以保证原子性？](https://www.yuque.com/hollis666/ec96i7/rwdgnu)
+[✅为什么Lua脚本可以保证原子性？](../Redis/✅为什么Lua脚本可以保证原子性？.md)
 

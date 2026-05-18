@@ -25,5 +25,5 @@ categories:
 
 
 
-[✅二级索引在索引覆盖时如何使用MVCC？](https://www.yuque.com/hollis666/ec96i7/kcgxd5vsnygpr9r7)
+[✅二级索引在索引覆盖时如何使用MVCC？](../MySQL/✅二级索引在索引覆盖时如何使用MVCC？.md)
 

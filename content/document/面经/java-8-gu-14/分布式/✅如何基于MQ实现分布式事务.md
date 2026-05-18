@@ -7,7 +7,7 @@ categories:
 ---
 
 # 典型回答
-[✅什么是分布式事务？](https://www.yuque.com/hollis666/ec96i7/pgzeqn8h4nxl1o6h)
+[✅什么是分布式事务？](../分布式/✅什么是分布式事务？.md)
 
 
 
@@ -51,7 +51,7 @@ categories:
 
 <font style="color:rgb(51, 51, 51);"></font>
 
-[✅如何基于本地消息表实现分布式事务？](https://www.yuque.com/hollis666/ec96i7/xm675quxo1bc5qm8)
+[✅如何基于本地消息表实现分布式事务？](../分布式/✅如何基于本地消息表实现分布式事务？.md)
 
 
 
@@ -59,11 +59,11 @@ categories:
 
 <font style="color:rgb(51, 51, 51);"></font>
 
-[✅什么是事务消息，为什么需要事务消息？](https://www.yuque.com/hollis666/ec96i7/awrtlggd35yanugp)
+[✅什么是事务消息，为什么需要事务消息？](../分布式/✅什么是事务消息，为什么需要事务消息？.md)
 
 
 
-[✅RocketMQ的事务消息是如何实现的？](https://www.yuque.com/hollis666/ec96i7/abxh7z)
+[✅RocketMQ的事务消息是如何实现的？](../RocketMQ/✅RocketMQ的事务消息是如何实现的？.md)
 
 <font style="color:rgb(51, 51, 51);"></font>
 
@@ -90,7 +90,7 @@ categories:
 
 
 
-[✅什么是最大努力通知？](https://www.yuque.com/hollis666/ec96i7/akhq6shbaqc61s5n)
+[✅什么是最大努力通知？](../分布式/✅什么是最大努力通知？.md)
 
 
 
@@ -104,7 +104,7 @@ categories:
 ### 三者区别
 
 
-[✅最大努力通知&事务消息&本地消息表三者区别是什么？](https://www.yuque.com/hollis666/ec96i7/pxdtc3krterqhrfz)
+[✅最大努力通知&事务消息&本地消息表三者区别是什么？](../分布式/✅最大努力通知&事务消息&本地消息表三者区别是什么？.md)
 
 
 

@@ -24,7 +24,7 @@ categories:
 6. 项目-搭建的xx平台
 7. 如何处理下游超时，一致性怎么保证
 
-[✅如何基于本地消息表实现分布式事务？](https://www.yuque.com/hollis666/ec96i7/xm675quxo1bc5qm8)
+[✅如何基于本地消息表实现分布式事务？](../分布式/✅如何基于本地消息表实现分布式事务？.md)
 
 8. RocketMq的特性
 
@@ -32,27 +32,27 @@ categories:
 
 9. 如何用Redis统计亿级网站的uv
 
-[✅除了做缓存，Redis还能用来干什么？](https://www.yuque.com/hollis666/ec96i7/gxqm60)
+[✅除了做缓存，Redis还能用来干什么？](../Redis/✅除了做缓存，Redis还能用来干什么？.md)
 
 10. 遇到过什么线上问题，如何处理
 
-[✅RocketMQ消费堆积问题排查](https://www.yuque.com/hollis666/ec96i7/za04hyyegpeg4h2i)
+[✅RocketMQ消费堆积问题排查](../线上问题排查/✅RocketMQ消费堆积问题排查.md)
 
 11. 分布式锁如何设计
 
-[✅如何用SETNX实现分布式锁？](https://www.yuque.com/hollis666/ec96i7/feovxr7gr8ois5yt)
+[✅如何用SETNX实现分布式锁？](../Redis/✅如何用SETNX实现分布式锁？.md)
 
 12. 分布式框架的服务发现怎么做
 
-[✅Dubbo实现服务调用的过程是什么样的？](https://www.yuque.com/hollis666/ec96i7/io1pkwin43mkwaup)
+[✅Dubbo实现服务调用的过程是什么样的？](../Dubbo/✅Dubbo的服务调用的过程是什么样的？.md)
 
 13. TheadLocal的使用场景，如何防止内存泄露
 
-[✅什么是ThreadLocal，如何实现的？](https://www.yuque.com/hollis666/ec96i7/ihoye3)
+[✅什么是ThreadLocal，如何实现的？](../Java并发/✅什么是ThreadLocal，如何实现的？.md)
 
 14. JVM的堆栈各存储什么内容
 
-[✅JVM的运行时内存区域是怎样的？](https://www.yuque.com/hollis666/ec96i7/oyxrdhamqrmn291o)
+[✅JVM的运行时内存区域是怎样的？](../JVM/✅JVM的运行时内存区域是怎样的？.md)
 
 15. 写过什么公共组件么？
 16. 反问：用增营销和交易营销的区别、技术栈，生活 作息等

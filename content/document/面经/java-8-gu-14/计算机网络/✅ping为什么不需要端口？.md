@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ping的原理是什么？](https://www.yuque.com/hollis666/ec96i7/ivry7a)
+[✅ping的原理是什么？](../计算机网络/✅ping的原理是什么？.md)
 
 
 

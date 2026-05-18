@@ -38,7 +38,7 @@ categories:
 
 
 
-[✅MySQL的优化器的索引成本是怎么算出来的？](https://www.yuque.com/hollis666/ec96i7/waruyhds7gcn6srf)
+[✅MySQL的优化器的索引成本是怎么算出来的？](../MySQL/✅MySQL的优化器的索引成本是怎么算出来的？.md)
 
 
 

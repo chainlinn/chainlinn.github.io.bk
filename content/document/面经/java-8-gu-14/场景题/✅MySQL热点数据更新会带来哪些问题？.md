@@ -37,7 +37,7 @@ WHERE product_id = 10086;
 
 
 
-[✅数据库CPU被打满排查过程](https://www.yuque.com/hollis666/ec96i7/yhfy70xlf7kegk0s)
+[✅数据库CPU被打满排查过程](../线上问题排查/✅数据库CPU被打满排查过程.md)
 
 
 
@@ -59,9 +59,9 @@ WHERE product_id = 10086;
 ## 如何解决和避免
 
 
-[✅MySQL怎么做热点数据高效更新？](https://www.yuque.com/hollis666/ec96i7/rfqcbz190k9egley)
+[✅MySQL怎么做热点数据高效更新？](../MySQL/✅MySQL怎么做热点数据高效更新？.md)
 
 
 
-[✅高并发的积分系统，在数据库增加积分，怎么实现？](https://www.yuque.com/hollis666/ec96i7/ns5mki19bc5xyg61)
+[✅高并发的积分系统，在数据库增加积分，怎么实现？](../场景题/✅高并发的积分系统，在数据库增加积分，怎么实现？.md)
 

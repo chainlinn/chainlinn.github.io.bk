@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅xxl-job如何保证一任务只会触发一次？](https://www.yuque.com/hollis666/ec96i7/kgrtbyygyu5wnsgx)
+[✅xxl-job如何保证一任务只会触发一次？](../定时任务/✅xxl-job如何保证一任务只会触发一次？.md)
 
 
 
@@ -41,7 +41,7 @@ categories:
 
 
 
-[✅分布式锁有几种实现方式？](https://www.yuque.com/hollis666/ec96i7/fvnr41)
+[✅分布式锁有几种实现方式？](../分布式/✅分布式锁有几种实现方式？.md)
 
 
 

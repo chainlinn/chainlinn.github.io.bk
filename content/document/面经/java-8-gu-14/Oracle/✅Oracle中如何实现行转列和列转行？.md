@@ -101,5 +101,5 @@ ORDER BY year, product;
 
 
 
-[✅MySQL如何实现行转列和列转行？](https://www.yuque.com/hollis666/ec96i7/wb2h3s2lsaw5egk8)
+[✅MySQL如何实现行转列和列转行？](../MySQL/✅MySQL如何实现行转列和列转行？.md)
 

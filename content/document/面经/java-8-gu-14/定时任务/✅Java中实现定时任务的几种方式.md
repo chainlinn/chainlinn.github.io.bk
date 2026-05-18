@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅Java中Timer实现定时调度的原理是什么？](https://www.yuque.com/hollis666/ec96i7/gn6ap7qm2wwhtylk)
+[✅Java中Timer实现定时调度的原理是什么？](../定时任务/✅Java中Timer实现定时调度的原理是什么？.md)
 
 
 

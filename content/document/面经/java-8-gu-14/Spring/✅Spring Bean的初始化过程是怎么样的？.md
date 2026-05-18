@@ -7,7 +7,7 @@ categories:
 ---
 
 # 典型回答
-[✅Spring Bean的生命周期是怎么样的？](https://www.yuque.com/hollis666/ec96i7/gpl60ga0c996vmw3)
+[✅Spring Bean的生命周期是怎么样的？](../Spring/✅Spring Bean的生命周期是怎么样的？.md)
 
 
 
@@ -172,7 +172,7 @@ protected Object doCreateBean(final String beanName, final RootBeanDefinition mb
 
 
 
-[✅Spring解决循环依赖一定需要三级缓存吗？](https://www.yuque.com/hollis666/ec96i7/edvhrik3pbw300os)
+[✅Spring解决循环依赖一定需要三级缓存吗？](../Spring/✅Spring解决循环依赖一定需要三级缓存吗？.md)
 
 
 
@@ -386,7 +386,7 @@ public Object applyBeanPostProcessorsBeforeInitialization(Object existingBean, S
 ### **调用InitializingBean的afterPropertiesSet方法或自定义的初始化方法**
 
 
-[✅@PostConstruct、init-method和afterPropertiesSet执行顺序](https://www.yuque.com/hollis666/ec96i7/sgf2ipp88i6qk803)
+[✅@PostConstruct、init-method和afterPropertiesSet执行顺序](../Spring/✅@PostConstruct、init-method和afterPropertiesSet执行顺序.md)
 
 
 
@@ -449,7 +449,7 @@ public Object postProcessAfterInitialization(Object bean, String beanName) throw
 
 
 
-[✅介绍一下Spring的AOP](https://www.yuque.com/hollis666/ec96i7/nget4r5wl2imegi7)
+[✅介绍一下Spring的AOP](../Spring/✅介绍一下Spring的AOP.md)
 
 
 

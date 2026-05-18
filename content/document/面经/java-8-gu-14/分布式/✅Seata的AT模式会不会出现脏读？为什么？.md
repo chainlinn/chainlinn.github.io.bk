@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅Seata的AT模式的实现原理](https://www.yuque.com/hollis666/ec96i7/me3ge4vavi0fokgq)
+[✅Seata的AT模式的实现原理](../分布式/✅Seata的AT模式的实现原理.md)
 
 
 

@@ -88,5 +88,5 @@ categories:
 
 以上内容，建议通过AI项目课学习：
 
-[AI课优惠券](https://www.yuque.com/hollis666/ec96i7/dkm70gxmurvgph0z)
+[AI课优惠券](../📮📮📮必读📮📮📮/AI课优惠券.md)
 

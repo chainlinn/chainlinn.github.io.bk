@@ -55,7 +55,7 @@ categories:
 ## 二阶段提交
 
 
-[✅什么是事务的2阶段提交？](https://www.yuque.com/hollis666/ec96i7/geuks1bbiwd39h1r)
+[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
 
 
 

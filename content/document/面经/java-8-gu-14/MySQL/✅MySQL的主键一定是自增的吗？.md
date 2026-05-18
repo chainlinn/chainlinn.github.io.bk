@@ -24,7 +24,7 @@ categories:
 
 
 
-[✅什么是InnoDB的叶分裂和叶合并](https://www.yuque.com/hollis666/ec96i7/lq17kh7gaf8ayipw)
+[✅什么是InnoDB的叶分裂和叶合并](../MySQL/✅什么是InnoDB的叶分裂和叶合并？.md)
 
 
 

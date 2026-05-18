@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅HashMap的hash方法是如何实现的？](https://www.yuque.com/hollis666/ec96i7/sz24zwwrdg92qizg)
+[✅HashMap的hash方法是如何实现的？](../集合类/✅HashMap的hash方法是如何实现的？.md)
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅为什么在JDK8中HashMap要转成红黑树](https://www.yuque.com/hollis666/ec96i7/zx609g)
+[✅为什么在JDK8中HashMap要转成红黑树](../集合类/✅为什么在JDK8中HashMap要转成红黑树.md)
 
 
 

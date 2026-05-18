@@ -99,7 +99,7 @@ public V put(K key, V value) {
 
 
 
-[✅HashMap的hash方法是如何实现的？](https://www.yuque.com/hollis666/ec96i7/sz24zwwrdg92qizg)
+[✅HashMap的hash方法是如何实现的？](../集合类/✅HashMap的hash方法是如何实现的？.md)
 
 
 

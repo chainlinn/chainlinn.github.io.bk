@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是操作系统的多级缓存](https://www.yuque.com/hollis666/ec96i7/nm0sde8ek7ccfg1w)
+[✅什么是操作系统的多级缓存](../操作系统/✅什么是操作系统的多级缓存.md)
 
 
 
@@ -87,5 +87,5 @@ I(Invalid)：这行数据无效。
 ## MESI和JMM
 
 
-[✅有了MESI为啥还需要JMM？](https://www.yuque.com/hollis666/ec96i7/yx29gk7wsw26ec4r)
+[✅有了MESI为啥还需要JMM？](../Java并发/✅有了MESI为啥还需要JMM？.md)
 

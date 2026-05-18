@@ -81,7 +81,7 @@ public static void main(String[] args) {
 ## 字符串常量进入常量池的时机
 
 
-[✅字符串常量是什么时候进入到字符串常量池的？](https://www.yuque.com/hollis666/ec96i7/os0m38kyugpxvgsq)
+[✅字符串常量是什么时候进入到字符串常量池的？](../Java基础/✅字符串常量是什么时候进入到字符串常量池的？.md)
 
 
 
@@ -209,5 +209,5 @@ System.out.println(s3 == s4);// ③
 
 
 
-[✅为什么这段代码在JDK不同版本中结果不同](https://www.yuque.com/hollis666/ec96i7/iky8sebui0cv6sli)
+[✅为什么这段代码在JDK不同版本中结果不同](../Java基础/✅为什么这段代码在JDK不同版本中结果不同.md)
 

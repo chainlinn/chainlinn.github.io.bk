@@ -147,7 +147,7 @@ public void createNode(final String path, byte[] data, List<ACL> acl, long ephem
 
 
 
-[✅如何解决接口幂等的问题？](https://www.yuque.com/hollis666/ec96i7/gz2qwl)
+[✅如何解决接口幂等的问题？](../分布式/✅如何解决接口幂等的问题？.md)
 
 
 
@@ -203,7 +203,7 @@ public class NodeHashMapImpl implements NodeHashMap {
 
 
 
-[✅ConcurrentHashMap是如何保证线程安全的？](https://www.yuque.com/hollis666/ec96i7/seuqd9oynk2enp9t)
+[✅ConcurrentHashMap是如何保证线程安全的？](../集合类/✅ConcurrentHashMap是如何保证线程安全的？.md)
 
 
 

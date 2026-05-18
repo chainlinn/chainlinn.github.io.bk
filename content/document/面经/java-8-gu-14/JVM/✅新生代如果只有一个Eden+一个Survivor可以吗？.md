@@ -18,7 +18,7 @@ categories:
 
 
 
-[新生代和老年代的GC算法](https://www.yuque.com/hollis666/ec96i7/batkyxxf61dx4kl7)
+[新生代和老年代的GC算法](../JVM/✅新生代和老年代的GC算法.md)
 
 
 

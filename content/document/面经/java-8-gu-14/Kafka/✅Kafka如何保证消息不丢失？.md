@@ -25,7 +25,7 @@ Kafka作为一个消息中间件，他需要结合消息生产者和消费者一
 
 ****
 
-[为什么Kafka没办法100%保证消息不丢失？](https://www.yuque.com/hollis666/ec96i7/vwy7vz63qax9c7ab)
+[为什么Kafka没办法100%保证消息不丢失？](../Kafka/✅为什么Kafka没办法100%保证消息不丢失？.md)
 
 
 

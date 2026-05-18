@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅公平锁和非公平锁的区别？](https://www.yuque.com/hollis666/ec96i7/bnt978)
+[✅公平锁和非公平锁的区别？](../Java并发/✅公平锁和非公平锁的区别？.md)
 
 
 

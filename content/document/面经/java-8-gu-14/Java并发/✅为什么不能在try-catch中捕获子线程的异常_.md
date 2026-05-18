@@ -17,7 +17,7 @@ categories:
 
 
 
-[Java线程出现异常，进程为啥不会退出？](https://www.yuque.com/hollis666/ec96i7/vhge9qann70zsrag)
+[Java线程出现异常，进程为啥不会退出？](../Java并发/✅Java线程出现异常，进程为啥不会退出？.md)
 
 
 
@@ -72,7 +72,7 @@ public class Main {
 ## 如何实现主线程捕获子线程异常
 
 
-[✅如何实现主线程捕获子线程异常](https://www.yuque.com/hollis666/ec96i7/iao166g9qgzld9e3)
+[✅如何实现主线程捕获子线程异常](../Java并发/✅如何实现主线程捕获子线程异常.md)
 
 
 

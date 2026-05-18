@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Kafka如何实现批量消费？](https://www.yuque.com/hollis666/ec96i7/fy0p2ctryn63tf0g)
+[✅Kafka如何实现批量消费？](../Kafka/✅Kafka如何实现批量消费？.md)
 
 
 

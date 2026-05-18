@@ -55,7 +55,7 @@ WHERE number = ?
 
 ****
 
-[✅MySQL热点数据更新会带来哪些问题？](https://www.yuque.com/hollis666/ec96i7/gccycd2mvmpthq1s)
+[✅MySQL热点数据更新会带来哪些问题？](../场景题/✅MySQL热点数据更新会带来哪些问题？.md)
 
 
 

@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅订单到期关闭如何实现](https://www.yuque.com/hollis666/ec96i7/tg0ehg)
+[✅订单到期关闭如何实现](../场景题/✅订单到期关闭如何实现.md)
 
 
 

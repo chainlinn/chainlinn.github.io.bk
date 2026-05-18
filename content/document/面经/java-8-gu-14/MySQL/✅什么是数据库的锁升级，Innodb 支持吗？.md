@@ -17,7 +17,7 @@ categories:
 
 ****
 
-[✅介绍下InnoDB的锁机制？](https://www.yuque.com/hollis666/ec96i7/rgdoek)
+[✅介绍下InnoDB的锁机制？](../MySQL/✅介绍下InnoDB的锁机制？.md)
 
 
 

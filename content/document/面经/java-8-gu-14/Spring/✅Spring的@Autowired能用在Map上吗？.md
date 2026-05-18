@@ -49,7 +49,7 @@ private Map<String, HollisService> servicesMap; // 键是bean的名称，值是H
 
 
 
-[✅你在工作中是如何使用设计模式的？](https://www.yuque.com/hollis666/ec96i7/kzq0dwtbtgps9oe1)
+[✅你在工作中是如何使用设计模式的？](../设计模式/✅你在工作中是如何使用设计模式的？.md)
 
 
 

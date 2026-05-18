@@ -84,7 +84,7 @@ DELETE FROM users WHERE username='' OR 1=1; --'
 
 
 
-[✅为什么预编译可以避免SQL注入？](https://www.yuque.com/hollis666/ec96i7/dqhumwe8iuvw7eka)
+[✅为什么预编译可以避免SQL注入？](../网络安全/✅为什么预编译可以避免SQL注入？.md)
 
 
 
@@ -114,7 +114,7 @@ preparedStatement.setString(1, userInput);
 
 
 
-[✅#和$的区别是什么？什么情况必须用$](https://www.yuque.com/hollis666/ec96i7/idozw647yfbqtkig)
+[✅#和$的区别是什么？什么情况必须用$](../MyBatis/✅#和$的区别是什么？什么情况必须用$.md)
 
 
 

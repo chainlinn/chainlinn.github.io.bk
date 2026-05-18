@@ -157,17 +157,17 @@ public class CollectionCaseEventListener {
 ### 学习资料
 
 
-[✅定时任务扫表的方案有什么缺点？](https://www.yuque.com/hollis666/ec96i7/bgr91vskph8odcsr)
+[✅定时任务扫表的方案有什么缺点？](../定时任务/✅定时任务扫表的方案有什么缺点？.md)
 
 
 
-[✅分库分表后会带来哪些问题？](https://www.yuque.com/hollis666/ec96i7/yhseig)
+[✅分库分表后会带来哪些问题？](../分库分表/✅分库分表后会带来哪些问题？.md)
 
 
 
-[✅在Spring中如何使用Spring Event做事件驱动](https://www.yuque.com/hollis666/ec96i7/lgs78ulq6l3cg1qk)
+[✅在Spring中如何使用Spring Event做事件驱动](../Spring/✅在Spring中如何使用Spring Event做事件驱动.md)
 
 
 
-[✅如何解决接口幂等的问题？](https://www.yuque.com/hollis666/ec96i7/gz2qwl)
+[✅如何解决接口幂等的问题？](../分布式/✅如何解决接口幂等的问题？.md)
 

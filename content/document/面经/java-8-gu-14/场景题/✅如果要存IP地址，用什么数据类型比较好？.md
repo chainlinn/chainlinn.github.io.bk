@@ -17,7 +17,7 @@ IP地址，分为IPV4和IPV6，通常IPv4地址的地址格式为nnn.nnn.nnn.nnn
 
 
 
-[✅什么是IPV6？和IPV4有什么区别？](https://www.yuque.com/hollis666/ec96i7/dmed6y)
+[✅什么是IPV6？和IPV4有什么区别？](../计算机网络/✅什么是IPV6？和IPV4有什么区别？.md)
 
 
 

@@ -63,7 +63,7 @@ categories:
 
 
 
-[✅项目中，如果日志打印成为瓶颈，该如何优化？](https://www.yuque.com/hollis666/ec96i7/bikxuiiqn5u7seva)
+[✅项目中，如果日志打印成为瓶颈，该如何优化？](../场景题/✅项目中，如果日志打印成为瓶颈，该如何优化？.md)
 
 
 
@@ -93,7 +93,7 @@ categories:
 
 
 
-[✅应用启动后前几分钟，Load、RT、CPU等飙高，如何定位，可能的原因是什么？](https://www.yuque.com/hollis666/ec96i7/we92mtmze7gd58ct)
+[✅应用启动后前几分钟，Load、RT、CPU等飙高，如何定位，可能的原因是什么？](../场景题/✅应用启动后前几分钟，Load、RT、CPU等飙高，如何定位，可能的原因是什么？.md)
 
 
 
@@ -103,7 +103,7 @@ categories:
 
 
 
-[✅什么是QPS，什么是RT？](https://www.yuque.com/hollis666/ec96i7/hr5913)
+[✅什么是QPS，什么是RT？](../高性能/✅什么是QPS，什么是RT？.md)
 
 
 
@@ -111,7 +111,7 @@ categories:
 
 
 
-[✅4C8G的机器，各项系统指标，什么范围算是正常？](https://www.yuque.com/hollis666/ec96i7/pt58t4z58614u4z0)
+[✅4C8G的机器，各项系统指标，什么范围算是正常？](../场景题/✅4C8G的机器，各项系统指标，什么范围算是正常？.md)
 
 
 
@@ -125,7 +125,7 @@ categories:
 
 
 
-[✅什么是TCP重传率，有什么用？如何查看？](https://www.yuque.com/hollis666/ec96i7/tk8w4sg1gw9cd0gg)
+[✅什么是TCP重传率，有什么用？如何查看？](../计算机网络/✅什么是TCP重传率，有什么用？如何查看？.md)
 
 
 

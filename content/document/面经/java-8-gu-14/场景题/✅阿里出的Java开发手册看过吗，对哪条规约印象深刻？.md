@@ -17,45 +17,45 @@ categories:
 
 
 
-[✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？](https://www.yuque.com/hollis666/ec96i7/gyz59h)
+[✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？](../Java基础/✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？.md)
 
 
 
-[✅RPC接口返回中，使用基本类型还是包装类？](https://www.yuque.com/hollis666/ec96i7/hqm4f0)
+[✅RPC接口返回中，使用基本类型还是包装类？](../Java基础/✅RPC接口返回中，使用基本类型还是包装类？.md)
 
 
 
-[✅HashMap的容量设置多少合适？](https://www.yuque.com/hollis666/ec96i7/zftlbogxzvcsbymo)
+[✅HashMap的容量设置多少合适？](../集合类/✅HashMap的容量设置多少合适？.md)
 
 
 
-[✅Spring中如何开启事务？](https://www.yuque.com/hollis666/ec96i7/dmp6qs)
+[✅Spring中如何开启事务？](../Spring/✅Spring中如何开启事务？.md)
 
 
 
-[✅为什么不建议通过Executors构建线程池](https://www.yuque.com/hollis666/ec96i7/ptpdp2dxfh1dxbc0)
+[✅为什么不建议通过Executors构建线程池](../Java并发/✅为什么不建议通过Executors构建线程池.md)
 
 
 
-[✅为什么不推荐使用外键？](https://www.yuque.com/hollis666/ec96i7/tm4gg1mwdsgaqy9a)
+[✅为什么不推荐使用外键？](../MySQL/✅为什么不推荐使用外键？.md)
 
 
 
-[✅String、StringBuilder和StringBuffer的区别？](https://www.yuque.com/hollis666/ec96i7/pg23qhb7rgnuamd1)
+[✅String、StringBuilder和StringBuffer的区别？](../Java基础/✅String、StringBuilder和StringBuffer的区别？.md)
 
 
 
-[✅为什么不能直接使用Log4j、Logback中的 API？](https://www.yuque.com/hollis666/ec96i7/tai6nceh3x9qf8m6)
+[✅为什么不能直接使用Log4j、Logback中的 API？](../日志/✅为什么不能直接使用Log4j、Logback中的 API？.md)
 
 
 
-[✅BigDecimal(double)和BigDecimal(String)有什么区别？](https://www.yuque.com/hollis666/ec96i7/tv3ne5taonetgiip)
+[✅BigDecimal(double)和BigDecimal(String)有什么区别？](../Java基础/✅BigDecimal(double)和BigDecimal(String)有什么区别？.md)
 
 
 
-[✅为什么不能用BigDecimal的equals方法做等值比较？](https://www.yuque.com/hollis666/ec96i7/qmx8yss8tve7w73q)
+[✅为什么不能用BigDecimal的equals方法做等值比较？](../Java基础/✅为什么不能用BigDecimal的equals方法做等值比较？.md)
 
 
 
-[为啥我不建议使用@Transactional事务](https://www.yuque.com/hollis666/ec96i7/sscz8razzyxltzhe)
+[为啥我不建议使用@Transactional事务](../其他专属内容/为啥我不建议使用@Transactional事务.md)
 

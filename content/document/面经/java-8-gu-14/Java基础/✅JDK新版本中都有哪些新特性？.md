@@ -401,7 +401,7 @@ static String formatterPatternSwitch(Object o) {
 ## 虚拟线程
 
 
-[✅JDK19 中的虚拟线程是怎么回事？](https://www.yuque.com/hollis666/ec96i7/ac1a0q)
+[✅JDK19 中的虚拟线程是怎么回事？](../Java并发/✅JDK19 中的虚拟线程是怎么回事？.md)
 
 
 

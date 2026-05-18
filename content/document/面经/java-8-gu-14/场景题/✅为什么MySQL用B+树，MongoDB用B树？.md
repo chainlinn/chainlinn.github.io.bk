@@ -26,7 +26,7 @@ Innodb是MySQL的存储引擎，MySQL是一种关系型数据库，而MongoDB是
 
 
 
-[✅什么是B+树，和B树有什么区别？](https://www.yuque.com/hollis666/ec96i7/bb5ldw8odm5gik4p)
+[✅什么是B+树，和B树有什么区别？](../数据结构/✅什么是B+树，和B树有什么区别？.md)
 
 
 

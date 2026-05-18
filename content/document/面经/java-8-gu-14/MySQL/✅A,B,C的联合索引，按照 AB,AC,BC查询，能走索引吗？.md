@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅什么是最左前缀匹配？为什么要遵守？](https://www.yuque.com/hollis666/ec96i7/cc9mglopp4nigg59)
+[✅什么是最左前缀匹配？为什么要遵守？](../MySQL/✅什么是最左前缀匹配？为什么要遵守？.md)
 
 
 
@@ -49,7 +49,7 @@ categories:
 
 
 
-[✅where条件的顺序影响使用索引吗？](https://www.yuque.com/hollis666/ec96i7/nwm3ry85o8l0gega)
+[✅where条件的顺序影响使用索引吗？](../MySQL/✅where条件的顺序影响使用索引吗？.md)
 
 
 
@@ -58,5 +58,5 @@ categories:
 # 扩展知识
 
 
-[✅什么是索引跳跃扫描](https://www.yuque.com/hollis666/ec96i7/ixpnm8nvbfa9l7gm)
+[✅什么是索引跳跃扫描](../MySQL/✅什么是索引跳跃扫描.md)
 

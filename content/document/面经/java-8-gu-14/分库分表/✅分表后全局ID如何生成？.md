@@ -96,5 +96,5 @@ categories:
 
 
 
-[✅什么是雪花算法，怎么保证不重复的？](https://www.yuque.com/hollis666/ec96i7/rsocc4sd7v9i0pvc)
+[✅什么是雪花算法，怎么保证不重复的？](../分布式/✅什么是雪花算法，怎么保证不重复的？.md)
 

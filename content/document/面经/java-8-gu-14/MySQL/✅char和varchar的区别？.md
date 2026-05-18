@@ -25,7 +25,7 @@ char和varchar都是用于在数据库中存储字符串的数据类型。它们
 
 
 
-[✅什么是InnoDB的页分裂和页合并](https://www.yuque.com/hollis666/ec96i7/lq17kh7gaf8ayipw)
+[✅什么是InnoDB的页分裂和页合并](../MySQL/✅什么是InnoDB的页分裂和页合并.md)
 
 
 
@@ -41,7 +41,7 @@ char和varchar都是用于在数据库中存储字符串的数据类型。它们
 
 
 
-[✅MySQL为什么会有存储碎片？有什么危害？](https://www.yuque.com/hollis666/ec96i7/dgehrxlnpsrdi83e)
+[✅MySQL为什么会有存储碎片？有什么危害？](../MySQL/✅MySQL为什么会有存储（内存）碎片？有什么危害？.md)
 
 
 

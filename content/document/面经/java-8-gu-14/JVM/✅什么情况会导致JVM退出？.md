@@ -16,7 +16,7 @@ categories:
 
 
 
-[✅什么是守护线程，和普通线程有什么区别？](https://www.yuque.com/hollis666/ec96i7/dlg6vw)
+[✅什么是守护线程，和普通线程有什么区别？](../Java并发/✅什么是守护线程，和普通线程有什么区别？.md)
 
 
 
@@ -39,7 +39,7 @@ categories:
 
 
 
-[✅Java发生了OOM一定会导致JVM 退出吗？](https://www.yuque.com/hollis666/ec96i7/fsnk2a6xdyhqfvf7)
+[✅Java发生了OOM一定会导致JVM 退出吗？](../JVM/✅Java发生了OOM一定会导致JVM 退出吗？.md)
 
 
 
@@ -67,7 +67,7 @@ categories:
 
 
 
-[✅对JDK进程执行kill -9有什么影响？](https://www.yuque.com/hollis666/ec96i7/kmlq81)
+[✅对JDK进程执行kill -9有什么影响？](../JVM/✅对JDK进程执行kill -9有什么影响？.md)
 
 ### 
 

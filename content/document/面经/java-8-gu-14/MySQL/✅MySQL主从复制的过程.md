@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅InnoDB的一次更新事务是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/wmmyt7a9vr7qlwsl)
+[✅InnoDB的一次更新事务是怎么实现的？](../MySQL/✅InnoDB的一次更新事务过程是怎么样的？.md)
 
 
 
@@ -96,7 +96,7 @@ MySQL目前支持多种复制方式，其中包括了全同步复制、异步复
 
 
 
-[✅InnoDB的一次更新事务是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/wmmyt7a9vr7qlwsl)
+[✅InnoDB的一次更新事务是怎么实现的？](../MySQL/✅InnoDB的一次更新事务过程是怎么样的？.md)
 
 
 
@@ -113,12 +113,12 @@ MySQL目前支持多种复制方式，其中包括了全同步复制、异步复
 ## 主从延迟
 
 
-[✅什么是数据库的主从延迟，如何解决？](https://www.yuque.com/hollis666/ec96i7/weszn2kock8k8wld)
+[✅什么是数据库的主从延迟，如何解决？](../MySQL/✅什么是数据库的主从延迟，如何解决？.md)
 
 ## 并行复制
 
 
-[✅MySQL的并行复制原理](https://www.yuque.com/hollis666/ec96i7/igarxy867n7bgq1q)
+[✅MySQL的并行复制原理](../MySQL/✅MySQL的并行复制原理.md)
 
 
 

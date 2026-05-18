@@ -100,7 +100,7 @@ Seata是一个阿里开源的分布式事务解决方案（Simple Extensible Aut
 ## Seata 的四种事务模式
 
 
-[✅Seata的4种事务模式，各自适合的场景是什么？](https://www.yuque.com/hollis666/ec96i7/cx86tg6tdhmz1dm9)
+[✅Seata的4种事务模式，各自适合的场景是什么？](../分布式/✅Seata的4种事务模式，各自适合的场景是什么？.md)
 
 
 

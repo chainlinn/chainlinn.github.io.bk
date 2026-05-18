@@ -35,7 +35,7 @@ categories:
 
 
 
-[✅Redis 的事务机制是怎样的？](https://www.yuque.com/hollis666/ec96i7/xxxz79)
+[✅Redis 的事务机制是怎样的？](../Redis/✅Redis 的事务机制是怎样的？.md)
 
 # 扩展知识
 

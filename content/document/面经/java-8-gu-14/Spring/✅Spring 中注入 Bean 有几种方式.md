@@ -42,7 +42,7 @@ public class HollisService {
 
 
 
-[✅为什么Spring不建议使用基于字段的依赖注入？](https://www.yuque.com/hollis666/ec96i7/lbst9ffoy74od6kr)
+[✅为什么Spring不建议使用基于字段的依赖注入？](../Spring/✅为什么Spring不建议使用基于字段的依赖注入？.md)
 
 #### 构造器注入
 
@@ -105,7 +105,7 @@ public class HollisService {
 
 <font style="color:rgb(13, 13, 13);"></font>
 
-[✅Autowired和Resource的关系？](https://www.yuque.com/hollis666/ec96i7/gai6a9)
+[✅Autowired和Resource的关系？](../Spring/✅Autowired和Resource的关系？.md)
 
 
 
@@ -182,5 +182,5 @@ public class HollisService {
 
 
 
-[✅BeanFactory和FactroyBean的关系？](https://www.yuque.com/hollis666/ec96i7/cnhqfg)
+[✅BeanFactory和FactroyBean的关系？](../Spring/✅BeanFactory和FactroyBean的关系？.md)
 

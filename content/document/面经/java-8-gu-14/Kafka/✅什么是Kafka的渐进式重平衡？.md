@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是Kafka的重平衡机制？](https://www.yuque.com/hollis666/ec96i7/rqzepcxvq2a1w2e9)
+[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
 
 
 

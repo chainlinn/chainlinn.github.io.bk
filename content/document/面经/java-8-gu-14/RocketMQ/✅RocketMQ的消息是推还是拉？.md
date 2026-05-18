@@ -68,7 +68,7 @@ public class DefaultMQPushConsumer extends ClientConfig implements MQPushConsume
 
 
 
-[✅消息队列使用拉模式好还是推模式好？为什么？](https://www.yuque.com/hollis666/ec96i7/mq3pwg8ge56hfvhx)
+[✅消息队列使用拉模式好还是推模式好？为什么？](../场景题/✅消息队列使用拉模式好还是推模式好？为什么？.md)
 
 
 

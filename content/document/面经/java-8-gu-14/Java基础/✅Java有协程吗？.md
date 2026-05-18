@@ -17,5 +17,5 @@ Java中是有协程的，叫虚拟线程：
 
 
 
-[✅JDK21 中的虚拟线程是怎么回事？](https://www.yuque.com/hollis666/ec96i7/ac1a0q)
+[✅JDK21 中的虚拟线程是怎么回事？](../Java并发/✅JDK21 中的虚拟线程是怎么回事？.md)
 

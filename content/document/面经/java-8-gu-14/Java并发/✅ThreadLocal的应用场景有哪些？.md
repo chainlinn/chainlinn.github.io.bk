@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是ThreadLocal，如何实现的？](https://www.yuque.com/hollis666/ec96i7/ihoye3)
+[✅什么是ThreadLocal，如何实现的？](../Java并发/✅什么是ThreadLocal，如何实现的？.md)
 
 
 

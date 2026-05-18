@@ -51,7 +51,7 @@ System.out.println(s3 == s4);// ③
 
 
 
-[✅String中intern的原理是什么？](https://www.yuque.com/hollis666/ec96i7/yr32wu44yxt5l8nh)
+[✅String中intern的原理是什么？](../Java基础/✅String中intern的原理是什么？.md)
 
 
 

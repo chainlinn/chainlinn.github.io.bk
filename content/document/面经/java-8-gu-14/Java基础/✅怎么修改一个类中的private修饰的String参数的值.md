@@ -17,7 +17,7 @@ categories:
 
 ****
 
-[✅String为什么设计成不可变的？](https://www.yuque.com/hollis666/ec96i7/hhkgh2nsrlnf2g0g)
+[✅String为什么设计成不可变的？](../Java基础/✅String为什么设计成不可变的？.md)
 
 
 
@@ -59,7 +59,7 @@ obj.setMyString("new value");
 
 
 
-[✅什么是反射机制？为什么反射慢？](https://www.yuque.com/hollis666/ec96i7/sr19rp)
+[✅什么是反射机制？为什么反射慢？](../Java基础/✅什么是反射机制？为什么反射慢？.md)
 
 
 

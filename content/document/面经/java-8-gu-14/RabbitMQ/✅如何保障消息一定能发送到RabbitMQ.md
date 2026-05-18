@@ -25,7 +25,7 @@ categories:
 
 
 
-[介绍下RabbitMQ的事务机制](https://www.yuque.com/hollis666/ec96i7/alxsh6b98sck90fu)
+[介绍下RabbitMQ的事务机制](../RabbitMQ/✅介绍下RabbitMQ的事务机制.md)
 
 
 
@@ -150,6 +150,6 @@ public class PublisherCallbacksExample {
 
 
 
-[RabbitMQ如何保证消息不丢](https://www.yuque.com/hollis666/ec96i7/ku3fxiie005axgrz)
+[RabbitMQ如何保证消息不丢](../RabbitMQ/✅RabbitMQ如何保证消息不丢.md)
 
 # 

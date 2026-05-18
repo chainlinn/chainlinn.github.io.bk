@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅如何理解MVCC？](https://www.yuque.com/hollis666/ec96i7/wgu1u6)
+[✅如何理解MVCC？](../MySQL/✅如何理解MVCC？.md)
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅什么是聚簇索引和非聚簇索引？](https://www.yuque.com/hollis666/ec96i7/le8gbo472cpxv63z)
+[✅什么是聚簇索引和非聚簇索引？](../MySQL/✅什么是聚簇索引和非聚簇索引？.md)
 
 
 
@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅什么是回表，怎么减少回表的次数？](https://www.yuque.com/hollis666/ec96i7/vr22wd)
+[✅什么是回表，怎么减少回表的次数？](../MySQL/✅什么是回表，怎么减少回表的次数？.md)
 
 
 
@@ -78,7 +78,7 @@ categories:
 > up_limit_id来自于readview：
 >
 
-[✅什么是ReadView，什么样的ReadView可见？](https://www.yuque.com/hollis666/ec96i7/gq6em9bet37p4f77)
+[✅什么是ReadView，什么样的ReadView可见？](../MySQL/✅什么是ReadView，什么样的ReadView可见？.md)
 
 
 

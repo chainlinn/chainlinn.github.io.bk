@@ -238,5 +238,5 @@ select * from test where name like '%abc'
 
 
 
-[✅5000w数据查询电话号码后4位，如何优化？](https://www.yuque.com/hollis666/ec96i7/erg53cxt6v5mguuy)
+[✅5000w数据查询电话号码后4位，如何优化？](../场景题/✅5000w数据查询电话号码后4位，如何优化？.md)
 

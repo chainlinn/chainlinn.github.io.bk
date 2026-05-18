@@ -311,14 +311,14 @@ protected void scheduleExpirationRenewal(long threadId) {
 
 
 
-[✅什么是时间轮？](https://www.yuque.com/hollis666/ec96i7/vsrvc5hbu3falecp)
+[✅什么是时间轮？](../定时任务/✅什么是时间轮？.md)
 
 
 
 
 
 ## <font style="color:rgb(38, 38, 38);">watchdog一直续期，客户端挂了怎么办？</font>
-[✅watchdog一直续期，那客户端挂了怎么办？](https://www.yuque.com/hollis666/ec96i7/ggc38etsob451zop)
+[✅watchdog一直续期，那客户端挂了怎么办？](../Redis/✅watchdog一直续期，那客户端挂了怎么办？.md)
 
 
 

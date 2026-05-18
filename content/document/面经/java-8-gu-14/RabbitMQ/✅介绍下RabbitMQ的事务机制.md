@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅如何保障消息一定能发送到RabbitMQ](https://www.yuque.com/hollis666/ec96i7/inmrfqk0qyvsdgg3)
+[✅如何保障消息一定能发送到RabbitMQ](../RabbitMQ/✅如何保障消息一定能发送到RabbitMQ.md)
 
 
 

@@ -53,7 +53,7 @@ Java进程突然挂掉的原因页可能有很多，比如：
 
 
 
-[✅Java发生了OOM一定会导致JVM 退出吗？](https://www.yuque.com/hollis666/ec96i7/fsnk2a6xdyhqfvf7)
+[✅Java发生了OOM一定会导致JVM 退出吗？](../JVM/✅Java发生了OOM一定会导致JVM 退出吗？.md)
 
 
 

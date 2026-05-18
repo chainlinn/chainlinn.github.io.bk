@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅介绍一下Redis的集群模式？](https://www.yuque.com/hollis666/ec96i7/namhuv165lorwudw)
+[✅介绍一下Redis的集群模式？](../Redis/✅介绍一下Redis的集群模式？.md)
 
 
 

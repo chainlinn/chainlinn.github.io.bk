@@ -52,7 +52,7 @@ InnoDB和MyISAM是MySQL中比较常用的两个执行引擎，<font style="color
 ## 索引结构区别
 
 
-[✅MyISAM 的索引结构是怎么样的，它存在的问题是什么？](https://www.yuque.com/hollis666/ec96i7/mcl4sn8mcutieesz)
+[✅MyISAM 的索引结构是怎么样的，它存在的问题是什么？](../MySQL/✅MyISAM 的索引结构是怎么样的，它存在的问题是什么？.md)
 
   
  

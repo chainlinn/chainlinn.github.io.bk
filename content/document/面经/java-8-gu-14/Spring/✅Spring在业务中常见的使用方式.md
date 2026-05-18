@@ -253,5 +253,5 @@ public class TransactBean {
 
 当然对于声明式的事务也不能滥用，它有可能会导致一些问题：
 
-[事务失效可能是哪些原因？](https://www.yuque.com/hollis666/ec96i7/bz0tulziboigw24b)
+[事务失效可能是哪些原因？](../Spring/✅Spring事务失效可能是哪些原因？.md)
 

@@ -105,7 +105,7 @@ public class EnumExample {
 
 
 
-[✅Spring在业务中常见的使用方式](https://www.yuque.com/hollis666/ec96i7/xn5f5v)
+[✅Spring在业务中常见的使用方式](../Spring/✅Spring在业务中常见的使用方式.md)
 
 
 
@@ -155,7 +155,7 @@ public class EnumExample {
 ### 5、天生就是个单例，线程安全且不怕被破坏
 
 
-[✅为什么说枚举是实现单例最好的方式？](https://www.yuque.com/hollis666/ec96i7/dt4dp5iq77akg00u)
+[✅为什么说枚举是实现单例最好的方式？](../设计模式/✅为什么说枚举是实现单例最好的方式？.md)
 
 
 
@@ -224,7 +224,7 @@ public final class T extends Enum
 ## 枚举单例的好处
 
 
-[✅为什么说枚举是实现单例最好的方式？](https://www.yuque.com/hollis666/ec96i7/dt4dp5iq77akg00u)
+[✅为什么说枚举是实现单例最好的方式？](../设计模式/✅为什么说枚举是实现单例最好的方式？.md)
 
 
 

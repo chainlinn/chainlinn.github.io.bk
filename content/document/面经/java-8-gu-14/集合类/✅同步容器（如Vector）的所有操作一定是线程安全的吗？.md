@@ -174,7 +174,7 @@ for (int i = 0; i < v.size(); i++) {
 
 
 
-[✅ConcurrentHashMap是如何保证线程安全的？](https://www.yuque.com/hollis666/ec96i7/seuqd9oynk2enp9t)
+[✅ConcurrentHashMap是如何保证线程安全的？](../集合类/✅ConcurrentHashMap是如何保证线程安全的？.md)
 
 
 
@@ -182,7 +182,7 @@ for (int i = 0; i < v.size(); i++) {
 
 
 
-[✅什么是COW，如何保证的线程安全？](https://www.yuque.com/hollis666/ec96i7/sn842t5l24dmlsp4)
+[✅什么是COW，如何保证的线程安全？](../集合类/✅什么是COW，如何保证的线程安全？.md)
 
 
 

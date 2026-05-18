@@ -26,9 +26,9 @@ Redis 之所以如此快，主要有以下几个方面的原因：
 # 扩展知识
 
 
-[✅为什么Redis设计成单线程也能这么快？](https://www.yuque.com/hollis666/ec96i7/lrhzxqbur0eywnfu)
+[✅为什么Redis设计成单线程也能这么快？](../Redis/✅为什么Redis设计成单线程也能这么快？.md)
 
 
 
-[✅为什么Redis 6.0引入了多线程？](https://www.yuque.com/hollis666/ec96i7/zfpgxa93bmn9png9)
+[✅为什么Redis 6.0引入了多线程？](../Redis/✅为什么Redis 6.0引入了多线程？.md)
 

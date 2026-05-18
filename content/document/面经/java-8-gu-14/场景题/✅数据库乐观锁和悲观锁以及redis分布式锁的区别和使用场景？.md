@@ -86,7 +86,7 @@ categories:
 
 
 
-[✅如何用Redis实现乐观锁？](https://www.yuque.com/hollis666/ec96i7/graqik44khnn7owf)
+[✅如何用Redis实现乐观锁？](../Redis/✅如何用Redis实现乐观锁？.md)
 
 
 

@@ -56,7 +56,7 @@ Cookie 和 Session 的区别主要有以下几个
 
 2、**分布式场景**：Session是存储在服务器上的，但是随着现在很多都是集群部署，这就使得Session也需要实现分布式Session，而如果能用Token的话，就可以不用这么复杂。
 
-[✅怎么实现分布式Session？](https://www.yuque.com/hollis666/ec96i7/xbgu80vgxnhhb438)
+[✅怎么实现分布式Session？](../分布式/✅怎么实现分布式Session？.md)
 
 3、**API交互**：当我们使用浏览器访问后端服务的时候，可以用cookie和session，但是如果是API调用，比如Dubbo交互，就没办法做cookie的存储和传递了，而使用Token是常见的身份验证方式。客户端通过提供Token来证明其身份，并获得对受保护资源的访问权限。
 
@@ -74,7 +74,7 @@ Cookie 和 Session 的区别主要有以下几个
 
 
 
-[✅不用redis分布式锁， 如何防止用户重复点击？](https://www.yuque.com/hollis666/ec96i7/bg9usqc0763mw2wm)
+[✅不用redis分布式锁， 如何防止用户重复点击？](../场景题/✅不用redis分布式锁， 如何防止用户重复点击？.md)
 
 # 扩展知识
 

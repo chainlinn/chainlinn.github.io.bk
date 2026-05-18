@@ -172,13 +172,13 @@ private static void joinLeaderboard(Jedis jedis, String user, double score, long
 ### 学习资料
 
 
-[✅Redis中的Zset是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/uzqztzuicddlk95c)
+[✅Redis中的Zset是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
 
 
 
-[✅为什么ZSet 既能支持高效的范围查询，还能以 O(1) 复杂度获取元素权重值？](https://www.yuque.com/hollis666/ec96i7/cswc0lcmh3wsbfp9)
+[✅为什么ZSet 既能支持高效的范围查询，还能以 O(1) 复杂度获取元素权重值？](../Redis/✅为什么ZSet 既能支持高效的范围查询，还能以 O(1) 复杂度获取元素权重值？.md)
 
 
 
-[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？](https://www.yuque.com/hollis666/ec96i7/ooqi2qfep22bcpag)
+[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？](../场景题/✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？.md)
 

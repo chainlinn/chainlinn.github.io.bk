@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ConcurrentHashMap是如何保证线程安全的？](https://www.yuque.com/hollis666/ec96i7/seuqd9oynk2enp9t)
+[✅ConcurrentHashMap是如何保证线程安全的？](../集合类/✅ConcurrentHashMap是如何保证线程安全的？.md)
 
 
 
@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅ConcurrentHashMap是如何保证线程安全的？](https://www.yuque.com/hollis666/ec96i7/seuqd9oynk2enp9t)
+[✅ConcurrentHashMap是如何保证线程安全的？](../集合类/✅ConcurrentHashMap是如何保证线程安全的？.md)
 
 
 
@@ -62,5 +62,5 @@ JDK 1.8中的ConcurrentHashMap的加锁机制有以下特点：
 ## 为什么用synchronized而不是ReentrantLock
 
 
-[✅ConcurrentHashMap为什么在JDK1.8中使用synchronized而不是ReentrantLock](https://www.yuque.com/hollis666/ec96i7/zfcsv292hkbiclzu)
+[✅ConcurrentHashMap为什么在JDK1.8中使用synchronized而不是ReentrantLock](../集合类/✅ConcurrentHashMap为什么在JDK1.8中使用synchronized而不是ReentrantLock.md)
 

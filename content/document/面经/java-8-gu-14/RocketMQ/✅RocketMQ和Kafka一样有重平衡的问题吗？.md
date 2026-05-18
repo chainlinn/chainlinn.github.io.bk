@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是Kafka的重平衡机制？](https://www.yuque.com/hollis666/ec96i7/rqzepcxvq2a1w2e9)
+[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
 
 
 
@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅RocketMQ怎么实现消息分发的？](https://www.yuque.com/hollis666/ec96i7/qxu868f094az60aa)
+[✅RocketMQ怎么实现消息分发的？](../RocketMQ/✅RocketMQ怎么实现消息分发的？.md)
 
 
 

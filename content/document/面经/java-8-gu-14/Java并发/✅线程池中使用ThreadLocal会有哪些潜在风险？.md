@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](https://www.yuque.com/hollis666/ec96i7/bueq7weva8ha9f1p)
+[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](../Java并发/✅ThreadLocal为什么会导致内存泄漏？如何解决的？.md)
 
 
 
@@ -47,6 +47,6 @@ ThreadLocalMap底层使用数组来保存元素，使用“线性探测法”来
 
 **(装B时刻：现在是2025年9月19日，JDK25在两天前发布了，新出了一个ScopedValue，可以解决这个内存泄漏的问题，你如果面试的时候主动提一句，会让面试官觉得你很有技术热情。很加分！！！）**
 
-[✅JDK25的ScopedValue是什么？为什么可以替代ThreadLocal？](https://www.yuque.com/hollis666/ec96i7/acwiha67w8oklohg)
+[✅JDK25的ScopedValue是什么？为什么可以替代ThreadLocal？](../Java并发/✅JDK25的ScopedValue是什么？为什么可以替代ThreadLocal？.md)
 
 # 

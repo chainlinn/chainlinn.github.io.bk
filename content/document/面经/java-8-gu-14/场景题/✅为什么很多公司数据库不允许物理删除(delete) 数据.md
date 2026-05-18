@@ -41,7 +41,7 @@ categories:
 
 参考：
 
-[✅联合索引是越多越好吗？](https://www.yuque.com/hollis666/ec96i7/gkpnqgz1bqg71n5v)
+[✅联合索引是越多越好吗？](../MySQL/✅联合索引是越多越好吗？.md)
 
 
 
@@ -49,7 +49,7 @@ categories:
 在 InnoDB中，delete执行后，只是给数据做了个标记，但空间并不会立即释放。这导致数据页中可能存在大量未使用的空间，增加了数据的分散程度，这就是碎片。  
 
 
-[✅MySQL为什么会有存储碎片？有什么危害？](https://www.yuque.com/hollis666/ec96i7/dgehrxlnpsrdi83e)
+[✅MySQL为什么会有存储碎片？有什么危害？](../MySQL/✅MySQL为什么会有存储（内存）碎片？有什么危害？.md)
 
 
 
@@ -63,7 +63,7 @@ categories:
 ## 物理删除后的唯一性约束如何设置
 
 
-[✅数据库逻辑删除后，怎么做唯一性约束？](https://www.yuque.com/hollis666/ec96i7/uwumrs9gs9x422k7)
+[✅数据库逻辑删除后，怎么做唯一性约束？](../场景题/✅数据库逻辑删除后，怎么做唯一性约束？.md)
 
 
 

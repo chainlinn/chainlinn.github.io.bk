@@ -17,7 +17,7 @@ StackOverflow 是栈溢出错误，他通常发生在程序的调用栈变得过
 
 
 
-[✅请分别写出一个Java堆、栈、元空间溢出的代码](https://www.yuque.com/hollis666/ec96i7/qlzszvlm5siwrl2p)
+[✅请分别写出一个Java堆、栈、元空间溢出的代码](../编程题/✅请分别写出一个Java堆、栈、元空间溢出的代码.md)
 
 
 
@@ -65,5 +65,5 @@ OutOfMemory在具体报错上还有以下几种情况：
 ## 真实排查过程
 
 
-[✅OOM问题排查过程](https://www.yuque.com/hollis666/ec96i7/vdnaxh)
+[✅OOM问题排查过程](../线上问题排查/✅OOM问题排查过程.md)
 

@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅为什么要尽量避免使用select * ？](https://www.yuque.com/hollis666/ec96i7/wgmpg7gsqhbc9vmi)
+[✅为什么要尽量避免使用select * ？](../MySQL/✅为什么要尽量避免使用select * ？.md)
 
 
 

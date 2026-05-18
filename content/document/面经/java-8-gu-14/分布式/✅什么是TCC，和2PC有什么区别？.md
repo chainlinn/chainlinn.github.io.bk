@@ -65,7 +65,7 @@ TCC这种事务方案有以下优缺点：
 
 
 
-[✅TCC的空回滚和悬挂是什么？如何解决？](https://www.yuque.com/hollis666/ec96i7/cu01a1g1xxn2v52u)
+[✅TCC的空回滚和悬挂是什么？如何解决？](../分布式/✅TCC的空回滚和悬挂是什么？如何解决？.md)
 
 
 
@@ -73,7 +73,7 @@ TCC这种事务方案有以下优缺点：
 ## Confirm/Cancel失败了怎么办？
 
 
-[✅TCC中，Confirm或者Cancel失败了怎么办？](https://www.yuque.com/hollis666/ec96i7/xnvn2of7pmd005no)
+[✅TCC中，Confirm或者Cancel失败了怎么办？](../分布式/✅TCC中，Confirm或者Cancel失败了怎么办？.md)
 
 
 
@@ -119,5 +119,5 @@ TCC这种事务方案有以下优缺点：
 ## TCC是强一致性还是最终一致性？
 
 
-[✅TCC是强一致性还是最终一致性？](https://www.yuque.com/hollis666/ec96i7/aedtll1aq21ahiwf)
+[✅TCC是强一致性还是最终一致性？](../分布式/✅TCC是强一致性还是最终一致性？.md)
 

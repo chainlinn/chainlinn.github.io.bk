@@ -13,7 +13,7 @@ HashMap有扩容机制，就是当达到扩容条件时会进行扩容。HashMap
 
 
 
-[✅HashMap是如何扩容的？](https://www.yuque.com/hollis666/ec96i7/co1ul8)
+[✅HashMap是如何扩容的？](../集合类/✅HashMap是如何扩容的？.md)
 
 
 

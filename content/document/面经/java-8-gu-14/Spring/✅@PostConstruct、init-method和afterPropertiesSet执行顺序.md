@@ -124,7 +124,7 @@ init-method执行
 
 
 
-[✅Spring Bean的初始化过程是怎么样的？](https://www.yuque.com/hollis666/ec96i7/zlvhpz)
+[✅Spring Bean的初始化过程是怎么样的？](../Spring/✅Spring Bean的初始化过程是怎么样的？.md)
 
 
 

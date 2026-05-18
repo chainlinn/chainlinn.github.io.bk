@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅什么是TCC，和2PC有什么区别？](https://www.yuque.com/hollis666/ec96i7/xhvbak3ouy6xqiml)
+[✅什么是TCC，和2PC有什么区别？](../分布式/✅什么是TCC，和2PC有什么区别？.md)
 
 
 

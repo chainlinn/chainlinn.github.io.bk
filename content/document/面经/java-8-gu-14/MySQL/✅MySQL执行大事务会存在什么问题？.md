@@ -41,7 +41,7 @@ categories:
 
 
 
-[✅undolog会一直存在吗？什么时候删除？](https://www.yuque.com/hollis666/ec96i7/smuw1dllb29thq3v)
+[✅undolog会一直存在吗？什么时候删除？](../MySQL/✅undolog会一直存在吗？什么时候删除？.md)
 
 
 
@@ -49,7 +49,7 @@ categories:
 
 
 
-[✅二级索引在索引覆盖时如何使用MVCC？](https://www.yuque.com/hollis666/ec96i7/kcgxd5vsnygpr9r7)
+[✅二级索引在索引覆盖时如何使用MVCC？](../MySQL/✅二级索引在索引覆盖时如何使用MVCC？.md)
 
 
 

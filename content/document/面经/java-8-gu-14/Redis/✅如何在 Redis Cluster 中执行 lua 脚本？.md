@@ -7,7 +7,7 @@ categories:
 ---
 
 # 典型回答
-[✅Redis Cluster 中使用事务和 lua 有什么限制？](https://www.yuque.com/hollis666/ec96i7/zb66y7he56otikqs)
+[✅Redis Cluster 中使用事务和 lua 有什么限制？](../Redis/✅Redis Cluster 中使用事务和 lua 有什么限制？.md)
 
 
 

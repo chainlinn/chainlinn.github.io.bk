@@ -13,7 +13,7 @@ categories:
 
 <font style="color:rgb(64, 64, 64);"></font>
 
-[✅Kafka 为什么这么快？](https://www.yuque.com/hollis666/ec96i7/zzc44p)
+[✅Kafka 为什么这么快？](../Kafka/✅Kafka 为什么这么快？.md)
 
 
 

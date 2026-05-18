@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅synchronized是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/gxq5p0)
+[✅synchronized是怎么实现的？](../Java并发/✅synchronized是怎么实现的？.md)
 
 
 

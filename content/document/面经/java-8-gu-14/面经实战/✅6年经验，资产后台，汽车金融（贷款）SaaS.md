@@ -62,7 +62,7 @@ categories:
 
 
 
-[✅SaaS系统中，多租户如何实现？](https://www.yuque.com/hollis666/ec96i7/nzi06fs6bpco1mf5)
+[✅SaaS系统中，多租户如何实现？](../其他/✅SaaS系统中，多租户如何实现？.md)
 
 
 
@@ -81,7 +81,7 @@ categories:
 
 
 
-[✅什么是流程引擎，请问流程引擎有什么优缺点？](https://www.yuque.com/hollis666/ec96i7/uzi41t8m8ixcigb2)
+[✅什么是流程引擎，请问流程引擎有什么优缺点？](../其他/✅什么是流程引擎，请问流程引擎有什么优缺点？.md)
 
 
 
@@ -92,7 +92,7 @@ categories:
 
 
 
-[✅基于状态机+乐观锁解决订单支付和关单的并发问题](https://www.yuque.com/hollis666/ec96i7/wivav02l47kcd9nl)
+[✅基于状态机+乐观锁解决订单支付和关单的并发问题](../项目难点&亮点/✅基于状态机+乐观锁解决订单支付和关单的并发问题.md)
 
 
 
@@ -107,19 +107,19 @@ categories:
 
 
 
-[✅Seata的AT模式的实现原理](https://www.yuque.com/hollis666/ec96i7/me3ge4vavi0fokgq)
+[✅Seata的AT模式的实现原理](../分布式/✅Seata的AT模式的实现原理.md)
 
 
 
-[✅Seata的AT模式会不会出现脏读？为什么？](https://www.yuque.com/hollis666/ec96i7/pm1eeggifcc1vykp)
+[✅Seata的AT模式会不会出现脏读？为什么？](../分布式/✅Seata的AT模式会不会出现脏读？为什么？.md)
 
 
 
-[✅TCC的空回滚和悬挂是什么？如何解决？](https://www.yuque.com/hollis666/ec96i7/cu01a1g1xxn2v52u)
+[✅TCC的空回滚和悬挂是什么？如何解决？](../分布式/✅TCC的空回滚和悬挂是什么？如何解决？.md)
 
 
 
-[✅Seata的4种事务模式，各自适合的场景是什么？](https://www.yuque.com/hollis666/ec96i7/cx86tg6tdhmz1dm9)
+[✅Seata的4种事务模式，各自适合的场景是什么？](../分布式/✅Seata的4种事务模式，各自适合的场景是什么？.md)
 
 
 
@@ -134,11 +134,11 @@ categories:
 
 
 
-[✅利用雪花算法+Redis 自增 ID，实现唯一订单号生成](https://www.yuque.com/hollis666/ec96i7/tn85uurzqo8xe9yg)
+[✅利用雪花算法+Redis 自增 ID，实现唯一订单号生成](../项目难点&亮点/✅利用雪花算法+Redis 自增 ID，实现唯一订单号生成.md)
 
 
 
-[✅分库分表的数量为什么一般选择2的幂？](https://www.yuque.com/hollis666/ec96i7/gy0gtl66vv1vmllq)
+[✅分库分表的数量为什么一般选择2的幂？](../分库分表/✅分库分表的数量为什么一般选择2的幂？.md)
 
 
 
@@ -153,7 +153,7 @@ categories:
 
 
 
-[✅如何做平滑的数据迁移?](https://www.yuque.com/hollis666/ec96i7/vgar5hckwt0g9lrw)
+[✅如何做平滑的数据迁移?](../场景题/✅如何做平滑的数据迁移_.md)
 
 
 
@@ -166,7 +166,7 @@ categories:
 
 
 
-[✅什么是OnlineDDL](https://www.yuque.com/hollis666/ec96i7/lwxtmggon7ir4zzz)
+[✅什么是OnlineDDL](../MySQL/✅什么是OnlineDDL.md)
 
 
 
@@ -179,7 +179,7 @@ categories:
 
 
 
-[✅如何解决接口幂等的问题？](https://www.yuque.com/hollis666/ec96i7/gz2qwl)
+[✅如何解决接口幂等的问题？](../分布式/✅如何解决接口幂等的问题？.md)
 
 
 
@@ -192,7 +192,7 @@ categories:
 
 
 
-[✅你是如何进行SQL调优的？](https://www.yuque.com/hollis666/ec96i7/awytshm5gv5yxs03)
+[✅你是如何进行SQL调优的？](../场景题/✅你是如何进行SQL调优的？.md)
 
 
 

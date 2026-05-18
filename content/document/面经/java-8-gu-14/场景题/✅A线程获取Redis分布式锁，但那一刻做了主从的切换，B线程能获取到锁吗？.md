@@ -41,12 +41,12 @@ categories:
 ### 如何避免单点问题的发生？
 
 
-[✅什么是RedLock，他解决了什么问题？](https://www.yuque.com/hollis666/ec96i7/lxzg0ubs2xpvenxw)
+[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
 
 
 
 
 
 ## RedLock被废弃
-[✅Redisson 中为什么要废弃 RedLock，该用啥？](https://www.yuque.com/hollis666/ec96i7/fz545rxlub3czyg6)
+[✅Redisson 中为什么要废弃 RedLock，该用啥？](../Redis/✅Redisson 中为什么要废弃 RedLock，该用啥？.md)
 

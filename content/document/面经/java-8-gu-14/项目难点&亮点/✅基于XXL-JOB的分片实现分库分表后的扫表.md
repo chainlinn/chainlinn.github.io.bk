@@ -107,7 +107,7 @@ public ReturnT<String> orderTimeOutExecute() {
 
 
 
-[✅MySQL中like的模糊查询如何优化](https://www.yuque.com/hollis666/ec96i7/zrt2y30mhdgiremc)
+[✅MySQL中like的模糊查询如何优化](../MySQL/✅MySQL中like的模糊查询如何优化.md)
 
 
 

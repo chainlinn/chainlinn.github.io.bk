@@ -109,7 +109,7 @@ limit
 
 
 
-[✅order by 是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/caou56)
+[✅order by 是怎么实现的？](../MySQL/✅order by 是怎么实现的？.md)
 
 
 

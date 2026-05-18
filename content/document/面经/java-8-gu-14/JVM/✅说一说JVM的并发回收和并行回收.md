@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是并发，什么是并行？](https://www.yuque.com/hollis666/ec96i7/fxvrxkep8rus8ytb)
+[✅什么是并发，什么是并行？](../Java并发/✅什么是并发，什么是并行？.md)
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅新生代和老年代的垃圾回收器有何区别？](https://www.yuque.com/hollis666/ec96i7/nqra2l)
+[✅新生代和老年代的垃圾回收器有何区别？](../JVM/✅新生代和老年代的垃圾回收器有何区别？.md)
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅什么是STW？有什么影响？](https://www.yuque.com/hollis666/ec96i7/qg9fvqfnzpbd70hl)
+[✅什么是STW？有什么影响？](../JVM/✅什么是STW？有什么影响？.md)
 
 
 

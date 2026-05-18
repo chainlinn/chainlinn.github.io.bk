@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是可重入锁，怎么实现可重入锁？](https://www.yuque.com/hollis666/ec96i7/zvx2w5h9sr7trle7)
+[✅什么是可重入锁，怎么实现可重入锁？](../Java并发/✅什么是可重入锁，怎么实现可重入锁？.md)
 
 
 
@@ -129,7 +129,7 @@ public class ReentrantRedisLock {
 
 
 
-[✅为什么Lua脚本可以保证原子性？](https://www.yuque.com/hollis666/ec96i7/rwdgnu)
+[✅为什么Lua脚本可以保证原子性？](../Redis/✅为什么Lua脚本可以保证原子性？.md)
 
 
 

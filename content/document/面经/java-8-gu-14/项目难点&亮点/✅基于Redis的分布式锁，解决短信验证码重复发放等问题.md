@@ -152,19 +152,19 @@ public class SmsService{
 
 
 
-[✅如何用SETNX实现分布式锁？](https://www.yuque.com/hollis666/ec96i7/feovxr7gr8ois5yt)
+[✅如何用SETNX实现分布式锁？](../Redis/✅如何用SETNX实现分布式锁？.md)
 
 
 
-[✅什么是RedLock，他解决了什么问题？](https://www.yuque.com/hollis666/ec96i7/lxzg0ubs2xpvenxw)
+[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
 
 
 
-[如何用Redisson实现分布式锁？](https://www.yuque.com/hollis666/ec96i7/gdsvngueclva39ve)
+[如何用Redisson实现分布式锁？](../Redis/✅如何用Redisson实现分布式锁？.md)
 
 
 
-[✅如何用Zookeeper实现分布式锁？](https://www.yuque.com/hollis666/ec96i7/bdxuqt775i5zo9kz)
+[✅如何用Zookeeper实现分布式锁？](../Zookeeper/✅如何用Zookeeper实现分布式锁？.md)
 
 
 

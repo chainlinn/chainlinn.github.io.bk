@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是最左前缀匹配？为什么要遵守？](https://www.yuque.com/hollis666/ec96i7/cc9mglopp4nigg59)
+[✅什么是最左前缀匹配？为什么要遵守？](../MySQL/✅什么是最左前缀匹配？为什么要遵守？.md)
 
 
 

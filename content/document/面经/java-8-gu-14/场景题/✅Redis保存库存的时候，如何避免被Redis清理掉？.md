@@ -13,7 +13,7 @@ categories:
 
 ****
 
-[✅Redis的内存淘汰策略是怎么样的？](https://www.yuque.com/hollis666/ec96i7/xw99lcraocebx1mk)
+[✅Redis的内存淘汰策略是怎么样的？](../Redis/✅Redis的内存淘汰策略是怎么样的？.md)
 
 
 

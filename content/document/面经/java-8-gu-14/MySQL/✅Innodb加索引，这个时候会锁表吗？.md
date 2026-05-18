@@ -39,7 +39,7 @@ categories:
 ## Online DDL原理
 
 
-[✅什么是OnlineDDL](https://www.yuque.com/hollis666/ec96i7/lwxtmggon7ir4zzz)
+[✅什么是OnlineDDL](../MySQL/✅什么是OnlineDDL.md)
 
 
 

@@ -33,7 +33,7 @@ MySQL是基于磁盘存储的，Redis是基于内存存储的。**而B+树是一
 
 
 
-[✅InnoDB为什么使用B+树实现索引？](https://www.yuque.com/hollis666/ec96i7/uh3cy1)
+[✅InnoDB为什么使用B+树实现索引？](../MySQL/✅InnoDB为什么使用B+树实现索引？.md)
 
 
 
@@ -41,7 +41,7 @@ MySQL是基于磁盘存储的，Redis是基于内存存储的。**而B+树是一
 
 
 
-[✅从B+树的角度分析为什么单表2000万要考虑分表？？](https://www.yuque.com/hollis666/ec96i7/ovg68pfik2vo2eh8)
+[✅从B+树的角度分析为什么单表2000万要考虑分表？？](../场景题/✅从B+树的角度分析为什么单表2000万要考虑分表？？.md)
 
 
 
@@ -53,7 +53,7 @@ MySQL是基于磁盘存储的，Redis是基于内存存储的。**而B+树是一
 
 
 
-[✅Redis中的Zset是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/uzqztzuicddlk95c)
+[✅Redis中的Zset是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
 
 
 

@@ -90,11 +90,11 @@ categories:
 
 
 
-[✅xxl-job 支持分片任务吗？实现原理是什么？](https://www.yuque.com/hollis666/ec96i7/vnzzza8v69078qc1)
+[✅xxl-job 支持分片任务吗？实现原理是什么？](../定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md)
 
 
 
-[✅xxl-job如何保证一任务只会触发一次？](https://www.yuque.com/hollis666/ec96i7/kgrtbyygyu5wnsgx)
+[✅xxl-job如何保证一任务只会触发一次？](../定时任务/✅xxl-job如何保证一任务只会触发一次？.md)
 
 
 
@@ -111,7 +111,7 @@ categories:
 
 他这个是包装的我的数藏项目，具体介绍如下：
 
-[🧣🧣🧣项目实战课介绍&老用户福利](https://www.yuque.com/hollis666/ec96i7/dgolk0cckpb94sia)
+[🧣🧣🧣项目实战课介绍&老用户福利](../📮📮📮必读📮📮📮/🧣🧣🧣项目实战课介绍&老用户福利.md)
 
 
 
@@ -132,15 +132,15 @@ categories:
 
 
 
-[✅MySQL热点数据更新会带来哪些问题？](https://www.yuque.com/hollis666/ec96i7/gccycd2mvmpthq1s)
+[✅MySQL热点数据更新会带来哪些问题？](../场景题/✅MySQL热点数据更新会带来哪些问题？.md)
 
 
 
-[✅MySQL怎么做热点数据高效更新？](https://www.yuque.com/hollis666/ec96i7/rfqcbz190k9egley)
+[✅MySQL怎么做热点数据高效更新？](../MySQL/✅MySQL怎么做热点数据高效更新？.md)
 
 
 
-[✅库存扣减如何避免超卖和少卖？](https://www.yuque.com/hollis666/ec96i7/qpnna44eczny06z7)
+[✅库存扣减如何避免超卖和少卖？](../场景题/✅库存扣减如何避免超卖和少卖？.md)
 
 
 
@@ -161,11 +161,11 @@ categories:
 
 
 
-[✅为什么Lua脚本可以保证原子性？](https://www.yuque.com/hollis666/ec96i7/rwdgnu)
+[✅为什么Lua脚本可以保证原子性？](../Redis/✅为什么Lua脚本可以保证原子性？.md)
 
 
 
-[✅秒杀场景下，怎么加库存？](https://www.yuque.com/hollis666/ec96i7/oo55mmy2x0rw1apg)
+[✅秒杀场景下，怎么加库存？](../场景题/✅秒杀场景下，怎么加库存？.md)
 
 
 
@@ -180,7 +180,7 @@ categories:
 
 
 
-[✅RocketMQ的事务消息是如何实现的？](https://www.yuque.com/hollis666/ec96i7/abxh7z)
+[✅RocketMQ的事务消息是如何实现的？](../RocketMQ/✅RocketMQ的事务消息是如何实现的？.md)
 
 
 
@@ -191,7 +191,7 @@ categories:
 
 
 
-[✅分布式锁有几种实现方式？](https://www.yuque.com/hollis666/ec96i7/fvnr41)
+[✅分布式锁有几种实现方式？](../分布式/✅分布式锁有几种实现方式？.md)
 
 
 
@@ -221,11 +221,11 @@ categories:
 
 
 
-[✅什么是压测，怎么做压测？](https://www.yuque.com/hollis666/ec96i7/wrzi8qgk7ridgslp)
+[✅什么是压测，怎么做压测？](../高可用/✅什么是压测，怎么做压测？.md)
 
 
 
-[✅什么是限流？常见的限流算法有哪些？](https://www.yuque.com/hollis666/ec96i7/aw1zho)
+[✅什么是限流？常见的限流算法有哪些？](../高并发/✅什么是限流？常见的限流算法有哪些？.md)
 
 
 
@@ -236,7 +236,7 @@ categories:
 
 
 
-[✅怎么理解大模型？](https://www.yuque.com/hollis666/ec96i7/xe7gqx3855uxk4il)
+[✅怎么理解大模型？](../AI&大模型/✅怎么理解大模型？.md)
 
 
 

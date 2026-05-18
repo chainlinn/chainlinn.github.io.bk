@@ -76,7 +76,7 @@ public void listen(List<ConsumerRecord<?, ?>> records, Acknowledgment ack) {
 
 
 
-[✅Kafka 中的Offset是什么？](https://www.yuque.com/hollis666/ec96i7/yx8f2vl2ph6vf35k)
+[✅Kafka 中的Offset是什么？](../Kafka/✅Kafka 中的Offset是什么？.md)
 
 
 
@@ -94,5 +94,5 @@ public void listen(List<ConsumerRecord<?, ?>> records, Acknowledgment ack) {
 ### 批量消费如何防止消息丢失
 
 
-[✅Kafka的批量消费如何确保消息不丢？](https://www.yuque.com/hollis666/ec96i7/qkeygw4eg165iks4)
+[✅Kafka的批量消费如何确保消息不丢？](../Kafka/✅Kafka的批量消费如何确保消息不丢？.md)
 

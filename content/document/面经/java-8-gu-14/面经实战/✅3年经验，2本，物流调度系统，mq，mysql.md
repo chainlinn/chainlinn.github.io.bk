@@ -62,7 +62,7 @@ categories:
 
 
 
-[你的项目有哪些难点&亮点？](https://www.yuque.com/hollis666/ec96i7/qnsu1w1s7v0gr7xv)
+[你的项目有哪些难点&亮点？](../项目难点&亮点/你的项目有哪些难点&亮点？.md)
 
 
 
@@ -79,15 +79,15 @@ categories:
 
 
 
-[✅BigDecimal和Long表示金额哪个更合适，怎么选择？](https://www.yuque.com/hollis666/ec96i7/skv2srz4h3786nng)
+[✅BigDecimal和Long表示金额哪个更合适，怎么选择？](../Java基础/✅BigDecimal和Long表示金额哪个更合适，怎么选择？.md)
 
 
 
-[✅订单到期关闭如何实现](https://www.yuque.com/hollis666/ec96i7/tg0ehg)
+[✅订单到期关闭如何实现](../场景题/✅订单到期关闭如何实现.md)
 
 
 
-[✅为什么不建议使用MQ实现订单到期关闭？](https://www.yuque.com/hollis666/ec96i7/mgisesnbgdoirure)
+[✅为什么不建议使用MQ实现订单到期关闭？](../场景题/✅为什么不建议使用MQ实现订单到期关闭？.md)
 
 
 
@@ -98,7 +98,7 @@ categories:
 
 
 
-[✅Leaf生成分布式ID的原理？](https://www.yuque.com/hollis666/ec96i7/hgzes2l7eomfmiqu)
+[✅Leaf生成分布式ID的原理？](../分布式/✅Leaf生成分布式ID的原理？.md)
 
 
 
@@ -109,7 +109,7 @@ categories:
 
 
 
-[✅xxl-job 支持分片任务吗？实现原理是什么？](https://www.yuque.com/hollis666/ec96i7/vnzzza8v69078qc1)
+[✅xxl-job 支持分片任务吗？实现原理是什么？](../定时任务/✅xxl-job 支持分片任务吗？实现原理是什么？.md)
 
 
 
@@ -128,23 +128,23 @@ categories:
 
 
 
-[✅Oracle 和 MySQL 的区别是什么？如何选择？](https://www.yuque.com/hollis666/ec96i7/hrdea48tzqmtizbk)
+[✅Oracle 和 MySQL 的区别是什么？如何选择？](../Oracle/✅Oracle 和 MySQL 的区别是什么？如何选择？.md)
 
 
 
-[✅InnoDB和MyISAM有什么区别？](https://www.yuque.com/hollis666/ec96i7/adeg5m)
+[✅InnoDB和MyISAM有什么区别？](../MySQL/✅InnoDB和MyISAM有什么区别？.md)
 
 
 
-[✅where条件的顺序影响使用索引吗？](https://www.yuque.com/hollis666/ec96i7/nwm3ry85o8l0gega)
+[✅where条件的顺序影响使用索引吗？](../MySQL/✅where条件的顺序影响使用索引吗？.md)
 
 
 
-[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](https://www.yuque.com/hollis666/ec96i7/dx1cqgsrebkvdixc)
+[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](../MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md)
 
 
 
-[✅limit 0,100和limit 10000000,100一样吗？](https://www.yuque.com/hollis666/ec96i7/gtpc5u4i7xmy13el)
+[✅limit 0,100和limit 10000000,100一样吗？](../MySQL/✅limit 0,100和limit 10000000,100一样吗？.md)
 
 
 
@@ -157,11 +157,11 @@ categories:
 
 
 
-[✅hash冲突通常怎么解决？](https://www.yuque.com/hollis666/ec96i7/pogt662wy87z24dr)
+[✅hash冲突通常怎么解决？](../集合类/✅hash冲突通常怎么解决？.md)
 
 
 
-[✅Java 8中的Stream用过吗？都能干什么？](https://www.yuque.com/hollis666/ec96i7/igsnmo)
+[✅Java 8中的Stream用过吗？都能干什么？](../集合类/✅Java 8中的Stream用过吗？都能干什么？.md)
 
 
 
@@ -172,7 +172,7 @@ categories:
 
 
 
-[✅Spring中用到了哪些设计模式](https://www.yuque.com/hollis666/ec96i7/kirdzq)
+[✅Spring中用到了哪些设计模式](../Spring/✅Spring中用到了哪些设计模式.md)
 
 
 

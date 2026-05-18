@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅什么是QPS，什么是RT？](https://www.yuque.com/hollis666/ec96i7/hr5913)
+[✅什么是QPS，什么是RT？](../高性能/✅什么是QPS，什么是RT？.md)
 
 
 

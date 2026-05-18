@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅介绍一下Spring的AOP](https://www.yuque.com/hollis666/ec96i7/nget4r5wl2imegi7)
+[✅介绍一下Spring的AOP](../Spring/✅介绍一下Spring的AOP.md)
 
 
 

@@ -7,7 +7,7 @@ categories:
 ---
 
 # 典型回答
-[✅SQL执行计划分析的时候，要关注哪些信息？](https://www.yuque.com/hollis666/ec96i7/fho0bamf4qpcril5)
+[✅SQL执行计划分析的时候，要关注哪些信息？](../MySQL/✅SQL执行计划分析的时候，要关注哪些信息？.md)
 
 
 

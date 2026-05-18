@@ -68,5 +68,5 @@ GEORADIUS locations 15 37 100 km WITHDIST
 ## Redis GEO实现查找附近的人
 ****
 
-[✅如何实现"查找附近的人"功能？](https://www.yuque.com/hollis666/ec96i7/ow77mcr961n4z7mg)
+[✅如何实现"查找附近的人"功能？](../场景题/✅如何实现"查找附近的人"功能？.md)
 

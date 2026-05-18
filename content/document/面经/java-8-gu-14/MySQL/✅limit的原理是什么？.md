@@ -20,7 +20,7 @@ SELECT * FROM users LIMIT 10, 20; -- 第 11 行开始，返回 20 行数据。
 
 
 
-[✅一个查询语句的执行顺序是怎么样的？](https://www.yuque.com/hollis666/ec96i7/ihsu18bwvr9csnzu)
+[✅一个查询语句的执行顺序是怎么样的？](../MySQL/✅一个查询语句的执行顺序是怎么样的？.md)
 
 
 
@@ -35,7 +35,7 @@ SELECT * FROM users LIMIT 10, 20; -- 第 11 行开始，返回 20 行数据。
 
 
 
-[✅limit 0,100和limit 10000000,100一样吗？](https://www.yuque.com/hollis666/ec96i7/gtpc5u4i7xmy13el)
+[✅limit 0,100和limit 10000000,100一样吗？](../MySQL/✅limit 0,100和limit 10000000,100一样吗？.md)
 
 
 

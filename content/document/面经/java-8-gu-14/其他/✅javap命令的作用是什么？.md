@@ -13,7 +13,7 @@ javap是jdk自带的一个工具，可以对代码反编译，也可以查看jav
 
 
 
-[✅什么是编译和反编译？](https://www.yuque.com/hollis666/ec96i7/gpd672xz0sx2qyyh)
+[✅什么是编译和反编译？](../JVM/✅什么是编译和反编译？.md)
 
 
 

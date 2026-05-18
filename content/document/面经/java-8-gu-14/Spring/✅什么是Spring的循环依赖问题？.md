@@ -46,7 +46,7 @@ public class ServiceB{
 
 ****
 
-[✅什么是Spring的三级缓存](https://www.yuque.com/hollis666/ec96i7/ilmdn79lc0ba2f4t)
+[✅什么是Spring的三级缓存](../Spring/✅什么是Spring的三级缓存.md)
 
 ****
 
@@ -148,5 +148,5 @@ public class ClassB {
 
 
 
-[✅@Lazy注解能解决循环依赖吗？](https://www.yuque.com/hollis666/ec96i7/vxnlsuitmu61amyq)
+[✅@Lazy注解能解决循环依赖吗？](../Spring/✅@Lazy注解能解决循环依赖吗？.md)
 

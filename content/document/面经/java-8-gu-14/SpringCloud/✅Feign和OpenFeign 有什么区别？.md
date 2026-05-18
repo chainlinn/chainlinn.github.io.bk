@@ -21,7 +21,7 @@ OpenFeign是 **Spring Cloud** 团队对Feign的封装与扩展，它增强了Fei
 
 
 
-[✅OpenFeign 不支持了怎么办？](https://www.yuque.com/hollis666/ec96i7/itmcpq5517975ttq)
+[✅OpenFeign 不支持了怎么办？](../SpringCloud/✅OpenFeign 不支持了怎么办？.md)
 
 
 

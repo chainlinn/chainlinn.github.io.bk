@@ -37,7 +37,7 @@ MQ的消息有推和拉两种模式，如果是那种推的模式，会在上游
 
 
 ## 推&拉
-[✅RocketMQ的消息是推还是拉？](https://www.yuque.com/hollis666/ec96i7/bzhy0q)
+[✅RocketMQ的消息是推还是拉？](../RocketMQ/✅RocketMQ的消息是推还是拉？.md)
 
 
 

@@ -15,7 +15,7 @@ categories:
 
 具体选择索引会看那些信息参考：
 
-[✅为什么MySQL会选错索引，如何解决？](https://www.yuque.com/hollis666/ec96i7/ghy5i20ie717exee)
+[✅为什么MySQL会选错索引，如何解决？](../MySQL/✅为什么MySQL会选错索引，如何解决？.md)
 
 
 
@@ -23,7 +23,7 @@ categories:
 
 
 
-[✅索引失效的问题是如何排查的，有那些种情况？](https://www.yuque.com/hollis666/ec96i7/sgkrtodriyoliden)
+[✅索引失效的问题是如何排查的，有那些种情况？](../MySQL/✅索引失效的问题是如何排查的，有那些种情况？.md)
 
 
 
@@ -35,5 +35,5 @@ categories:
 
 ****
 
-[✅什么是索引合并，原理是什么？](https://www.yuque.com/hollis666/ec96i7/cn34kd6tlw54ulmi)
+[✅什么是索引合并，原理是什么？](../MySQL/✅什么是索引合并，原理是什么？.md)
 

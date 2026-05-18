@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅什么是双亲委派？如何破坏？](https://www.yuque.com/hollis666/ec96i7/gt8zp4)
+[✅什么是双亲委派？如何破坏？](../JVM/✅什么是双亲委派？如何破坏？.md)
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅JDK1.8和1.9中类加载器有哪些不同](https://www.yuque.com/hollis666/ec96i7/mla5wg5f3xwifa1d)
+[✅JDK1.8和1.9中类加载器有哪些不同](../JVM/✅JDK1.8和1.9中类加载器有哪些不同.md)
 
 
 
@@ -41,7 +41,7 @@ categories:
 
 ****
 
-[✅什么是fat jar？](https://www.yuque.com/hollis666/ec96i7/fxyiyg6l43egwe93)
+[✅什么是fat jar？](../Maven&Git/✅什么是fat jar？.md)
 
 **  **
 

@@ -22,7 +22,7 @@ categories:
 
 
 
-[✅Cookie，Session，Token的区别是什么？](https://www.yuque.com/hollis666/ec96i7/chxc9y)
+[✅Cookie，Session，Token的区别是什么？](../计算机网络/✅Cookie，Session，Token的区别是什么？.md)
 
 
 
@@ -55,11 +55,11 @@ categories:
 
 关于分布式Session（共享Session），我们有多篇文章讲到过，这里就不在重复介绍了
 
-[✅怎么实现分布式Session？](https://www.yuque.com/hollis666/ec96i7/xbgu80vgxnhhb438)
+[✅怎么实现分布式Session？](../分布式/✅怎么实现分布式Session？.md)
 
 
 
-[✅分布式系统，用户登录信息保存在服务器A上，服务器B如何获取到共享Session](https://www.yuque.com/hollis666/ec96i7/ggzx17g775wy6fye)
+[✅分布式系统，用户登录信息保存在服务器A上，服务器B如何获取到共享Session](../场景题/✅分布式系统，用户登录信息保存在服务器A上，服务器B如何获取到共享Session.md)
 
 
 
@@ -105,7 +105,7 @@ categories:
 
 
 
-[✅什么是OAuth2？有什么用？](https://www.yuque.com/hollis666/ec96i7/eahqdb14h64qx7qd)
+[✅什么是OAuth2？有什么用？](../分布式/✅什么是OAuth2？有什么用？.md)
 
 
 

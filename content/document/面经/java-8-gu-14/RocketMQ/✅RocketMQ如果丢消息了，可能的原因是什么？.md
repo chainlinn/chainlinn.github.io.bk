@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅RocketMQ如何保证消息不丢失？](https://www.yuque.com/hollis666/ec96i7/txw2gxr6utxggu60)
+[✅RocketMQ如何保证消息不丢失？](../RocketMQ/✅RocketMQ如何保证消息不丢失？.md)
 
 
 

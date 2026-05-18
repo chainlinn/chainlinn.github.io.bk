@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](https://www.yuque.com/hollis666/ec96i7/dx1cqgsrebkvdixc)
+[✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？](../MySQL/✅A,B,C的联合索引，按照 AB,AC,BC查询，能走索引吗？.md)
 
 
 

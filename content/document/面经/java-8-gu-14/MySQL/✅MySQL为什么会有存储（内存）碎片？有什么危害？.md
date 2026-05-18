@@ -89,5 +89,5 @@ MySQL中的数据库表会存在物理存储碎片，这种情况通常发生在
 ## 如何清理碎片
 
 
-[✅什么是MySQL的内存碎片？如何清理？](https://www.yuque.com/hollis666/ec96i7/fa27eoa3hcl1qzr8)
+[✅什么是MySQL的内存碎片？如何清理？](../MySQL/✅什么是MySQL的内存碎片？如何清理？.md)
 

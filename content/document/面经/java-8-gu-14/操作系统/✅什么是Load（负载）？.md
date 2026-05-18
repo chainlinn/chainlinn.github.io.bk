@@ -260,5 +260,5 @@ at com.hollis.test.util.BeanValidator.validate(BeanValidator.java:30)
 ## 真实排查过程
 
 
-[✅Load飙高问题排查过程](https://www.yuque.com/hollis666/ec96i7/uq7bul)
+[✅Load飙高问题排查过程](../线上问题排查/✅Load飙高问题排查过程.md)
 

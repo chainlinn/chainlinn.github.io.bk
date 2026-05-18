@@ -86,11 +86,11 @@ categories:
 
 
 
-[✅Spring Event和MQ有什么区别？各自适用场景是什么？](https://www.yuque.com/hollis666/ec96i7/eugy3gggbymf6gp3)
+[✅Spring Event和MQ有什么区别？各自适用场景是什么？](../场景题/✅Spring Event和MQ有什么区别？各自适用场景是什么？.md)
 
 
 
-[✅在Spring中如何使用Spring Event做事件驱动](https://www.yuque.com/hollis666/ec96i7/lgs78ulq6l3cg1qk)
+[✅在Spring中如何使用Spring Event做事件驱动](../Spring/✅在Spring中如何使用Spring Event做事件驱动.md)
 
 
 
@@ -105,11 +105,11 @@ categories:
 
 
 
-[✅Kafka如何保证消息不丢失？](https://www.yuque.com/hollis666/ec96i7/imx4a7z8zq65erlo)
+[✅Kafka如何保证消息不丢失？](../Kafka/✅Kafka如何保证消息不丢失？.md)
 
 
 
-[✅为了避免丢消息问题需要落表，如何设计这张消息表？](https://www.yuque.com/hollis666/ec96i7/iw138sersv6ocx6u)
+[✅为了避免丢消息问题需要落表，如何设计这张消息表？](../场景题/✅为了避免丢消息问题需要落表，如何设计这张消息表？.md)
 
 
 
@@ -122,7 +122,7 @@ categories:
 
 
 
-[✅区分度不高的字段建索引一定没用吗？](https://www.yuque.com/hollis666/ec96i7/nr83t255g22gu3v7)
+[✅区分度不高的字段建索引一定没用吗？](../MySQL/✅区分度不高的字段建索引一定没用吗？.md)
 
 
 
@@ -135,7 +135,7 @@ categories:
 
 
 
-[✅策略模式和if-else相比有什么好处？](https://www.yuque.com/hollis666/ec96i7/elzv4u)
+[✅策略模式和if-else相比有什么好处？](../设计模式/✅策略模式和if-else相比有什么好处？.md)
 
 
 
@@ -150,11 +150,11 @@ categories:
 
 
 
-[✅什么是Kafka的重平衡机制？](https://www.yuque.com/hollis666/ec96i7/rqzepcxvq2a1w2e9)
+[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
 
 
 
-[✅什么是Kafka的渐进式重平衡？](https://www.yuque.com/hollis666/ec96i7/kpvazhtr1ukqoyx7)
+[✅什么是Kafka的渐进式重平衡？](../Kafka/✅什么是Kafka的渐进式重平衡？.md)
 
 
 
@@ -167,7 +167,7 @@ categories:
 
 
 
-[✅Redis为什么被设计成是单线程的？](https://www.yuque.com/hollis666/ec96i7/og6nf4)
+[✅Redis为什么被设计成是单线程的？](../Redis/✅Redis为什么被设计成是单线程的？.md)
 
 
 
@@ -180,7 +180,7 @@ categories:
 
 
 
-[✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？](https://www.yuque.com/hollis666/ec96i7/gyz59h)
+[✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？](../Java基础/✅SimpleDateFormat是线程安全的吗？使用时应该注意什么？.md)
 
 
 
@@ -197,11 +197,11 @@ categories:
 
 
 
-[✅Spring Bean的生命周期是怎么样的？](https://www.yuque.com/hollis666/ec96i7/gpl60ga0c996vmw3)
+[✅Spring Bean的生命周期是怎么样的？](../Spring/✅Spring Bean的生命周期是怎么样的？.md)
 
 
 
-[✅Spring Bean的初始化过程是怎么样的？](https://www.yuque.com/hollis666/ec96i7/zlvhpz)
+[✅Spring Bean的初始化过程是怎么样的？](../Spring/✅Spring Bean的初始化过程是怎么样的？.md)
 
 
 
@@ -214,15 +214,15 @@ categories:
 
 
 
-[✅Spring 6.0和SpringBoot 3.0有什么新特性？](https://www.yuque.com/hollis666/ec96i7/gvwpq6q0h4ixd9g1)
+[✅Spring 6.0和SpringBoot 3.0有什么新特性？](../Spring/✅Spring 6.0和SpringBoot 3.0有什么新特性？.md)
 
 
 
-[✅如何自定义一个starter？](https://www.yuque.com/hollis666/ec96i7/sn0vo662fz3r7aux)
+[✅如何自定义一个starter？](../Spring/✅如何自定义一个starter？.md)
 
 
 
-[✅如何根据配置动态生成Spring的Bean？](https://www.yuque.com/hollis666/ec96i7/ptv9g0c665boyd5g)
+[✅如何根据配置动态生成Spring的Bean？](../Spring/✅如何根据配置动态生成Spring的Bean？.md)
 
 
 
@@ -235,11 +235,11 @@ categories:
 
 
 
-[✅Spring中的事务事件如何使用？](https://www.yuque.com/hollis666/ec96i7/wleqh7dyg2c20uqq)
+[✅Spring中的事务事件如何使用？](../Spring/✅Spring中的事务事件如何使用？.md)
 
 
 
-[✅Spring事务失效可能是哪些原因？](https://www.yuque.com/hollis666/ec96i7/bz0tulziboigw24b)
+[✅Spring事务失效可能是哪些原因？](../Spring/✅Spring事务失效可能是哪些原因？.md)
 
 
 
@@ -252,11 +252,11 @@ categories:
 
 
 
-[✅ThreadLocal的应用场景有哪些？](https://www.yuque.com/hollis666/ec96i7/bpm9cgs19qwlgc1k)
+[✅ThreadLocal的应用场景有哪些？](../Java并发/✅ThreadLocal的应用场景有哪些？.md)
 
 
 
-[✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？](https://www.yuque.com/hollis666/ec96i7/fucuuyqoqv8rdkpr)
+[✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？](../Java并发/✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？.md)
 
 
 
@@ -269,11 +269,11 @@ categories:
 
 
 
-[✅JDK新版本中都有哪些新特性？](https://www.yuque.com/hollis666/ec96i7/htgm9p3vbpx85p6n)
+[✅JDK新版本中都有哪些新特性？](../Java基础/✅JDK新版本中都有哪些新特性？.md)
 
-[✅JDK21 中的虚拟线程是怎么回事？](https://www.yuque.com/hollis666/ec96i7/ac1a0q)
+[✅JDK21 中的虚拟线程是怎么回事？](../Java并发/✅JDK21 中的虚拟线程是怎么回事？.md)
 
 
 
-[✅假设还有很多内存，有什么情况还会频繁fullgc？](https://www.yuque.com/hollis666/ec96i7/su3bwvxsop67g8oq)
+[✅假设还有很多内存，有什么情况还会频繁fullgc？](../场景题/✅假设还有很多内存，有什么情况还会频繁fullgc？.md)
 

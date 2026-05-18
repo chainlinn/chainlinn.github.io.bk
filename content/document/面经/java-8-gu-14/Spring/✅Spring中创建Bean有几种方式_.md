@@ -27,7 +27,7 @@ Spring 中提供了很多注解，可以直接把一个类的实例定义成 Bea
 
 
 
-[✅Spring中@Service 、@Component、@Repository等注解区别是什么？](https://www.yuque.com/hollis666/ec96i7/twxw1ws403puq2zl)
+[✅Spring中@Service 、@Component、@Repository等注解区别是什么？](../Spring/✅Spring中@Service 、@Component、@Repository等注解区别是什么？.md)
 
 
 
@@ -81,7 +81,7 @@ public class HollisRepository {
 
 
 
-[✅如何自定义一个starter？](https://www.yuque.com/hollis666/ec96i7/sn0vo662fz3r7aux)
+[✅如何自定义一个starter？](../Spring/✅如何自定义一个starter？.md)
 
 
 

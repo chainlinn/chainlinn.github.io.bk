@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redis的持久化机制是怎样的？](https://www.yuque.com/hollis666/ec96i7/zc5q70)
+[✅Redis的持久化机制是怎样的？](../Redis/✅Redis的持久化机制是怎样的？.md)
 
 
 

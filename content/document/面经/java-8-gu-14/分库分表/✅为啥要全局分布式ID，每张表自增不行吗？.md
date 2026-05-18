@@ -25,5 +25,5 @@ categories:
 
 
 
-[✅分表后全局ID如何生成？](https://www.yuque.com/hollis666/ec96i7/glyv4twwk6bfs6dr)
+[✅分表后全局ID如何生成？](../分库分表/✅分表后全局ID如何生成？.md)
 

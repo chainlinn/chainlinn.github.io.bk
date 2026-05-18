@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅为什么不能用浮点数表示金额？](https://www.yuque.com/hollis666/ec96i7/vmrkz84g8c6ypu5s)
+[✅为什么不能用浮点数表示金额？](../Java基础/✅为什么不能用浮点数表示金额？.md)
 
 
 

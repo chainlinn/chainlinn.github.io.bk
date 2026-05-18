@@ -72,7 +72,7 @@ ps aux|grep java | grep --color Xmx
 
 2. **kill**<font style="color:rgb(55, 65, 81);">：杀死进程，慎用，尤其是在生产环境中，尤其是kill -9。</font>
 
-[✅对JDK进程执行kill -9有什么影响？](https://www.yuque.com/hollis666/ec96i7/kmlq81)
+[✅对JDK进程执行kill -9有什么影响？](../JVM/✅对JDK进程执行kill -9有什么影响？.md)
 
 
 

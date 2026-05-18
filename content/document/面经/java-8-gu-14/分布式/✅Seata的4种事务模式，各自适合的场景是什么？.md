@@ -6,7 +6,7 @@ categories:
   - 分布式
 ---
 
-[✅Seata的实现原理是什么](https://www.yuque.com/hollis666/ec96i7/qro9fl9lsiinx1tu)
+[✅Seata的实现原理是什么](../分布式/✅Seata的实现原理是什么.md)
 
 
 
@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅Seata的AT模式的实现原理](https://www.yuque.com/hollis666/ec96i7/me3ge4vavi0fokgq)
+[✅Seata的AT模式的实现原理](../分布式/✅Seata的AT模式的实现原理.md)
 
 
 
@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅什么是TCC，和2PC有什么区别？](https://www.yuque.com/hollis666/ec96i7/xhvbak3ouy6xqiml)
+[✅什么是TCC，和2PC有什么区别？](../分布式/✅什么是TCC，和2PC有什么区别？.md)
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅Seata的AT模式和XA有什么区别？](https://www.yuque.com/hollis666/ec96i7/fzd9nmraf5krr4m0)
+[✅Seata的AT模式和XA有什么区别？](../分布式/✅Seata的AT模式和XA有什么区别？.md)
 
 
 

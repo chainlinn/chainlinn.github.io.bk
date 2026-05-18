@@ -27,7 +27,7 @@ categories:
 
 
 
-[✅如何自定义一个starter？](https://www.yuque.com/hollis666/ec96i7/sn0vo662fz3r7aux)
+[✅如何自定义一个starter？](../Spring/✅如何自定义一个starter？.md)
 
 
 
@@ -56,7 +56,7 @@ categories:
 
 
 
-[✅Spring 6.0和SpringBoot 3.0有什么新特性？](https://www.yuque.com/hollis666/ec96i7/gvwpq6q0h4ixd9g1)
+[✅Spring 6.0和SpringBoot 3.0有什么新特性？](../Spring/✅Spring 6.0和SpringBoot 3.0有什么新特性？.md)
 
 
 

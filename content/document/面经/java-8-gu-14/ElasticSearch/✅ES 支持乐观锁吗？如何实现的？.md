@@ -89,7 +89,7 @@ POST /products/_doc/1?if_seq_no=312&if_primary_term=2
 
 
 
-[✅什么是脑裂？如何解决？](https://www.yuque.com/hollis666/ec96i7/xuxwgui3f8ti2a0y)
+[✅什么是脑裂？如何解决？](../Zookeeper/✅什么是脑裂？如何解决？.md)
 
 
 

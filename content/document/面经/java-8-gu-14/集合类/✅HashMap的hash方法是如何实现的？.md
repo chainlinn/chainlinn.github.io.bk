@@ -115,7 +115,7 @@ static final int hash(Object key) {
 
 
 
-[✅为什么HashMap的Cap是2^n，如何保证？](https://www.yuque.com/hollis666/ec96i7/ud3e99)
+[✅为什么HashMap的Cap是2^n，如何保证？](../集合类/✅为什么HashMap的Cap是2^n，如何保证？.md)
 
 
 
@@ -123,7 +123,7 @@ static final int hash(Object key) {
 
 
 
-[✅为什么按位与运算要比取模运算高效？](https://www.yuque.com/hollis666/ec96i7/rgo8x0s28bgg46kd)
+[✅为什么按位与运算要比取模运算高效？](../操作系统/✅为什么按位与运算要比取模运算高效？.md)
 
 
 

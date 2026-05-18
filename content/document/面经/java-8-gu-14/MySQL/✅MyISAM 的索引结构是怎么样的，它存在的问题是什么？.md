@@ -19,7 +19,7 @@ categories:
 
 
 
-[✅什么是聚簇索引和非聚簇索引？](https://www.yuque.com/hollis666/ec96i7/le8gbo472cpxv63z)
+[✅什么是聚簇索引和非聚簇索引？](../MySQL/✅什么是聚簇索引和非聚簇索引？.md)
 
 
 

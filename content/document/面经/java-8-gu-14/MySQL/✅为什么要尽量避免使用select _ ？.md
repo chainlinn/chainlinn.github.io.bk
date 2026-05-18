@@ -25,7 +25,7 @@ categories:
 
 
 
-[✅什么是索引覆盖、索引下推？](https://www.yuque.com/hollis666/ec96i7/gpg6mivy21wg0r55)
+[✅什么是索引覆盖、索引下推？](../MySQL/✅什么是索引覆盖、索引下推？.md)
 
 
 
@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅为什么MySQL 8.0要取消查询缓存？](https://www.yuque.com/hollis666/ec96i7/wuzidroy4wl3xag9)
+[✅为什么MySQL 8.0要取消查询缓存？](../MySQL/✅为什么MySQL 8.0要取消查询缓存？.md)
 
 
 

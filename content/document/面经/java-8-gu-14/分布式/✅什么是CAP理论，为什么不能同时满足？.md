@@ -38,7 +38,7 @@ CAP理论：一个分布式系统最多只能同时满足一致性（Consistency
 ## 一致性模型
 
 
-[✅什么是分布式系统的一致性？](https://www.yuque.com/hollis666/ec96i7/ywhzkoqti2n6zh6g)
+[✅什么是分布式系统的一致性？](../分布式/✅什么是分布式系统的一致性？.md)
 
 <font style="color:rgb(85, 85, 85);"></font>
 
@@ -50,7 +50,7 @@ CAP理论：一个分布式系统最多只能同时满足一致性（Consistency
 
 <font style="color:rgb(85, 85, 85);"></font>
 
-[✅Zookeeper是CP的还是AP的？](https://www.yuque.com/hollis666/ec96i7/lxznb86av97adwt6)
+[✅Zookeeper是CP的还是AP的？](../Zookeeper/✅Zookeeper是CP的还是AP的？.md)
 
 <font style="color:rgb(85, 85, 85);"></font>
 
@@ -160,7 +160,7 @@ CAP理论：一个分布式系统最多只能同时满足一致性（Consistency
 
 
 
-[✅MySQL是AP的还是CP的系统？](https://www.yuque.com/hollis666/ec96i7/xqpwxtsw21p4933v)
+[✅MySQL是AP的还是CP的系统？](../MySQL/✅MySQL是AP的还是CP的系统？.md)
 
 
 

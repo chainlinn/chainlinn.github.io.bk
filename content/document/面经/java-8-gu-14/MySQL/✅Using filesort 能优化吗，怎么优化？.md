@@ -31,7 +31,7 @@ categories:
 
 
 
-[✅order by 是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/caou56)
+[✅order by 是怎么实现的？](../MySQL/✅order by 是怎么实现的？.md)
 
 
 
@@ -84,5 +84,5 @@ categories:
 ## filesort优化实战
 
 
-[✅Sort aborted问题排查过程](https://www.yuque.com/hollis666/ec96i7/sox6oiog8m4xqtli)
+[✅Sort aborted问题排查过程](../线上问题排查/✅Sort aborted问题排查过程.md)
 

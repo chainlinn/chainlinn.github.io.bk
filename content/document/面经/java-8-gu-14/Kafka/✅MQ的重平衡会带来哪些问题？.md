@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅什么是Kafka的重平衡机制？](https://www.yuque.com/hollis666/ec96i7/rqzepcxvq2a1w2e9)
+[✅什么是Kafka的重平衡机制？](../Kafka/✅什么是Kafka的重平衡机制？.md)
 
 
 
-[✅RocketMQ和Kafka一样有重平衡的问题吗？](https://www.yuque.com/hollis666/ec96i7/nq5v40p6kn1ugg1z)
+[✅RocketMQ和Kafka一样有重平衡的问题吗？](../RocketMQ/✅RocketMQ和Kafka一样有重平衡的问题吗？.md)
 
 
 

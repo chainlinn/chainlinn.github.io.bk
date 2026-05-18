@@ -74,7 +74,7 @@ public void recover(SQLException e) {
 
 
 
-[✅Spring 7 和Spring Boot 4 都有哪些新特性？](https://www.yuque.com/hollis666/ec96i7/laf96d7hlyaoe5wh)
+[✅Spring 7 和Spring Boot 4 都有哪些新特性？](../Spring/✅Spring 7 和Spring Boot 4 都有哪些新特性？.md)
 
 
 

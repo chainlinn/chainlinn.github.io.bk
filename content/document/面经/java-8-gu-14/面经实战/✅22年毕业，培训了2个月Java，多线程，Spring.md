@@ -66,11 +66,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅如何理解面向对象和面向过程？](https://www.yuque.com/hollis666/ec96i7/sy3eyr)
+[✅如何理解面向对象和面向过程？](../Java基础/✅如何理解面向对象和面向过程？.md)
 
 
 
-[✅Java是值传递还是引用传递？](https://www.yuque.com/hollis666/ec96i7/lbdoqe)
+[✅Java是值传递还是引用传递？](../Java基础/✅Java是值传递还是引用传递？.md)
 
 
 
@@ -83,7 +83,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅如何理解AQS？](https://www.yuque.com/hollis666/ec96i7/qka9yt)
+[✅如何理解AQS？](../Java并发/✅如何理解AQS？.md)
 
 
 
@@ -96,11 +96,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅synchronized和reentrantLock区别？](https://www.yuque.com/hollis666/ec96i7/bitupp)
+[✅synchronized和reentrantLock区别？](../Java并发/✅synchronized和reentrantLock区别？.md)
 
 
 
-[✅公平锁和非公平锁的区别？](https://www.yuque.com/hollis666/ec96i7/bnt978)
+[✅公平锁和非公平锁的区别？](../Java并发/✅公平锁和非公平锁的区别？.md)
 
 
 
@@ -111,7 +111,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅synchronized锁的是什么？](https://www.yuque.com/hollis666/ec96i7/xpwgigmu7xz4uvzn)
+[✅synchronized锁的是什么？](../Java并发/✅synchronized锁的是什么？.md)
 
 
 
@@ -122,11 +122,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅什么是可重入锁，怎么实现可重入锁？](https://www.yuque.com/hollis666/ec96i7/zvx2w5h9sr7trle7)
+[✅什么是可重入锁，怎么实现可重入锁？](../Java并发/✅什么是可重入锁，怎么实现可重入锁？.md)
 
 
 
-[✅什么是死锁，如何解决？](https://www.yuque.com/hollis666/ec96i7/mtdxsd)
+[✅什么是死锁，如何解决？](../Java并发/✅什么是死锁，如何解决？.md)
 
 
 
@@ -139,15 +139,15 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅创建线程有几种方式？](https://www.yuque.com/hollis666/ec96i7/gmgb2a)
+[✅创建线程有几种方式？](../Java并发/✅创建线程有几种方式？.md)
 
 
 
-[✅run/start、wait/sleep、notify/notifyAll区别?](https://www.yuque.com/hollis666/ec96i7/bw9p42)
+[✅run/start、wait/sleep、notify/notifyAll区别?](../Java并发/✅run/start、wait/sleep、notify/notifyAll区别？.md)
 
 
 
-[✅为什么不能在try-catch中捕获子线程的异常?](https://www.yuque.com/hollis666/ec96i7/dtci5npzb1cidzxk)
+[✅为什么不能在try-catch中捕获子线程的异常?](../Java并发/✅为什么不能在try-catch中捕获子线程的异常_.md)
 
 
 
@@ -168,11 +168,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅如何统计一个Bean中的方法调用次数](https://www.yuque.com/hollis666/ec96i7/mnnadn)
+[✅如何统计一个Bean中的方法调用次数](../Spring/✅如何统计一个Bean中的方法调用次数.md)
 
 
 
-[✅Spring中@Service 、@Component、@Repository等注解区别是什么？](https://www.yuque.com/hollis666/ec96i7/twxw1ws403puq2zl)
+[✅Spring中@Service 、@Component、@Repository等注解区别是什么？](../Spring/✅Spring中@Service 、@Component、@Repository等注解区别是什么？.md)
 
 
 
@@ -189,11 +189,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅介绍一下Spring的IOC](https://www.yuque.com/hollis666/ec96i7/wswp59)
+[✅介绍一下Spring的IOC](../Spring/✅介绍一下Spring的IOC.md)
 
 
 
-[✅为什么Spring不建议使用基于字段的依赖注入？](https://www.yuque.com/hollis666/ec96i7/lbst9ffoy74od6kr)
+[✅为什么Spring不建议使用基于字段的依赖注入？](../Spring/✅为什么Spring不建议使用基于字段的依赖注入？.md)
 
 
 
@@ -204,7 +204,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅SpringBoot和Spring的区别是什么？](https://www.yuque.com/hollis666/ec96i7/meyfwphs8t6c3znd)
+[✅SpringBoot和Spring的区别是什么？](../Spring/✅SpringBoot和Spring的区别是什么？.md)
 
 
 
@@ -215,11 +215,11 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅三级缓存是如何解决循环依赖的问题的？](https://www.yuque.com/hollis666/ec96i7/ffk7dlcrwk35glpl)
+[✅三级缓存是如何解决循环依赖的问题的？](../Spring/✅三级缓存是如何解决循环依赖的问题的？.md)
 
 
 
-[✅Spring解决循环依赖一定需要三级缓存吗？](https://www.yuque.com/hollis666/ec96i7/edvhrik3pbw300os)
+[✅Spring解决循环依赖一定需要三级缓存吗？](../Spring/✅Spring解决循环依赖一定需要三级缓存吗？.md)
 
 
 
@@ -232,7 +232,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅MySQL的主键一定是自增的吗？](https://www.yuque.com/hollis666/ec96i7/glycgnryk8953c24)
+[✅MySQL的主键一定是自增的吗？](../MySQL/✅MySQL的主键一定是自增的吗？.md)
 
 
 
@@ -243,7 +243,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅uuid和自增id做主键哪个好，为什么？](https://www.yuque.com/hollis666/ec96i7/uted9tvkngs62pmu)
+[✅uuid和自增id做主键哪个好，为什么？](../MySQL/✅uuid和自增id做主键哪个好，为什么？.md)
 
 
 
@@ -254,7 +254,7 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅分表字段如何选择？](https://www.yuque.com/hollis666/ec96i7/mec4ust5rpfob78r)
+[✅分表字段如何选择？](../分库分表/✅分表字段如何选择？.md)
 
 
 
@@ -267,9 +267,9 @@ Maven出现了jar冲突，该怎么解决？删一个，
 
 
 
-[✅为什么不能直接使用Log4j、Logback中的 API？](https://www.yuque.com/hollis666/ec96i7/tai6nceh3x9qf8m6)
+[✅为什么不能直接使用Log4j、Logback中的 API？](../日志/✅为什么不能直接使用Log4j、Logback中的 API？.md)
 
 
 
-[✅Maven如何解决jar包冲突的问题？](https://www.yuque.com/hollis666/ec96i7/vkkiva)
+[✅Maven如何解决jar包冲突的问题？](../Maven&Git/✅Maven如何解决jar包冲突的问题？.md)
 

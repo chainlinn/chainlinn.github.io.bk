@@ -36,7 +36,7 @@ RabbitMQ的死信队列其实有很多作用，比如我们可以借助他实现
 
 
 
-[✅rabbitMQ如何实现延迟消息？](https://www.yuque.com/hollis666/ec96i7/lllwvk)
+[✅rabbitMQ如何实现延迟消息？](../RabbitMQ/✅rabbitMQ如何实现延迟消息？.md)
 
 
 

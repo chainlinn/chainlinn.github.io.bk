@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅高并发情况下自增主键会不会重复，为什么？](https://www.yuque.com/hollis666/ec96i7/oxdeyunw5v65gqen)
+[✅高并发情况下自增主键会不会重复，为什么？](../MySQL/✅高并发情况下自增主键会不会重复，为什么？.md)
 
 
 

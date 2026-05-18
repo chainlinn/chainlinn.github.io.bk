@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅分表算法都有哪些？](https://www.yuque.com/hollis666/ec96i7/anpg4kfcb8p7egag)
+[✅分表算法都有哪些？](../分库分表/✅分表算法都有哪些？.md)
 
 
 
@@ -67,7 +67,7 @@ ShardingJDBC目前提供5种分片策略。包括了：
 
 
 
-[✅分表字段如何选择？](https://www.yuque.com/hollis666/ec96i7/mec4ust5rpfob78r)
+[✅分表字段如何选择？](../分库分表/✅分表字段如何选择？.md)
 
 
 

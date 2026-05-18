@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅RocketMQ的消息是推还是拉？](https://www.yuque.com/hollis666/ec96i7/bzhy0q)
+[✅RocketMQ的消息是推还是拉？](../RocketMQ/✅RocketMQ的消息是推还是拉？.md)
 
 
 

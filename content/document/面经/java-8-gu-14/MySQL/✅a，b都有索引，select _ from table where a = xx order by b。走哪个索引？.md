@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅为什么MySQL会选错索引，如何解决？](https://www.yuque.com/hollis666/ec96i7/ghy5i20ie717exee)
+[✅为什么MySQL会选错索引，如何解决？](../MySQL/✅为什么MySQL会选错索引，如何解决？.md)
 
 
 

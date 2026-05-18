@@ -24,7 +24,7 @@ categories:
 
 HashMap的数据结构详细的请参考：
 
-[✅HashMap的数据结构是怎样的？](https://www.yuque.com/hollis666/ec96i7/klz889cad0dpv2am)
+[✅HashMap的数据结构是怎样的？](../集合类/✅HashMap的数据结构是怎样的？.md)
 
 
 

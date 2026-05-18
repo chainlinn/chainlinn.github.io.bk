@@ -25,7 +25,7 @@ categories:
 
 ****
 
-[✅什么情况会导致JVM退出？](https://www.yuque.com/hollis666/ec96i7/eimtbcv1d2wrwifr)
+[✅什么情况会导致JVM退出？](../JVM/✅什么情况会导致JVM退出？.md)
 
 ****
 

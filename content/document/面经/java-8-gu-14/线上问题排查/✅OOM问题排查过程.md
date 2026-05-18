@@ -6,7 +6,7 @@ categories:
   - 线上问题排查
 ---
 
-[✅OutOfMemory和StackOverflow的区别是什么](https://www.yuque.com/hollis666/ec96i7/rd8oyrewr8tcd9gc)
+[✅OutOfMemory和StackOverflow的区别是什么](../JVM/✅OutOfMemory和StackOverflow的区别是什么.md)
 
 
 

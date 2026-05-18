@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅final、finally、finalize有什么区别](https://www.yuque.com/hollis666/ec96i7/aptpcugzork18qpx)
+[✅final、finally、finalize有什么区别](../Java基础/✅final、finally、finalize有什么区别.md)
 
  
 
@@ -41,11 +41,11 @@ categories:
 
 
 
-[✅什么是守护线程，和普通线程有什么区别？](https://www.yuque.com/hollis666/ec96i7/dlg6vw)
+[✅什么是守护线程，和普通线程有什么区别？](../Java并发/✅什么是守护线程，和普通线程有什么区别？.md)
 
 # 扩展知识
 
 
 ## finally执行顺序
-[✅try中return A，catch中return B，finally中return C，最终返回值是什么？](https://www.yuque.com/hollis666/ec96i7/ltw8ngs7yntrdk3a)
+[✅try中return A，catch中return B，finally中return C，最终返回值是什么？](../Java基础/✅try中return A，catch中return B，finally中return C，最终返回值是什么？.md)
 

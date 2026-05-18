@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅Netty的线程模型是怎么样的？](https://www.yuque.com/hollis666/ec96i7/ind4ry)
+[✅Netty的线程模型是怎么样的？](../Netty/✅Netty的线程模型是怎么样的？.md)
 
 
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-[✅说说 Netty 的对象池技术？](https://www.yuque.com/hollis666/ec96i7/rt3r0dfeee6tkuh6)
+[✅说说 Netty 的对象池技术？](../Netty/✅说说 Netty 的对象池技术？.md)
 
 
 

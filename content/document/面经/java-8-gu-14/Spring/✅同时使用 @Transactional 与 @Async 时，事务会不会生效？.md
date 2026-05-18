@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅Spring的事务在多线程下生效吗？为什么？](https://www.yuque.com/hollis666/ec96i7/qi1vgi3yg8l663yy)
+[✅Spring的事务在多线程下生效吗？为什么？](../Spring/✅Spring的事务在多线程下生效吗？为什么？.md)
 
 
 

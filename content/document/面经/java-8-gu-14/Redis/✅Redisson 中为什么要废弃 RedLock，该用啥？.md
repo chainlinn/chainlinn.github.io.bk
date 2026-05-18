@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是RedLock，他解决了什么问题？](https://www.yuque.com/hollis666/ec96i7/lxzg0ubs2xpvenxw)
+[✅什么是RedLock，他解决了什么问题？](../Redis/✅什么是RedLock，他解决了什么问题？.md)
 
 
 

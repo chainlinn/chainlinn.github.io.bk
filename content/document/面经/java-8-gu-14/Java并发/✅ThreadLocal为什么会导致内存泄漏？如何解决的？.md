@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅什么是ThreadLocal，如何实现的？](https://www.yuque.com/hollis666/ec96i7/ihoye3)
+[✅什么是ThreadLocal，如何实现的？](../Java并发/✅什么是ThreadLocal，如何实现的？.md)
 
 
 
@@ -21,7 +21,7 @@ ThreadLocal的内存泄露问题是一个比较典型的问题，可以说这个
 
 ****
 
-[✅内存泄漏和内存溢出的区别是什么？](https://www.yuque.com/hollis666/ec96i7/ge1k2i2aumhsgvbc)
+[✅内存泄漏和内存溢出的区别是什么？](../JVM/✅内存泄漏和内存溢出的区别是什么？.md)
 
 
 
@@ -187,5 +187,5 @@ ThreadLocalMap底层使用数组来保存元素，使用“线性探测法”来
 ## 虚拟线程与ThreadLocal
 
 
-[✅为什么虚拟线程尽量避免使用ThreadLocal](https://www.yuque.com/hollis666/ec96i7/ehzum6hzexcsgxhn)
+[✅为什么虚拟线程尽量避免使用ThreadLocal](../Java并发/✅为什么虚拟线程尽量避免使用ThreadLocal.md)
 

@@ -85,7 +85,7 @@ spring:
 
 
 
-[✅为什么需要SpringCloud Gateway，他起到了什么作用？](https://www.yuque.com/hollis666/ec96i7/ow7cnpaa2du8zvv5)
+[✅为什么需要SpringCloud Gateway，他起到了什么作用？](../SpringCloud/✅为什么需要SpringCloud Gateway，他起到了什么作用？.md)
 
 
 

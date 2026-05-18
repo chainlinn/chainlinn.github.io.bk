@@ -24,7 +24,7 @@ categories:
 
 
 
-[✅MySQL的深度分页如何优化](https://www.yuque.com/hollis666/ec96i7/et8lo7l10rg7g7iy)
+[✅MySQL的深度分页如何优化](../MySQL/✅MySQL的深度分页如何优化.md)
 
 
 
@@ -55,7 +55,7 @@ categories:
 
 
 
-[✅如何在 Java 中实现高效的异步编程？如何避免回调地狱？](https://www.yuque.com/hollis666/ec96i7/pi2oou7n45oxtq7s)
+[✅如何在 Java 中实现高效的异步编程？如何避免回调地狱？](../Java并发/✅如何在 Java 中实现高效的异步编程？如何避免回调地狱？.md)
 
 
 
@@ -74,19 +74,19 @@ categories:
 
 
 
-[✅索引失效的问题是如何排查的，有哪些种情况？](https://www.yuque.com/hollis666/ec96i7/sgkrtodriyoliden)
+[✅索引失效的问题是如何排查的，有哪些种情况？](../场景题/✅索引失效的问题是如何排查的，有哪些种情况？.md)
 
 
 
-[✅为什么MySQL会选错索引，如何解决？](https://www.yuque.com/hollis666/ec96i7/ghy5i20ie717exee)
+[✅为什么MySQL会选错索引，如何解决？](../MySQL/✅为什么MySQL会选错索引，如何解决？.md)
 
 
 
-[✅设计索引的时候有哪些原则（考虑哪些因素）？](https://www.yuque.com/hollis666/ec96i7/ygxb9f)
+[✅设计索引的时候有哪些原则（考虑哪些因素）？](../MySQL/✅设计索引的时候有哪些原则（考虑哪些因素）？.md)
 
 
 
-[✅SQL执行计划分析的时候，要关注哪些信息？](https://www.yuque.com/hollis666/ec96i7/fho0bamf4qpcril5)
+[✅SQL执行计划分析的时候，要关注哪些信息？](../MySQL/✅SQL执行计划分析的时候，要关注哪些信息？.md)
 
 
 
@@ -94,11 +94,11 @@ join：
 
 
 
-[✅为什么大厂不建议使用多表join？](https://www.yuque.com/hollis666/ec96i7/qt4krg)
+[✅为什么大厂不建议使用多表join？](../MySQL/✅为什么大厂不建议使用多表join？.md)
 
 
 
-[✅什么是数据库范式，为什么要反范式？](https://www.yuque.com/hollis666/ec96i7/ebavvu)
+[✅什么是数据库范式，为什么要反范式？](../MySQL/✅什么是数据库范式，为什么要反范式？.md)
 
 
 
@@ -106,7 +106,7 @@ join：
 
 
 
-[✅MySQL的深度分页如何优化](https://www.yuque.com/hollis666/ec96i7/et8lo7l10rg7g7iy)
+[✅MySQL的深度分页如何优化](../MySQL/✅MySQL的深度分页如何优化.md)
 
 
 
@@ -114,7 +114,7 @@ select * :
 
 
 
-[✅为什么要尽量避免使用select * ？](https://www.yuque.com/hollis666/ec96i7/wgmpg7gsqhbc9vmi)
+[✅为什么要尽量避免使用select * ？](../MySQL/✅为什么要尽量避免使用select * ？.md)
 
 
 

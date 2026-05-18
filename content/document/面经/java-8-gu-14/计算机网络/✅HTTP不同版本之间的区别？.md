@@ -9,11 +9,11 @@ categories:
 # 典型回答
 
 
-[✅为什么需要HTTP/2，他解决了什么问题？](https://www.yuque.com/hollis666/ec96i7/hiqe1d)
+[✅为什么需要HTTP/2，他解决了什么问题？](../计算机网络/✅为什么需要HTTP/2，他解决了什么问题？.md)
 
 
 
-[✅什么是HTTP/3的QUIC协议？](https://www.yuque.com/hollis666/ec96i7/oa7mt1)
+[✅什么是HTTP/3的QUIC协议？](../计算机网络/✅什么是HTTP/3的QUIC协议？.md)
 
 
 
@@ -51,7 +51,7 @@ categories:
 
 
 
-[✅为什么需要HTTP/2，他解决了什么问题？](https://www.yuque.com/hollis666/ec96i7/hiqe1d)
+[✅为什么需要HTTP/2，他解决了什么问题？](../计算机网络/✅为什么需要HTTP/2，他解决了什么问题？.md)
 
 
 
@@ -66,12 +66,12 @@ categories:
 
 
 
-[✅什么是HTTP/3的QUIC协议？](https://www.yuque.com/hollis666/ec96i7/oa7mt1)
+[✅什么是HTTP/3的QUIC协议？](../计算机网络/✅什么是HTTP/3的QUIC协议？.md)
 
 
 
 ### HTTPS
 
 
-[✅HTTPS和HTTP的区别是什么？](https://www.yuque.com/hollis666/ec96i7/nixwqt)
+[✅HTTPS和HTTP的区别是什么？](../计算机网络/✅HTTPS和HTTP的区别是什么？.md)
 

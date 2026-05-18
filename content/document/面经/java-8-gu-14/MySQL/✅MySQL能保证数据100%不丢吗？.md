@@ -33,7 +33,7 @@ categories:
 
 
 
-[✅什么是事务的2阶段提交？](https://www.yuque.com/hollis666/ec96i7/geuks1bbiwd39h1r)
+[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
 
 
 
@@ -65,7 +65,7 @@ categories:
 
 
 
-[✅write和fsync的区别是什么？](https://www.yuque.com/hollis666/ec96i7/tepksitlo9sri5rd)
+[✅write和fsync的区别是什么？](../操作系统/✅write和fsync的区别是什么？.md)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 ****
 
-[✅并发编程中的原子性和数据库ACID的原子性一样吗？](https://www.yuque.com/hollis666/ec96i7/wsfbu382gg5l9ytx)
+[✅并发编程中的原子性和数据库ACID的原子性一样吗？](../Java并发/✅并发编程中的原子性和数据库ACID的原子性一样吗？.md)
 
 
 
@@ -49,7 +49,7 @@ categories:
 
 
 
-[✅什么是时间片](https://www.yuque.com/hollis666/ec96i7/vucgu8)
+[✅什么是时间片](../操作系统/✅什么是时间片.md)
 
 
 

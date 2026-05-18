@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅Redisson的watchdog机制是怎么样的？](https://www.yuque.com/hollis666/ec96i7/fg0f0wh41g8eu5ik)
+[✅Redisson的watchdog机制是怎么样的？](../Redis/✅Redisson的watchdog机制是怎么样的？.md)
 
 
 

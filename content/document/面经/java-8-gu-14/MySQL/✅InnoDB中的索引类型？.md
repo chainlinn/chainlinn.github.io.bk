@@ -27,23 +27,23 @@ InnoDB存储引擎支持两种常见的索引数据结构：**B+树索引、Hash
 
 # 扩展知识
 ## B+树索引和Hash索引
-[InnoDB为什么使用B+树实现索引？](https://www.yuque.com/hollis666/ec96i7/uh3cy1)
+[InnoDB为什么使用B+树实现索引？](../MySQL/✅InnoDB为什么使用B+树实现索引？.md)
 
 ## 聚簇索引和非聚簇索引
 
 
-[什么是聚簇索引和非聚簇索引？](https://www.yuque.com/hollis666/ec96i7/le8gbo472cpxv63z)
+[什么是聚簇索引和非聚簇索引？](../MySQL/✅什么是聚簇索引和非聚簇索引？.md)
 
 
 
 ## 唯一性索引
 
 
-[MySQL是如何保证唯一性索引的唯一性的？](https://www.yuque.com/hollis666/ec96i7/gliyvzp21uq8uakh)
+[MySQL是如何保证唯一性索引的唯一性的？](../MySQL/✅MySQL是如何保证唯一性索引的唯一性的？.md)
 
 
 
-[✅唯一索引和主键索引的区别？](https://www.yuque.com/hollis666/ec96i7/mot9do3w6rh5u03t)
+[✅唯一索引和主键索引的区别？](../MySQL/✅唯一索引和主键索引的区别？.md)
 
 
 

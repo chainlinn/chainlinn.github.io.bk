@@ -17,7 +17,7 @@ categories:
 
 ****
 
-[✅MySQL为什么会有存储（内存）碎片？有什么危害？](https://www.yuque.com/hollis666/ec96i7/dgehrxlnpsrdi83e)
+[✅MySQL为什么会有存储（内存）碎片？有什么危害？](../MySQL/✅MySQL为什么会有存储（内存）碎片？有什么危害？.md)
 
 
 

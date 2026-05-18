@@ -35,7 +35,7 @@ categories:
 
 
 
-[✅Dubbo支持哪些调用协议？](https://www.yuque.com/hollis666/ec96i7/lkqnmplc1rz02zmi)
+[✅Dubbo支持哪些调用协议？](../Dubbo/✅Dubbo支持哪些调用协议？.md)
 
 
 
@@ -43,7 +43,7 @@ categories:
 
 
 
-[✅Netty有哪些序列化协议？](https://www.yuque.com/hollis666/ec96i7/feghdunr7kut0y9k)
+[✅Netty有哪些序列化协议？](../Netty/✅Netty有哪些序列化协议？.md)
 
 
 
@@ -51,7 +51,7 @@ categories:
 
 
 
-[✅Dubbo实现服务调用的过程是什么样的？](https://www.yuque.com/hollis666/ec96i7/io1pkwin43mkwaup)
+[✅Dubbo实现服务调用的过程是什么样的？](../Dubbo/✅Dubbo的服务调用的过程是什么样的？.md)
 
 
 
@@ -59,7 +59,7 @@ categories:
 
 
 
-[✅什么是负载均衡，有哪些常见算法？](https://www.yuque.com/hollis666/ec96i7/dw07di)
+[✅什么是负载均衡，有哪些常见算法？](../分布式/✅什么是负载均衡，有哪些常见算法？.md)
 
 
 
@@ -67,7 +67,7 @@ categories:
 
 
 
-[✅Dubbo如何实现像本地方法一样调用远程方法的？](https://www.yuque.com/hollis666/ec96i7/hqnrwvt46ky1ar4n)
+[✅Dubbo如何实现像本地方法一样调用远程方法的？](../Dubbo/✅Dubbo如何实现像本地方法一样调用远程方法的？.md)
 
 
 

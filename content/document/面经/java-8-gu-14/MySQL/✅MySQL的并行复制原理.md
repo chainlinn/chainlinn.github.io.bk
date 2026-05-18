@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅MySQL主从复制的过程](https://www.yuque.com/hollis666/ec96i7/hoi4ql)
+[✅MySQL主从复制的过程](../MySQL/✅MySQL主从复制的过程.md)
 
 
 
@@ -45,7 +45,7 @@ categories:
 
 
 
-[✅介绍下MySQL 5.6中的组提交](https://www.yuque.com/hollis666/ec96i7/bb860tpuha0cuza2)
+[✅介绍下MySQL 5.6中的组提交](../MySQL/✅介绍下MySQL 5.6中的组提交.md)
 
 
 

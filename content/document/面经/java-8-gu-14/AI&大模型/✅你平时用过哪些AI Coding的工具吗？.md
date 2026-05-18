@@ -68,7 +68,7 @@ TRAE
 ## Claude Code国内不能用，你是怎么用的？
 
 
-[✅Claude Code国内不能用，你是怎么用的？](https://www.yuque.com/hollis666/ec96i7/bxgqgcwwn8r5cqtb)
+[✅Claude Code国内不能用，你是怎么用的？](../AI&大模型/✅Claude Code国内不能用，你是怎么用的？.md)
 
 
 

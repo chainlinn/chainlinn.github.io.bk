@@ -17,15 +17,15 @@ categories:
 
 
 
-[✅什么是Spring的循环依赖问题？](https://www.yuque.com/hollis666/ec96i7/xgbtp0)
+[✅什么是Spring的循环依赖问题？](../Spring/✅什么是Spring的循环依赖问题？.md)
 
 
 
-[✅三级缓存是如何解决循环依赖的问题的？](https://www.yuque.com/hollis666/ec96i7/ffk7dlcrwk35glpl)
+[✅三级缓存是如何解决循环依赖的问题的？](../Spring/✅三级缓存是如何解决循环依赖的问题的？.md)
 
 
 
-[✅Spring解决循环依赖一定需要三级缓存吗？](https://www.yuque.com/hollis666/ec96i7/edvhrik3pbw300os)
+[✅Spring解决循环依赖一定需要三级缓存吗？](../Spring/✅Spring解决循环依赖一定需要三级缓存吗？.md)
 
 
 

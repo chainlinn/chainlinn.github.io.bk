@@ -163,17 +163,17 @@ public class Application {
 ### 学习资料
 
 
-[✅ThreadLocal的应用场景有哪些？](https://www.yuque.com/hollis666/ec96i7/bpm9cgs19qwlgc1k)
+[✅ThreadLocal的应用场景有哪些？](../Java并发/✅ThreadLocal的应用场景有哪些？.md)
 
 
 
-[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](https://www.yuque.com/hollis666/ec96i7/bueq7weva8ha9f1p)
+[✅ThreadLocal为什么会导致内存泄漏？如何解决的？](../Java并发/✅ThreadLocal为什么会导致内存泄漏？如何解决的？.md)
 
 
 
-[✅父子线程之间怎么共享数据？](https://www.yuque.com/hollis666/ec96i7/adgan2125uzrsbte)
+[✅父子线程之间怎么共享数据？](../Java并发/✅父子线程之间怎么共享/传递数据？.md)
 
 
 
-[✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？](https://www.yuque.com/hollis666/ec96i7/fucuuyqoqv8rdkpr)
+[✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？](../Java并发/✅有了InheritableThreadLocal为啥还需要TransmittableThreadLocal？.md)
 

@@ -26,7 +26,7 @@ categories:
 ## 常见的Mybatis插件有哪些？
 常见的插件如PageHelper，用于分页使用
 
-[✅PageHelper分页的原理是什么？](https://www.yuque.com/hollis666/ec96i7/ogng83zwfrqblu5e)
+[✅PageHelper分页的原理是什么？](../MyBatis/✅PageHelper分页的原理是什么？.md)
 
 ## 自己有写过Mybatis插件吗？
 笔者之前在做应用迁移的时候，通过Mybatis插件机制完成过一个功能，可以通过注册中心一键切换应用的数据源，伪代码如下所示：

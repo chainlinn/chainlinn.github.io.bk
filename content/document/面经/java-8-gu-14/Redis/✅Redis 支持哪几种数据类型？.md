@@ -25,18 +25,18 @@ Redis 中支持了多种数据类型，其中比较常用的有五种：
 ## 字符串
 
 
-[✅Redis为什么要自己定义SDS？](https://www.yuque.com/hollis666/ec96i7/atppz6)
+[✅Redis为什么要自己定义SDS？](../Redis/✅Redis为什么要自己定义SDS？.md)
 
 ## 有序集合
-[Redis中的ZSet是怎么实现的？](https://www.yuque.com/hollis666/ec96i7/uzqztzuicddlk95c)
+[Redis中的ZSet是怎么实现的？](../Redis/✅Redis中的Zset是怎么实现的？.md)
 
 ## Streams
-[Redis 5.0中的 Stream是什么？](https://www.yuque.com/hollis666/ec96i7/qehw9x86oxl0r0sc)
+[Redis 5.0中的 Stream是什么？](../Redis/✅Redis 5.0中的 Stream是什么？.md)
 
 ## GEO
 
 
-[什么是GEO，有什么用？](https://www.yuque.com/hollis666/ec96i7/szth63)
+[什么是GEO，有什么用？](../Redis/✅什么是GEO，有什么用？.md)
 
 
 
@@ -46,17 +46,17 @@ Redis 中支持了多种数据类型，其中比较常用的有五种：
 ## 使用场景
 
 
-[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？](https://www.yuque.com/hollis666/ec96i7/ooqi2qfep22bcpag)
+[✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？](../场景题/✅Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做？.md)
 
 
 
-[✅如何用Redis实现朋友圈点赞功能？](https://www.yuque.com/hollis666/ec96i7/ncskb5a7o5a1nw32)
+[✅如何用Redis实现朋友圈点赞功能？](../场景题/✅如何用Redis实现朋友圈点赞功能？.md)
 
 
 
-[✅如何实现"查找附近的人"功能？](https://www.yuque.com/hollis666/ec96i7/ow77mcr961n4z7mg)
+[✅如何实现"查找附近的人"功能？](../场景题/✅如何实现"查找附近的人"功能？.md)
 
 
 
-[✅如何基于Redis实现滑动窗口限流？](https://www.yuque.com/hollis666/ec96i7/saoeievgraqwxgs1)
+[✅如何基于Redis实现滑动窗口限流？](../Redis/✅如何基于Redis实现滑动窗口限流？.md)
 

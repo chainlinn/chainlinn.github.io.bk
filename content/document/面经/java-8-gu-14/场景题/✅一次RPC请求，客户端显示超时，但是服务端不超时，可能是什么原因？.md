@@ -37,7 +37,7 @@ categories:
 
 
 
-[✅什么是TCP重传率，有什么用？如何查看？](https://www.yuque.com/hollis666/ec96i7/tk8w4sg1gw9cd0gg)
+[✅什么是TCP重传率，有什么用？如何查看？](../计算机网络/✅什么是TCP重传率，有什么用？如何查看？.md)
 
 
 

@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅synchronized的锁升级过程是怎样的？](https://www.yuque.com/hollis666/ec96i7/cv5kt1)
+[✅synchronized的锁升级过程是怎样的？](../Java并发/✅synchronized的锁升级过程是怎样的？.md)
 
 
 

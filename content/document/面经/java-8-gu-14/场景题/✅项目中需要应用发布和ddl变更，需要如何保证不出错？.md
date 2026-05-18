@@ -34,7 +34,7 @@ categories:
 
 
 
-[✅MySQL做索引更新的时候，会锁表吗？](https://www.yuque.com/hollis666/ec96i7/ue3wgwvc5x7nyugl)
+[✅MySQL做索引更新的时候，会锁表吗？](../MySQL/✅MySQL做索引更新的时候，会锁表吗？.md)
 
 
 

@@ -21,7 +21,7 @@ categories:
 
 
 
-[✅volatile能保证原子性吗？为什么？](https://www.yuque.com/hollis666/ec96i7/aylaul)
+[✅volatile能保证原子性吗？为什么？](../Java并发/✅volatile能保证原子性吗？为什么？.md)
 
 
 

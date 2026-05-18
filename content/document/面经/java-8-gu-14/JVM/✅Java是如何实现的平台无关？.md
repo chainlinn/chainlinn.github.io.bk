@@ -173,5 +173,5 @@ categories:
 ## 打破平台无关性
 
 
-[✅Java一定就是平台无关的吗？](https://www.yuque.com/hollis666/ec96i7/fgeranr7ts8m4iuy)
+[✅Java一定就是平台无关的吗？](../JVM/✅Java一定就是平台无关的吗？.md)
 

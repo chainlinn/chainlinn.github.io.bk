@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅binlog、redolog和undolog区别？](https://www.yuque.com/hollis666/ec96i7/tdlgfm)
+[✅binlog、redolog和undolog区别？](../MySQL/✅binlog、redolog和undolog区别？.md)
 
 
 
@@ -89,7 +89,7 @@ redolog和binlog的写入需要保证原子性，先写 redo log，后写 binlog
 
 
 
-[✅什么是事务的2阶段提交？](https://www.yuque.com/hollis666/ec96i7/geuks1bbiwd39h1r)
+[✅什么是事务的2阶段提交？](../MySQL/✅什么是事务的2阶段提交？.md)
 
 
 

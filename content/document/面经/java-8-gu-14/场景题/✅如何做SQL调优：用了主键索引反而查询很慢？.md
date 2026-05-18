@@ -232,7 +232,7 @@ LIMIT
 
 
 
-[✅MySQL的limit+order by为什么会数据重复？](https://www.yuque.com/hollis666/ec96i7/lfu2tb460vvvs1wg)
+[✅MySQL的limit+order by为什么会数据重复？](../MySQL/✅MySQL的limit+order by为什么会数据重复？.md)
 
 
 

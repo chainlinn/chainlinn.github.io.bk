@@ -9,7 +9,7 @@ categories:
 # 典型回答
 
 
-[✅如何理解AQS？](https://www.yuque.com/hollis666/ec96i7/qka9yt)
+[✅如何理解AQS？](../Java并发/✅如何理解AQS？.md)
 
 
 

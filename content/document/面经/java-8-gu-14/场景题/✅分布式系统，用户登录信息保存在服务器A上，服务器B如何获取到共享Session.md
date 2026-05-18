@@ -13,7 +13,7 @@ categories:
 
 
 
-[✅怎么实现分布式Session？](https://www.yuque.com/hollis666/ec96i7/xbgu80vgxnhhb438)
+[✅怎么实现分布式Session？](../分布式/✅怎么实现分布式Session？.md)
 
 
 

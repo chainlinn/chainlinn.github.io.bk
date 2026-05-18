@@ -21,7 +21,7 @@ Spring是一个非常强大的企业级Java开发框架（Java的腾飞他居功
 
 
 
-[✅Springboot是如何实现自动配置的？](https://www.yuque.com/hollis666/ec96i7/pe3y9ym4h8hyds3n)
+[✅Springboot是如何实现自动配置的？](../Spring/✅Springboot是如何实现自动配置的？.md)
 
 
 
@@ -29,7 +29,7 @@ Spring是一个非常强大的企业级Java开发框架（Java的腾飞他居功
 
 
 
-[✅SpringBoot是如何实现main方法启动Web项目的？](https://www.yuque.com/hollis666/ec96i7/xc2sq4)
+[✅SpringBoot是如何实现main方法启动Web项目的？](../Spring/✅SpringBoot是如何实现main方法启动Web项目的？.md)
 
 
 

@@ -192,11 +192,11 @@ for(int i=1;i<= threadPool.size();i++){
 ### 学习资料
 
 
-[✅订单到期关闭如何实现](https://www.yuque.com/hollis666/ec96i7/tg0ehg)
+[✅订单到期关闭如何实现](../场景题/✅订单到期关闭如何实现.md)
 
 
 
-[✅定时任务扫表的方案有什么缺点？](https://www.yuque.com/hollis666/ec96i7/bgr91vskph8odcsr)
+[✅定时任务扫表的方案有什么缺点？](../定时任务/✅定时任务扫表的方案有什么缺点？.md)
 
 
 

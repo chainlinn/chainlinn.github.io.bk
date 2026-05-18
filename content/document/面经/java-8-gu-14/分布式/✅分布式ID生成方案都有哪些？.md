@@ -56,7 +56,7 @@ UUID(Universally Unique Identifier)全局唯一标识符，是指在一台机器
 
 
 
-[✅什么是UUID，能保证唯一吗？](https://www.yuque.com/hollis666/ec96i7/pi2zfc9ykug141im)
+[✅什么是UUID，能保证唯一吗？](../Java基础/✅什么是UUID，能保证唯一吗？.md)
 
 
 
@@ -64,7 +64,7 @@ UUID(Universally Unique Identifier)全局唯一标识符，是指在一台机器
 
 
 
-[✅uuid和自增id做主键哪个好，为什么？](https://www.yuque.com/hollis666/ec96i7/uted9tvkngs62pmu)
+[✅uuid和自增id做主键哪个好，为什么？](../MySQL/✅uuid和自增id做主键哪个好，为什么？.md)
 
 ## 数据库自增
 
@@ -84,7 +84,7 @@ UUID(Universally Unique Identifier)全局唯一标识符，是指在一台机器
 
 
 
-[✅详细介绍下号段模式生成分布式ID的原理和优缺点？](https://www.yuque.com/hollis666/ec96i7/xa0g0rchewxdt64y)
+[✅详细介绍下号段模式生成分布式ID的原理和优缺点？](../分布式/✅详细介绍下号段模式生成分布式ID的原理和优缺点？.md)
 
 
 
@@ -115,14 +115,14 @@ Redis的好处就是可以借助集群解决单点故障的问题，并且他基
 
 
 
-[✅Redis的持久化机制是怎样的？](https://www.yuque.com/hollis666/ec96i7/zc5q70)
+[✅Redis的持久化机制是怎样的？](../Redis/✅Redis的持久化机制是怎样的？.md)
 
 
 
 ## 雪花算法
 
 
-[什么是雪花算法，怎么保证不重复的？](https://www.yuque.com/hollis666/ec96i7/rsocc4sd7v9i0pvc)
+[什么是雪花算法，怎么保证不重复的？](../分布式/✅什么是雪花算法，怎么保证不重复的？.md)
 
 
 

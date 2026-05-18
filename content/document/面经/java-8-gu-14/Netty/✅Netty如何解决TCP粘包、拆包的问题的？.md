@@ -7,7 +7,7 @@ categories:
 ---
 
 # 典型回答
-[什么是TCP的粘包、拆包问题？](https://www.yuque.com/hollis666/ec96i7/qotkxkmmhwo0i5os)
+[什么是TCP的粘包、拆包问题？](../计算机网络/✅什么是TCP的粘包、拆包问题？.md)
 
 
 

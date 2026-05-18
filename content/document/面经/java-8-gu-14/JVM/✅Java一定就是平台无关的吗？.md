@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅Java是如何实现的平台无关？](https://www.yuque.com/hollis666/ec96i7/wgcs7a)
+[✅Java是如何实现的平台无关？](../JVM/✅Java是如何实现的平台无关？.md)
 
 
 
@@ -34,7 +34,7 @@ categories:
 
 
 
-[✅什么是AOT编译？和JIT有啥区别？](https://www.yuque.com/hollis666/ec96i7/cy5i6guhszisviks)
+[✅什么是AOT编译？和JIT有啥区别？](../JVM/✅什么是AOT编译？和JIT有啥区别？.md)
 
 
 

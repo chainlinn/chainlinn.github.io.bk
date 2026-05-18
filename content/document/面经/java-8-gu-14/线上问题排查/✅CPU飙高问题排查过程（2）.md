@@ -6,7 +6,7 @@ categories:
   - 线上问题排查
 ---
 
-[✅什么是CPU利用率？怎么算的？](https://www.yuque.com/hollis666/ec96i7/hhmxp4xri441moiq)
+[✅什么是CPU利用率？怎么算的？](../操作系统/✅什么是CPU利用率？怎么算的？.md)
 
 
 

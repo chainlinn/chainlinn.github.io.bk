@@ -17,7 +17,7 @@ categories:
 
 
 
-[✅三级缓存是如何解决循环依赖的问题的？](https://www.yuque.com/hollis666/ec96i7/ffk7dlcrwk35glpl)
+[✅三级缓存是如何解决循环依赖的问题的？](../Spring/✅三级缓存是如何解决循环依赖的问题的？.md)
 
 
 
@@ -25,7 +25,7 @@ categories:
 
 
 
-[✅Spring默认支持循环依赖吗？如果发生如何解决？](https://www.yuque.com/hollis666/ec96i7/dzzz1gn5k0rdadvu)
+[✅Spring默认支持循环依赖吗？如果发生如何解决？](../Spring/✅Spring默认支持循环依赖吗？如果发生如何解决？.md)
 
 
 

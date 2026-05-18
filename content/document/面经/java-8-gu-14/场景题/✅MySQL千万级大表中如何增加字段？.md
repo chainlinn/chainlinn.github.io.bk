@@ -18,7 +18,7 @@ categories:
 
 
 
-[✅什么是OnlineDDL](https://www.yuque.com/hollis666/ec96i7/lwxtmggon7ir4zzz)
+[✅什么是OnlineDDL](../MySQL/✅什么是OnlineDDL.md)
 
 
 
@@ -44,7 +44,7 @@ ALGORITHM=INPLACE, LOCK=NONE;
 
 
 
-[✅MySQL做索引更新的时候，会锁表吗？](https://www.yuque.com/hollis666/ec96i7/ue3wgwvc5x7nyugl)
+[✅MySQL做索引更新的时候，会锁表吗？](../MySQL/✅MySQL做索引更新的时候，会锁表吗？.md)
 
 
 

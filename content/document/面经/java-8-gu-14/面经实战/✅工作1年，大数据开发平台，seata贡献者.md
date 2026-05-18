@@ -68,15 +68,15 @@ categories:
 
 
 
-[✅Redis实现分布锁的时候，哪些问题需要考虑？](https://www.yuque.com/hollis666/ec96i7/zrney050xgem0voc)
+[✅Redis实现分布锁的时候，哪些问题需要考虑？](../Redis/✅Redis实现分布锁的时候，哪些问题需要考虑？.md)
 
 
 
-[✅如何用Redisson实现分布式锁？](https://www.yuque.com/hollis666/ec96i7/gdsvngueclva39ve)
+[✅如何用Redisson实现分布式锁？](../Redis/✅如何用Redisson实现分布式锁？.md)
 
 
 
-[✅Redisson的watchdog机制是怎么样的？](https://www.yuque.com/hollis666/ec96i7/fg0f0wh41g8eu5ik)
+[✅Redisson的watchdog机制是怎么样的？](../Redis/✅Redisson的watchdog机制是怎么样的？.md)
 
 
 
@@ -89,7 +89,7 @@ categories:
 
 
 
-[✅如何解决接口幂等的问题？](https://www.yuque.com/hollis666/ec96i7/gz2qwl)
+[✅如何解决接口幂等的问题？](../分布式/✅如何解决接口幂等的问题？.md)
 
 
 
@@ -106,7 +106,7 @@ categories:
 
 
 
-[✅MySQL中like的模糊查询如何优化](https://www.yuque.com/hollis666/ec96i7/zrt2y30mhdgiremc)
+[✅MySQL中like的模糊查询如何优化](../MySQL/✅MySQL中like的模糊查询如何优化.md)
 
 
 
@@ -125,11 +125,11 @@ categories:
 
 
 
-[✅频繁FullGC问题排查](https://www.yuque.com/hollis666/ec96i7/iocmzc)
+[✅频繁FullGC问题排查](../线上问题排查/✅频繁FullGC问题排查.md)
 
 
 
-[✅频繁FullGC问题排查(2)](https://www.yuque.com/hollis666/ec96i7/zpkzwgx4o9g89s8x)
+[✅频繁FullGC问题排查(2)](../线上问题排查/✅频繁FullGC问题排查(2).md)
 
 
 
@@ -150,13 +150,13 @@ categories:
 
 
 
-[✅Seata的实现原理是什么](https://www.yuque.com/hollis666/ec96i7/qro9fl9lsiinx1tu)
+[✅Seata的实现原理是什么](../分布式/✅Seata的实现原理是什么.md)
 
 
 
-[✅Seata的AT模式和XA有什么区别？](https://www.yuque.com/hollis666/ec96i7/fzd9nmraf5krr4m0)
+[✅Seata的AT模式和XA有什么区别？](../分布式/✅Seata的AT模式和XA有什么区别？.md)
 
 
 
-[✅Seata的4种事务模式，各自适合的场景是什么？](https://www.yuque.com/hollis666/ec96i7/cx86tg6tdhmz1dm9)
+[✅Seata的4种事务模式，各自适合的场景是什么？](../分布式/✅Seata的4种事务模式，各自适合的场景是什么？.md)
 

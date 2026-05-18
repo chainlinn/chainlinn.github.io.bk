@@ -35,11 +35,11 @@ Java是一种面向对象的语言，而Java对象在JVM中的存储也是有一
 
 
 
-[✅什么是Class常量池，和运行时常量池关系是什么？](https://www.yuque.com/hollis666/ec96i7/orlw1aoulz0dhxr8)
+[✅什么是Class常量池，和运行时常量池关系是什么？](../JVM/✅什么是Class常量池，和运行时常量池关系是什么？.md)
 
 
 
-[✅字符串常量是什么时候进入到字符串常量池的？](https://www.yuque.com/hollis666/ec96i7/os0m38kyugpxvgsq)
+[✅字符串常量是什么时候进入到字符串常量池的？](../Java基础/✅字符串常量是什么时候进入到字符串常量池的？.md)
 
 
 
@@ -240,5 +240,5 @@ public static void main(String[] args) throws Exception {
 ### intern原理
 
 
-[✅String中intern的原理是什么？](https://www.yuque.com/hollis666/ec96i7/yr32wu44yxt5l8nh)
+[✅String中intern的原理是什么？](../Java基础/✅String中intern的原理是什么？.md)
 

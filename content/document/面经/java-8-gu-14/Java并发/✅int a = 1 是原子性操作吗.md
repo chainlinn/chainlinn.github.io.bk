@@ -81,7 +81,7 @@ a = 2;
 
 
 
-[✅有了synchronized为什么还需要volatile?](https://www.yuque.com/hollis666/ec96i7/nl3dfw)
+[✅有了synchronized为什么还需要volatile?](../Java并发/✅有了synchronized为什么还需要volatile_.md)
 
   
 里面讲的就是这个问题。

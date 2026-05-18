@@ -24,7 +24,7 @@ categories:
 
 <font style="color:rgb(64, 64, 64);"></font>
 
-[✅JVM如何判断对象是否存活？](https://www.yuque.com/hollis666/ec96i7/zcd5ur)
+[✅JVM如何判断对象是否存活？](../JVM/✅JVM如何判断对象是否存活？.md)
 
 
 
@@ -168,12 +168,12 @@ categories:
 ## 新生代和老年代的GC算法
 
 
-[✅新生代和老年代的GC算法](https://www.yuque.com/hollis666/ec96i7/batkyxxf61dx4kl7)
+[✅新生代和老年代的GC算法](../JVM/✅新生代和老年代的GC算法.md)
 
 
 
 ## 垃圾回收器有哪些？
 
 
-[✅新生代和老年代的垃圾回收器有何区别？](https://www.yuque.com/hollis666/ec96i7/nqra2l)
+[✅新生代和老年代的垃圾回收器有何区别？](../JVM/✅新生代和老年代的垃圾回收器有何区别？.md)
 
