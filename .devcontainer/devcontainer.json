@@ -1,0 +1,39 @@
+{
+  "name": "Hugo Blog",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/go:1": {
+      "version": "1.24"
+    },
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  },
+
+  "customizations": {
+    "jetbrains": {
+      "backend": "IntelliJ"
+    },
+    "vscode": {
+      "extensions": [
+        "tamasfe.even-better-toml",
+        "davidanson.vscode-markdownlint"
+      ]
+    }
+  },
+
+  "forwardPorts": [1313],
+
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Dev Server",
+      "onAutoForward": "notify"
+    }
+  },
+
+  "postCreateCommand": "git submodule update --init --recursive && hugo version",
+
+  "remoteUser": "vscode"
+}
